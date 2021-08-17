@@ -1,0 +1,1313 @@
+,OR,p,FDR
+Eosinophil counts,4.856974921630094,3.038715454308464e-10,True
+Multiple sclerosis,5.598441302884367,7.974044557869784e-08,True
+Crohn's disease,6.07717803030303,2.3977210347013244e-06,True
+"Allergic disease (asthma, hay fever or eczema)",7.404707233065442,3.0454331671940873e-06,True
+Height,2.3848388674215912,4.450759556688256e-06,True
+Eosinophil percentage of white cells,6.885149572649572,5.563505748567742e-06,True
+Sum eosinophil basophil counts,6.6066666666666665,7.813617887704805e-06,True
+Red blood cell count,3.113551536032156,1.064480705575822e-05,True
+Eczema,6.308672219500245,1.1397030421457238e-05,True
+Male-pattern baldness,4.317363234794428,1.5920586460935184e-05,True
+Chronic lymphocytic leukemia,12.112873134328359,2.197686372691229e-05,True
+Asthma,4.344593175853018,2.8771854009539277e-05,True
+Balding type 1,5.555315471045808,3.182283336503812e-05,True
+Eosinophil percentage of granulocytes,6.192814818769017,3.464387297133879e-05,True
+Hay fever and/or eczema,6.807905138339921,4.9091522909490605e-05,True
+Heel bone mineral density,2.5734742133373016,6.926852813910888e-05,True
+"Medication use (adrenergics, inhalants)",12.030555555555555,0.00010956417791600357,True
+Neutrophil percentage of granulocytes,5.8783321941216675,0.00012857356166646306,True
+Inflammatory bowel disease,4.586046511627907,0.00014329635093693235,True
+Asthma (moderate or severe),16.63682864450128,0.00017736786584911904,True
+Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular),15.942401960784315,0.0002052310451133781,True
+Lymphocyte counts,5.46302182665819,0.00020633068693939324,True
+Hypertension,6.0718984962406015,0.0002742310714431663,True
+"Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)",4.970469021424435,0.00037647435739996137,True
+Medication use (glucocorticoids),25.92302587923026,0.0003924989461238377,True
+Nonatopic asthma,8.582671957671957,0.0004656573252438466,True
+Respiratory diseases,6.5121583095757165,0.0005180117105813919,True
+Plasma omega-3 polyunsaturated fatty acid level (eicosapentaenoic acid),21.93149915777653,0.0005945095597617492,True
+Allergic rhinitis,7.876138433515482,0.000670472672352875,True
+Subcutaneous adipose tissue,11.244809688581315,0.000681455254089159,True
+Vitiligo,7.7485065710872165,0.0007184272406421807,True
+Nasal polyps,19.004379562043795,0.0008529060322279066,True
+Offspring birth weight,5.79089552238806,0.0009244786596811705,True
+Asthma (adult onset),7.27665544332211,0.0009362713989976221,True
+Asthma (childhood onset),4.186054089279896,0.0010916228298111256,True
+Celiac disease and Rheumatoid arthritis,16.76599398883641,0.0011731745337210438,True
+Urinary albumin excretion (no hypertensive medication),16.76599398883641,0.0011731745337210438,True
+Central corneal thickness,9.553676470588234,0.0011930352434406477,True
+Thiazide-induced adverse metabolic effects in hypertensive patients,8.303708439897699,0.0019269144816596911,False
+Appendicular lean mass,3.2100882723833544,0.0019615738063098313,False
+Medication use (calcium channel blockers),5.922267946959305,0.002206104826329039,False
+Survival in pancreatic cancer,12.950564034505641,0.0022768335041727173,False
+Lung function (FVC),2.6483318451172986,0.0024887176221390387,False
+Breast cancer,2.689493166287016,0.0031176451587998514,False
+Cognitive ability (MTAG),7.069172113289761,0.003325214033579352,False
+Selective IgA deficiency,10.548256285482562,0.003866487656710199,False
+Mean corpuscular hemoglobin,2.204192965206635,0.004051824866175048,False
+Microalbuminuria,10.170750782064651,0.004247787100392838,False
+White blood cell count,2.229561597973126,0.004594256516219377,False
+Biochemical measures,23.596014492753625,0.004772389271945966,False
+Number of sexual partners,6.153225806451613,0.005292094190541732,False
+Migraine - clinic-based,9.184365434424299,0.005525379213073309,False
+Pulse pressure,2.377352691508357,0.005834176427973901,False
+Systolic blood pressure,2.0601532062261203,0.006158281449677557,False
+Rheumatoid arthritis,3.871782029450065,0.006207126940604244,False
+Plateletcrit,3.394340121660936,0.006445983189392985,False
+Refractive error,2.6848908667090483,0.00647885627782932,False
+Lymphocyte percentage of white cells,4.516771488469602,0.006578367906568805,False
+Left ventricle wall thickness,18.87391304347826,0.006902745511506574,False
+Prostate cancer (SNP x SNP interaction),18.87391304347826,0.006902745511506574,False
+Asthma onset (childhood vs adult),8.372048089308716,0.007010422909579884,False
+Osteoarthritis (hip),8.372048089308716,0.007010422909579884,False
+Colorectal cancer or advanced adenoma,5.526001705029838,0.0075500067603591885,False
+Cognitive ability,7.905717761557177,0.008119554213492863,False
+Medication use (diuretics),5.369511184755592,0.008295329154760436,False
+Atopic asthma,4.234677155031138,0.00846861009115694,False
+Systemic lupus erythematosus and Systemic sclerosis,15.72584541062802,0.009386076907229075,False
+Schizophrenia,2.221830502894455,0.009688649705858638,False
+Hip circumference adjusted for BMI,3.4496380373581195,0.010393441681012833,False
+Plasma omega-6 polyunsaturated fatty acid levels (gamma-linolenic acid),14.51505016722408,0.010755194020553438,False
+Metabolite levels,1.885394500255687,0.011668673952257628,False
+"B-cell malignancies (chronic lymphocytic leukemia, Hodgkin lymphoma or multiple myeloma) (pleiotropy)",13.477225672877847,0.012206720372006541,False
+Type 1 diabetes,4.588944011339476,0.013784864714870804,False
+Waist-to-hip ratio adjusted for BMI,2.053479488457067,0.013860021625237176,False
+Primary biliary cholangitis,6.182323072040622,0.015159058960133863,False
+Asthma and hay fever,11.790760869565217,0.015349509214055696,False
+Systemic lupus erythematosus,2.817441092270425,0.016050286816163335,False
+Body mass index,1.7182489491906532,0.016668519618673806,False
+Rheumatoid arthritis (ACPA-positive),5.923813868613139,0.016874275964220285,False
+Response to tocilizumab in rheumatoid arthritis,11.096334185848253,0.017037100902223806,False
+Corneal structure,11.096334185848253,0.017037100902223806,False
+Lung function (FEV1/FVC),2.095934139784946,0.01834557667565966,False
+Tea consumption,5.685985401459854,0.018693779591304274,False
+Varicose veins,10.479066022544284,0.018799759387561364,False
+Adult asthma,10.479066022544284,0.018799759387561364,False
+Cardiovascular disease,2.7132852292020373,0.01915515683394676,False
+Intraocular pressure,2.6802264625707695,0.020277828953906646,False
+Fat-free mass,3.3622848200312987,0.02029189488537844,False
+Visceral adipose tissue/subcutaneous adipose tissue ratio,9.429710144927537,0.02254325610281735,False
+Nevus count or cutaneous melanoma,9.429710144927537,0.02254325610281735,False
+Osteoarthritis of the hip or knee,9.429710144927537,0.02254325610281735,False
+Waist circumference adjusted for body mass index,1.9001543209876544,0.024214705612481707,False
+Automobile speeding propensity,8.979986197377501,0.024520654886365043,False
+Diastolic blood pressure x alcohol consumption (light vs heavy) interaction (2df test),8.979986197377501,0.024520654886365043,False
+Chronic obstructive pulmonary disease,3.8038235294117646,0.02483174989364465,False
+Weight,3.1809876543209876,0.024837022342497437,False
+Hemoglobin levels,8.571146245059289,0.02656624077579595,False
+Melanoma,8.19785759294266,0.028678363147478098,False
+Mean arterial pressure x alcohol consumption (light vs heavy) interaction (2df test),8.19785759294266,0.028678363147478098,False
+Ulcerative colitis,3.037508846426044,0.029312839198043224,False
+Non-melanoma skin cancer,4.656694986239081,0.03057457275535707,False
+Pulmonary function decline,7.855676328502415,0.030855398315126646,False
+Self-reported allergy,7.855676328502415,0.030855398315126646,False
+Basal cell carcinoma,4.581233812102661,0.031811471635434664,False
+Keratinocyte cancer (MTAG),4.581233812102661,0.031811471635434664,False
+Risk-taking tendency (4-domain principal component model),4.508168230795968,0.033074299131725854,False
+Brown vs. black hair color,7.540869565217391,0.03309574915775294,False
+General risk tolerance (MTAG),2.9243353783231085,0.033531293514650826,False
+Total body bone mineral density,3.4239533651298357,0.034184764078875024,False
+Autoimmune traits (pleiotropy),7.2502787068004455,0.035397844738596,False
+Primary biliary cirrhosis,7.2502787068004455,0.035397844738596,False
+Mean corpuscular volume,2.3542012927054476,0.03635004837980394,False
+Hematocrit,3.333075335397317,0.03704627160276397,False
+Vascular endothelial growth factor levels,6.981213097155126,0.03776013994258316,False
+Squamous cell carcinoma,6.981213097155126,0.03776013994258316,False
+White blood cell count (basophil),4.175075139544869,0.039774397772205095,False
+Sjögren's syndrome,6.7313664596273295,0.04018111510561746,False
+Prostate-specific antigen levels,6.4987506246876565,0.04265927565855884,False
+IgG glycosylation,2.438488409018736,0.043739191873347065,False
+Psoriasis vulgaris,6.281642512077295,0.045193151766704034,False
+"Parental longevity (combined parental attained age, Martingale residuals)",6.078541374474053,0.04778129798518856,False
+Mean arterial pressure,3.037176470588235,0.048687694379521994,False
+Well-being spectrum (multivariate analysis),3.0128384687208216,0.04983549781347932,False
+Diastolic blood pressure,1.8927006196161402,0.05001376744659926,False
+Urinary albumin excretion,5.888134057971015,0.05042229290720057,False
+Hip circumference,2.988883742473367,0.05099816379570156,False
+Intelligence,2.3371306731647885,0.0514484882509991,False
+Celiac disease,3.733288513253938,0.05180568855401499,False
+Asthma or allergic disease (pleiotropy),5.709266578831796,0.05311473882919141,False
+Colonoscopy-negative controls vs population controls,3.6370016844469397,0.05505887877142903,False
+Osteoarthritis,5.540920716112532,0.05585726140559766,False
+Diastolic blood pressure (cigarette smoking interaction),5.540920716112532,0.05585726140559766,False
+Intelligence (MTAG),2.2801926621870727,0.05645026895489579,False
+Epithelial ovarian cancer,3.4585187822681145,0.06185067694278029,False
+Urinary albumin-to-creatinine ratio,3.4585187822681145,0.06185067694278029,False
+FEV1,2.768570201803349,0.06343652668550884,False
+Reaction time,2.0450667954289394,0.06563879900757433,False
+Systolic blood pressure (cigarette smoking interaction),4.956140350877193,0.06730143050009735,False
+Serum total protein level,4.956140350877193,0.06730143050009735,False
+Estimated glomerular filtration rate,1.914090909090909,0.06951657955972013,False
+Stroke,4.828688219992568,0.07027451578310673,False
+Medication use (beta blocking agents),4.828688219992568,0.07027451578310673,False
+Attention deficit hyperactivity disorder,3.258494840171155,0.07086051186465851,False
+Household income (MTAG),2.65117235705471,0.07159810369560887,False
+Prostate cancer,2.6325571895424837,0.07300839642527784,False
+Lobe attachment (rater-scored or self-reported),3.149148418491484,0.07653438299715527,False
+Basophil percentage of granulocytes,4.482746721877157,0.07944272996524226,False
+Adventurousness,3.0468566046621146,0.08240235334990967,False
+Ankylosing spondylitis,4.3781597573306374,0.0825777902608449,False
+Mean arterial pressure x alcohol consumption interaction (2df test),4.3781597573306374,0.0825777902608449,False
+Ischemic stroke,4.27832674571805,0.08575039755446831,False
+Basophil percentage of white cells,4.27832674571805,0.08575039755446831,False
+Waist-hip ratio,1.6350709194326445,0.09070277394726244,False
+Mosquito bite size,2.8608714886087148,0.0946968276350538,False
+Atrial fibrillation,2.3814280429152794,0.09582437745440389,False
+Medication use (thyroid preparations),2.832043795620438,0.09681565585494231,False
+Platelet count,1.9606093245114633,0.09705888986895618,False
+Brain region volumes,2.0988200589970503,0.10002970638002782,False
+Neutrophil percentage of white cells,2.776084156290253,0.1011109985465499,False
+Response to antidepressants (symptom remission),10.410871302957634,0.10136963379837312,False
+Asthma (time to onset),10.410871302957634,0.10136963379837312,False
+Homeostasis model assessment of beta-cell function,10.410871302957634,0.10136963379837312,False
+Pancreatic ductal adenocarcinoma,10.410871302957634,0.10136963379837312,False
+Resistant hypertension,10.410871302957634,0.10136963379837312,False
+Attention function in attention deficit hyperactive disorder,10.410871302957634,0.10136963379837312,False
+Physiological traits,10.410871302957634,0.10136963379837312,False
+Lung function (low FEV1 vs high FEV1),10.410871302957634,0.10136963379837312,False
+Methotrexate phramacokinetics (acute lymphoblastic leukemia),10.410871302957634,0.10136963379837312,False
+Response to antipsychotic therapy (extrapyramidal side effects),10.410871302957634,0.10136963379837312,False
+Aspartate aminotransferase levels in non-alcoholic fatty liver disease,10.410871302957634,0.10136963379837312,False
+Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 2 peripheral neuropathy),10.410871302957634,0.10136963379837312,False
+Caffeine consumption,10.410871302957634,0.10136963379837312,False
+Temperament,10.410871302957634,0.10136963379837312,False
+Lysophosphatidylcholine levels,10.410871302957634,0.10136963379837312,False
+Infant length,10.410871302957634,0.10136963379837312,False
+Midgestational circulating levels of PBDEs (fetal genetic effect),10.410871302957634,0.10136963379837312,False
+Cutaneous malignant melanoma,10.410871302957634,0.10136963379837312,False
+Age-related diseases and mortality,10.410871302957634,0.10136963379837312,False
+Smoking status,2.748919282828999,0.10328703845137535,False
+Monocyte percentage of white cells,2.307926829268293,0.10409669042599129,False
+Trauma exposure,3.7631884057971012,0.1055121371572744,False
+Systemic sclerosis,3.7631884057971012,0.1055121371572744,False
+Cognitive performance,2.0346526784295023,0.10987593553863974,False
+Response to anti-depressant treatment in major depressive disorder,9.369064748201438,0.11092735249781287,False
+Tonometry,9.369064748201438,0.11092735249781287,False
+Age-related cognitive decline (language) (slope of z-scores),9.369064748201438,0.11092735249781287,False
+Barrett's esophagus,9.369064748201438,0.11092735249781287,False
+Periodontal microbiota,9.369064748201438,0.11092735249781287,False
+Lupus nephritis in systemic lupus erythematosus,9.369064748201438,0.11092735249781287,False
+Corneal curvature,9.369064748201438,0.11092735249781287,False
+"Facial morphology (factor 4, facial height related to vertical position of gnathion)",9.369064748201438,0.11092735249781287,False
+Waist circumference adjusted for BMI in smokers,9.369064748201438,0.11092735249781287,False
+Infant head circumference (MTAG),9.369064748201438,0.11092735249781287,False
+Behcet's disease,9.369064748201438,0.11092735249781287,False
+Red blood cell fatty acid levels,9.369064748201438,0.11092735249781287,False
+"Facial morphology (factor 2, vertical position of orbits relative to midface)",9.369064748201438,0.11092735249781287,False
+"Facial morphology (factor 8, orbital inclination due to vertical and horizontal position of exocanthion)",9.369064748201438,0.11092735249781287,False
+Gestational age at birth (maternal effect),9.369064748201438,0.11092735249781287,False
+Cuneus cortex volume,9.369064748201438,0.11092735249781287,False
+Conotruncal heart defects (maternal effects),9.369064748201438,0.11092735249781287,False
+Congenital heart disease (maternal effect),9.369064748201438,0.11092735249781287,False
+Cutaneous squamous cell carcinoma,9.369064748201438,0.11092735249781287,False
+Limited cutaneous systemic scleroderma,9.369064748201438,0.11092735249781287,False
+Myopia (pathological),3.617892976588629,0.11235039428873111,False
+Corneal astigmatism,3.5493573967733116,0.11581199513865217,False
+Systolic blood pressure x alcohol consumption interaction (2df test),3.5493573967733116,0.11581199513865217,False
+Hemoglobin concentration,2.596397241009844,0.11672528273702876,False
+Blood pressure,3.483360171765969,0.1193006096625146,False
+Prostate-specific antigen levels (conditioned on lead SNPs),8.516677567037279,0.12038413495378844,False
+Interleukin-8 levels,8.516677567037279,0.12038413495378844,False
+Celiac disease or Rheumatoid arthritis,8.516677567037279,0.12038413495378844,False
+Esophageal cancer,8.516677567037279,0.12038413495378844,False
+Barrett's esophagus  or Esophageal adenocarcinoma,8.516677567037279,0.12038413495378844,False
+Word reading,8.516677567037279,0.12038413495378844,False
+Body mass index in physically inactive individuals,8.516677567037279,0.12038413495378844,False
+IgG N-glycosylation phenotypes (multivariate analysis),8.516677567037279,0.12038413495378844,False
+Prostate cancer (early onset),8.516677567037279,0.12038413495378844,False
+Non-alcoholic fatty liver disease histology (other),8.516677567037279,0.12038413495378844,False
+Response to abacavir-containing treatment in HIV-1 infection (virologic failure),8.516677567037279,0.12038413495378844,False
+Diastolic blood pressure x alcohol consumption interaction (2df test),3.419762845849802,0.12281528355802408,False
+"Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)",2.1610084033613446,0.12339329541081404,False
+Diverticular disease,2.526264337851929,0.12367901108312242,False
+Serum metabolite levels (CMS),3.3584368530020705,0.12635507949919633,False
+HIV-1 susceptibility,7.806354916067146,0.12974103952775123,False
+Benign prostatic hyperplasia and lower urinary tract symptoms,7.806354916067146,0.12974103952775123,False
+Lung function in never smokers (low FEV1 vs high FEV1),7.806354916067146,0.12974103952775123,False
+Benign prostatic hyperplasia and lower urinary tract symptoms (prostate cancer excluded),7.806354916067146,0.12974103952775123,False
+Esophageal adenocarcinoma,7.806354916067146,0.12974103952775123,False
+Serum metabolite ratios in chronic kidney disease,7.806354916067146,0.12974103952775123,False
+Macrophage Migration Inhibitory Factor levels,7.806354916067146,0.12974103952775123,False
+Breast Cancer in BRCA1 mutation carriers,7.806354916067146,0.12974103952775123,False
+Preeclampsia,7.806354916067146,0.12974103952775123,False
+Plasma anti-thyroglobulin and anti-thyroid peroxidase levels (bivariate analysis),7.806354916067146,0.12974103952775123,False
+Coronary artery disease in type 1 diabetes,7.806354916067146,0.12974103952775123,False
+Progressive supranuclear palsy,7.806354916067146,0.12974103952775123,False
+Psoriasis,2.459790542684862,0.13078027581000418,False
+Low density lipoprotein cholesterol levels,2.088397790055249,0.13451914328638326,False
+Serum metabolite levels,2.4173685195583006,0.1355931070494436,False
+Alcohol consumption (drinks per week),2.4173685195583006,0.1355931070494436,False
+Waist circumference adjusted for BMI in non-smokers,3.1869319577499384,0.13711607553208682,False
+Hand grip strength,2.396696771000866,0.13802237224621677,False
+Thyroid hormone levels,7.205312672938573,0.13899911357701036,False
+IgA levels,7.205312672938573,0.13899911357701036,False
+Blood sugar levels,7.205312672938573,0.13899911357701036,False
+Proliferative diabetic retinopathy (vs no DR),7.205312672938573,0.13899911357701036,False
+Morningness,2.0538682864450126,0.14023187276689583,False
+Mouth ulcers,3.1335748792270532,0.1407473170141075,False
+Lung function (FEV1),3.081967213114754,0.1443992397993336,False
+Amyotrophic lateral sclerosis (sporadic),3.081967213114754,0.1443992397993336,False
+Blond vs. brown/black hair color,2.336731616094589,0.14539857481627555,False
+Uterine fibroids,3.0320243104254323,0.1480710032541719,False
+Iron status biomarkers (iron levels),6.690133607399795,0.14815939354208493,False
+Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid),6.690133607399795,0.14815939354208493,False
+Plasma omega-3 polyunsaturated fatty acid levels (docosapentaenoic acid),6.690133607399795,0.14815939354208493,False
+Triglyceride change in response to fenofibrate in statin-treated type 2 diabetes,6.690133607399795,0.14815939354208493,False
+DHEAS levels,6.690133607399795,0.14815939354208493,False
+Plasma omega-6 polyunsaturated fatty acid levels (dihomo-gamma-linolenic acid),6.690133607399795,0.14815939354208493,False
+Facial morphology,6.690133607399795,0.14815939354208493,False
+Autoimmune traits,2.9836668967103748,0.15176178203763685,False
+Inflammatory skin disease,2.936820652173913,0.15547076587533248,False
+Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),6.2436450839328534,0.15722290508624873,False
+Extremely high intelligence,6.2436450839328534,0.15722290508624873,False
+Verbal declarative memory,6.2436450839328534,0.15722290508624873,False
+Plasma omega-3 polyunsaturated fatty acid levels (alphalinolenic acid),6.2436450839328534,0.15722290508624873,False
+Spatial memory,6.2436450839328534,0.15722290508624873,False
+Major depressive disorder in trauma exposed individuals,6.2436450839328534,0.15722290508624873,False
+Facial morphology (factor 19),6.2436450839328534,0.15722290508624873,False
+Insomnia,1.9567205120390125,0.15793452510094846,False
+Hypothyroidism,2.243135210288495,0.157971986243021,False
+Squamous cell lung carcinoma,2.847386912604304,0.16294018167334387,False
+Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction),2.847386912604304,0.16294018167334387,False
+Glycemic traits (pleiotropy),5.85296762589928,0.16619066318503548,False
+Response to paliperidone in schizophrenia (CGI-S score),5.85296762589928,0.16619066318503548,False
+C-reactive protein levels or total cholesterol levels (pleiotropy),5.85296762589928,0.16619066318503548,False
+Spontaneous preterm birth (preterm birth),5.85296762589928,0.16619066318503548,False
+Hypospadias,5.85296762589928,0.16619066318503548,False
+Motion sickness,5.85296762589928,0.16619066318503548,False
+Simvastatin-induced myopathy,5.85296762589928,0.16619066318503548,False
+Personality dimensions,5.85296762589928,0.16619066318503548,False
+Kawasaki disease,5.85296762589928,0.16619066318503548,False
+Waist circumference adjusted for BMI (joint analysis main effects and physical activity interaction),2.8046722907203114,0.16669906643196675,False
+Educational attainment (MTAG),1.4091328413284132,0.16722070059402244,False
+Birth weight,1.8968371268105233,0.17017670530552098,False
+Waist circumference adjusted for BMI (adjusted for smoking behaviour),2.722957361898761,0.17426142851620538,False
+Lung cancer in ever smokers,2.722957361898761,0.17426142851620538,False
+Itch intensity from mosquito bite,2.722957361898761,0.17426142851620538,False
+Caudate nucleus volume,5.50825222175201,0.17506367224223326,False
+Bronchopulmonary dysplasia,5.50825222175201,0.17506367224223326,False
+C-reactive protein levels or LDL-cholesterol levels (pleiotropy),5.50825222175201,0.17506367224223326,False
+Waist-to-hip ratio adjusted for BMI x sex interaction,5.50825222175201,0.17506367224223326,False
+Highest math class taken (MTAG),1.4329240037071362,0.18016200483214745,False
+Iron status biomarkers (total iron binding capacity),5.2018385291766585,0.18384292620247986,False
+Self-reported risk-taking behaviour,5.2018385291766585,0.18384292620247986,False
+Alcohol dependence (age at onset),5.2018385291766585,0.18384292620247986,False
+Gamma glutamyl transferase levels in low alcohol consumption,5.2018385291766585,0.18384292620247986,False
+Medication use (agents acting on the renin-angiotensin system),2.0765886646629457,0.18405634065738047,False
+Major depressive disorder in trauma-unexposed individuals,4.9276789095039755,0.19252940866694918,False
+Breast cancer specific mortality in breast cancer,4.9276789095039755,0.19252940866694918,False
+Liver enzyme levels (gamma-glutamyl transferase),4.9276789095039755,0.19252940866694918,False
+Response to paliperidone in schizophrenia (Multivariate),4.9276789095039755,0.19252940866694918,False
+Response to cognitive-behavioural therapy in anxiety disorder,4.9276789095039755,0.19252940866694918,False
+Chin dimples,4.9276789095039755,0.19252940866694918,False
+Peginterferon alfa-2a treatment response in chronic hepatitis B infection,4.9276789095039755,0.19252940866694918,False
+Free thyroxine concentration,4.9276789095039755,0.19252940866694918,False
+Eudaimonic well-being,4.9276789095039755,0.19252940866694918,False
+Antipsychotic drug-induced QTc interval change in schizophrenia,4.9276789095039755,0.19252940866694918,False
+Body fat distribution (leg fat ratio),2.537994516255386,0.1933939598028792,False
+Tuberculosis,2.537994516255386,0.1933939598028792,False
+Tonsillectomy,2.0166319082377475,0.19479668076198037,False
+Depressive symptoms,1.987920222062301,0.2002248446427005,False
+Inflammatory biomarkers,4.680935251798561,0.20112409298458664,False
+Familial lung adenocarcinoma,4.680935251798561,0.20112409298458664,False
+Information processing speed,4.680935251798561,0.20112409298458664,False
+Allergic sensitization,4.680935251798561,0.20112409298458664,False
+Hodgkin's lymphoma,4.680935251798561,0.20112409298458664,False
+Interleukin-17 levels,4.680935251798561,0.20112409298458664,False
+Bitter non-alcoholic beverage consumption,4.457690990065091,0.2096279423584196,False
+Birth length (MTAG),4.457690990065091,0.2096279423584196,False
+Rubella,4.457690990065091,0.2096279423584196,False
+Photic sneeze reflex,4.457690990065091,0.2096279423584196,False
+Cerebrospinal P-tau181p levels,4.457690990065091,0.2096279423584196,False
+Graves' disease,4.457690990065091,0.2096279423584196,False
+Allergy,4.457690990065091,0.2096279423584196,False
+Hematology traits,4.457690990065091,0.2096279423584196,False
+Endometrial cancer (endometrioid histology),4.457690990065091,0.2096279423584196,False
+Serum metabolite concentrations in chronic kidney disease,4.457690990065091,0.2096279423584196,False
+Hallux valgus,4.457690990065091,0.2096279423584196,False
+Metastasis in stage I-III microsatellite instability low/stable colorectal cancer (time to event),4.457690990065091,0.2096279423584196,False
+Hemoglobin,4.457690990065091,0.2096279423584196,False
+Uterine fibroids (multi-trait analysis),4.254741661216482,0.21804190997349068,False
+Myringotomy,4.254741661216482,0.21804190997349068,False
+Gut microbiome composition (summer),4.254741661216482,0.21804190997349068,False
+Coffee consumption,2.3174091966362496,0.22059234060079186,False
+Body fat distribution (trunk fat ratio),2.3174091966362496,0.22059234060079186,False
+Alanine aminotransferase levels in excessive alcohol consumption,4.069440100093838,0.22636693906560124,False
+Cerebrospinal T-tau levels,4.069440100093838,0.22636693906560124,False
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies),4.069440100093838,0.22636693906560124,False
+Bitter beverage consumption,4.069440100093838,0.22636693906560124,False
+Methadone dose in opioid dependence,4.069440100093838,0.22636693906560124,False
+Monokine induced by gamma interferon levels,4.069440100093838,0.22636693906560124,False
+HDL cholesterol,1.6742483660130718,0.22664189668520218,False
+Educational attainment (college completion),3.899580335731415,0.23460396306295223,False
+HIV-1 control,3.899580335731415,0.23460396306295223,False
+Resting-state electroencephalogram vigilance,3.899580335731415,0.23460396306295223,False
+QRS duration in Tripanosoma cruzi seropositivity,3.899580335731415,0.23460396306295223,False
+Colorectal or endometrial cancer,3.899580335731415,0.23460396306295223,False
+Blood metabolite levels,1.8193548387096774,0.2363062152153157,False
+Peak expiratory flow,2.1818335018537245,0.24021091250142912,False
+Platelet distribution width,1.7958993909526244,0.24196072398704688,False
+Emphysema annual change measurement in smokers (adjusted lung density),3.7433093525179855,0.242753905651839,False
+Prudent dietary pattern,3.7433093525179855,0.242753905651839,False
+Gastroesophageal reflux disease,3.7433093525179855,0.242753905651839,False
+Polycystic ovary syndrome,3.7433093525179855,0.242753905651839,False
+Mean platelet volume,1.6087229763700353,0.24722791590711074,False
+Anorexia nervosa,3.599059214167128,0.25081768090517914,False
+Primary sclerosing cholangitis,3.599059214167128,0.25081768090517914,False
+Maximum habitual alcohol consumption,3.599059214167128,0.25081768090517914,False
+Moyamoya disease,3.599059214167128,0.25081768090517914,False
+Mental health study participation (completed survey),3.599059214167128,0.25081768090517914,False
+General cognitive ability,1.3238279534149324,0.2573759632971918,False
+Hair color,1.4856875803248042,0.25798055301031997,False
+Fasting blood glucose (BMI interaction),3.465494271249667,0.25879619335388765,False
+Systolic blood pressure x alcohol consumption (light vs heavy) interaction (2df test),3.465494271249667,0.25879619335388765,False
+Asthma (age of onset),3.465494271249667,0.25879619335388765,False
+Interleukin-6 levels,3.465494271249667,0.25879619335388765,False
+Immune response to smallpox vaccine (IL-6),3.465494271249667,0.25879619335388765,False
+Health literacy,3.465494271249667,0.25879619335388765,False
+Triglycerides,1.554569761789013,0.26586173772761035,False
+Fasting plasma glucose,3.341469681397739,0.2666903381145421,False
+Nicotine dependence,3.341469681397739,0.2666903381145421,False
+Multisite chronic pain,3.341469681397739,0.2666903381145421,False
+Sitting height ratio,3.341469681397739,0.2666903381145421,False
+3-month functional outcome in ischaemic stroke (modified Rankin score),3.225998511535599,0.2745010009786927,False
+Autism spectrum disorder,3.225998511535599,0.2745010009786927,False
+Pulse pressure x alcohol consumption interaction (2df test),3.225998511535599,0.2745010009786927,False
+Arterial stiffness index,3.225998511535599,0.2745010009786927,False
+Smoking initiation (ever regular vs never regular),1.5225053584186712,0.2776407501809173,False
+Colorectal cancer,1.6470738891023178,0.28208135425973296,False
+Trans fatty acid levels,3.1182254196642685,0.2822290584968663,False
+Response to paliperidone in schizophrenia (PANSS score),3.1182254196642685,0.2822290584968663,False
+Mumps,3.1182254196642685,0.2822290584968663,False
+Neuroticism,1.4168897813476127,0.2885267760145074,False
+Endometrial cancer,3.017405430494314,0.2898753780607416,False
+"Number of decayed, missing and filled tooth surfaces or use of dentures",3.017405430494314,0.2898753780607416,False
+Dentures,3.017405430494314,0.2898753780607416,False
+Urinary sodium excretion,3.017405430494314,0.2898753780607416,False
+DNA methylation variation (age effect),1.485700999767496,0.29188704469705656,False
+Major depressive disorder,1.6089259645464025,0.29366883009441347,False
+QT interval,1.8743478260869566,0.2953867092391073,False
+Neurofibrillary tangles,2.922886690647482,0.29744081806762473,False
+Alanine aminotransferase (ALT) levels after remission induction therapy in actute lymphoblastic leukemia (ALL),2.922886690647482,0.29744081806762473,False
+Cerebrospinal fluid t-tau:AB1-42 ratio,2.922886690647482,0.29744081806762473,False
+Sleep duration,1.8373117362887184,0.3032475351451233,False
+Age-related macular degeneration,2.834096359276215,0.30492622791660706,False
+Intake of total sugars,2.834096359276215,0.30492622791660706,False
+Psoriatic arthritis,2.834096359276215,0.30492622791660706,False
+Monobrow,2.834096359276215,0.30492622791660706,False
+Immature fraction of reticulocytes,1.8193330519206417,0.30717251643468374,False
+Alzheimer disease and age of onset,1.8193330519206417,0.30717251643468374,False
+Educational attainment (years of education),1.2191196273246716,0.3104799486286661,False
+Macular thickness,1.8017001114827202,0.3110933910164235,False
+Hippocampal volume,2.750528988573847,0.3123324481867316,False
+Triglyceride levels x long total sleep time interaction (2df test),2.750528988573847,0.3123324481867316,False
+Bone mineral density,2.671736896197328,0.31966031066215844,False
+CTACK levels,2.671736896197328,0.31966031066215844,False
+Coronary artery calcified atherosclerotic plaque (90 or 130 HU threshold) in type 2 diabetes,2.671736896197328,0.31966031066215844,False
+Diffusing capacity of carbon monoxide,2.671736896197328,0.31966031066215844,False
+Blood urea nitrogen levels,1.7344337090713902,0.32672885633109794,False
+Gut microbiota (functional units),2.597322142286171,0.32691063848765356,False
+Spherical equivalent or myopia (age of diagnosis),1.702635046113307,0.3345131089531704,False
+Fasting blood glucose,2.4602423324498295,0.3411819397762203,False
+Myocardial infarction,2.4602423324498295,0.3411819397762203,False
+Acute lymphoblastic leukemia (childhood),2.4602423324498295,0.3411819397762203,False
+Plantar warts,2.4602423324498295,0.3411819397762203,False
+Pediatric autoimmune diseases,2.4602423324498295,0.3411819397762203,False
+Alcohol consumption (drinks per week) (MTAG),1.671972049689441,0.3422716699835179,False
+Core binding factor acute myeloid leukemia,1.1905086064378099,0.34624219847099424,False
+Gut microbiota (beta diversity),2.3969747279099796,0.3482045169399393,False
+Aspartate aminotransferase levels,2.3969747279099796,0.3482045169399393,False
+Obesity,2.3969747279099796,0.3482045169399393,False
+Albumin-globulin ratio,2.3368705035971225,0.35515276696384096,False
+Gamma glutamyl transferase levels,2.3368705035971225,0.35515276696384096,False
+Experiencing mood swings,2.3368705035971225,0.35515276696384096,False
+Post bronchodilator FEV1/FVC ratio,1.3396008403361344,0.35689696454525194,False
+Femoral neck bone mineral density,2.27969819266538,0.36202747094599763,False
+"Age-related diseases, mortality and associated endophenotypes",2.27969819266538,0.36202747094599763,False
+Monocyte chemoattractant protein-1 levels,2.225248372730387,0.36882940179741747,False
+Shingles,2.225248372730387,0.36882940179741747,False
+Venous thromboembolism,1.5595410628019324,0.3730029474591736,False
+Alcohol dependence,2.1733311025598128,0.37555932440241124,False
+Self-reported math ability (MTAG),1.2183562705950766,0.37928022487400015,False
+Feeling miserable,2.1237737083060826,0.38221799562818076,False
+Parental longevity (mother's age at death),2.1237737083060826,0.38221799562818076,False
+Non-albumin protein levels,2.0764188649080735,0.388806164478093,False
+Testicular germ cell tumor,2.0764188649080735,0.388806164478093,False
+Lumbar spine bone mineral density,2.0764188649080735,0.388806164478093,False
+Highest math class taken,1.3436244892257185,0.3923696698534791,False
+Type 2 diabetes,1.1995035483562995,0.3926442858345554,False
+Smoking behaviour (cigarettes smoked per day),2.031122927744761,0.3953245721190344,False
+Sum neutrophil eosinophil counts,1.4845870715435934,0.3956754501904162,False
+Granulocyte count,1.4845870715435934,0.3956754501904162,False
+Smoking status (ever vs never smokers),1.4845870715435934,0.3956754501904162,False
+Total cholesterol levels,1.2612398494751436,0.3979666199156098,False
+Gout,1.9877544772692484,0.40177395195625254,False
+Positive affect,1.4497247500280868,0.40687333606862586,False
+Cognitive function,1.9461930455635492,0.40815502980400725,False
+Myopia,1.9461930455635492,0.40815502980400725,False
+Cognitive performance (MTAG),1.2038465200418929,0.408421558111681,False
+Autism spectrum disorder or schizophrenia,1.427370284323487,0.4142836459497986,False
+Body fat distribution (arm fat ratio),1.9063279988254294,0.41446852384527816,False
+PR interval,1.8680575539568345,0.42071514479910765,False
+Adverse response to drug,1.8680575539568345,0.42071514479910765,False
+High density lipoprotein cholesterol levels,1.2578966318614775,0.43223051856306044,False
+Sum basophil neutrophil counts,1.3743606138107416,0.4326065605297097,False
+Velopharyngeal dysfunction,1.7291500133226752,0.4450468535711287,False
+Pursuit maintenance gain,1.7291500133226752,0.4450468535711287,False
+Metabolic traits,1.7291500133226752,0.4450468535711287,False
+Educational attainment,1.7291500133226752,0.4450468535711287,False
+High light scatter reticulocyte percentage of red cells,1.3346790890269151,0.4470454445907383,False
+Itch intensity from mosquito bite adjusted by bite size,1.3156766687078996,0.4541884738146014,False
+Depression (broad),1.667137718396711,0.45682940949560535,False
+Alcohol consumption,1.667137718396711,0.45682940949560535,False
+High light scatter reticulocyte count,1.279233670835815,0.46831643260168465,False
+Reticulocyte fraction of red cells,1.279233670835815,0.46831643260168465,False
+Cigarettes smoked per day (MTAG),1.6094021334656412,0.4683635517937656,False
+Heart rate in heart failure with reduced ejection fraction,1.6094021334656412,0.4683635517937656,False
+Body mass index (joint analysis main effects and physical activity interaction),1.6094021334656412,0.4683635517937656,False
+Sunburns,1.6094021334656412,0.4683635517937656,False
+White matter microstructure (mean diusivities),1.5820021948542862,0.47403909722343207,False
+Self-reported math ability,1.125177179305457,0.4807987533116451,False
+Coronary heart disease,1.5298973935605613,0.4852103360559572,False
+"Coronary artery disease (myocardial infarction, percutaneous transluminal coronary angioplasty, coronary artery bypass grafting, angina or chromic ischemic heart disease)",1.5298973935605613,0.4852103360559572,False
+Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes,1.5298973935605613,0.4852103360559572,False
+Granulocyte percentage of myeloid white cells,1.2200435729847494,0.49251401369305936,False
+Post bronchodilator FEV1/FVC ratio in COPD,1.4811008336188192,0.4961459604287513,False
+Vertical cup-disc ratio (multi-trait analysis),1.4353071389042613,0.5068509047157207,False
+Waist circumference adjusted for BMI in active individuals,1.4134510573359493,0.5121183857129489,False
+Subjective well-being,1.4134510573359493,0.5121183857129489,False
+Bitter alcoholic beverage consumption,1.3922473961129604,0.5173300007033542,False
+Neutrophil count,1.1587001530290755,0.5193120190164561,False
+Lung adenocarcinoma,1.3716673719847652,0.5224863379533465,False
+Post bronchodilator FEV1,1.1443051480394772,0.52586442985164,False
+Morning vs. evening chronotype,1.3516838702950682,0.5275879796522778,False
+Rosacea symptom severity,1.3516838702950682,0.5275879796522778,False
+Monocyte count,1.1372393071756806,0.5291182266435202,False
+Alzheimer's disease,1.313405613537339,0.537629474474162,False
+Depressed affect,1.313405613537339,0.537629474474162,False
+Bipolar disorder and schizophrenia,1.313405613537339,0.537629474474162,False
+Morning person,1.1098171152518979,0.5419828138525624,False
+Obesity-related traits,1.0143294417206166,0.5453545503003855,False
+Body fat percentage,1.2598677814505153,0.5522957066584501,False
+Optic disc size,1.21050172848734,0.5664999490365509,False
+Myopia (age of diagnosis),1.1948902416528315,0.5711345429445407,False
+White matter microstructure (radial diusivities),1.1503685940136779,0.584745200877737,False
+Estimated glomerular filtration rate in non-diabetics,1.1503685940136779,0.584745200877737,False
+Resting heart rate,1.1362519740305317,0.589186089416938,False
+Parkinson's disease or first degree relation to individual with Parkinson's disease,1.1090270640630353,0.597926893058401,False
+LDL cholesterol,0.9955824226923972,0.5997375335636526,False
+Creatinine levels,1.0830684289777481,0.6064830207139695,False
+Chronotype,0.9422716512132571,0.6195846534578096,False
+C-reactive protein levels,0.9361386872129205,0.6206939363822976,False
+LDL cholesterol levels,1.0346123101518785,0.6230566647392957,False
+Serum uric acid levels,0.9694994004796164,0.6466263317254837,False
+Depression,0.9211482299309067,0.6651455579858364,False
+Metabolic syndrome,0.8943691200885445,0.6757911421061655,False
+Life satisfaction,0.885782802329565,0.6792644540125372,False
+Smoking initiation (ever regular vs never regular) (MTAG),0.857911220043573,0.6855886558888146,False
+Night sleep phenotypes,0.8451929365598431,0.6960845475647128,False
+Neurociticism,0.8451929365598431,0.6960845475647128,False
+Age of smoking initiation (MTAG),0.7741606714628297,0.7271417201494728,False
+Lung cancer,0.7677031928176468,0.730068486847934,False
+Adolescent idiopathic scoliosis,0.8336053311573507,0.7312300487646328,False
+Coronary artery disease,0.7865842310953041,0.7339386561687653,False
+"Cholesterol, total",0.7429064748201439,0.7414671167328815,False
+Myeloid white cell count,0.6977876345540109,0.7628501482615916,False
+Waist circumference,0.6673567620723565,0.7777263516550559,False
+Triglyceride levels,0.6439348521183054,0.7894126421187828,False
+Reticulocyte count,0.6394443066236666,0.7916756318496296,False
+3-hydroxypropylmercapturic acid levels in smokers,0.6394443066236666,0.7916756318496296,False
+3-hydroxy-1-methylpropylmercapturic acid levels in smokers,0.6306465032055988,0.7961294277968605,False
+Predicted visceral adipose tissue,0.6306465032055988,0.7961294277968605,False
+Menarche (age at onset),0.588970690373663,0.8519025889319576,False
+Red cell distribution width,0.6728213507625272,0.8594368427918544,False
+Bipolar disorder,0.4811525779376499,0.8747446896011115,False
+Urate levels,0.42290937891888325,0.905544763602095,False
+Blood protein levels,0.10760424571166259,0.9999995540273637,False
+Lateral ventricle temporal horn volume,0.0,1.0,False
+Response to antipsychotic treatment,0.0,1.0,False
+Pallidum volume,0.0,1.0,False
+Familial squamous cell lung carcinoma,0.0,1.0,False
+Bone mineral density (spine),0.0,1.0,False
+Childhood steroid-sensitive nephrotic syndrome,0.0,1.0,False
+Social science traits (pleiotropy) (HIPO component 1),0.0,1.0,False
+Coenzyme Q10 levels,0.0,1.0,False
+Alzheimer's disease progression score,0.0,1.0,False
+Lateral ventricle volume,0.0,1.0,False
+Response to antidepressants (symptom improvement),0.0,1.0,False
+Bisphosphonate-associated atypical femoral fracture,0.0,1.0,False
+Ankle injury,0.0,1.0,False
+Atypical femoral fracture in phosphonate treatment,0.0,1.0,False
+Osteoarthritis (self-reported),0.0,1.0,False
+Clostridium difficile infection in multiple myeloma,0.0,1.0,False
+Bone mineral density (hip),0.0,1.0,False
+Lateral orbital frontal cortex volume,0.0,1.0,False
+Headache,0.0,1.0,False
+Paracentral lobule volume,0.0,1.0,False
+Neonatal cytokine/chemokine levels (fetal genetic effect),0.0,1.0,False
+Feeling guilty,0.0,1.0,False
+Joint damage in rheumatoid arthritis,0.0,1.0,False
+Glioma,0.0,1.0,False
+Sodium levels,0.0,1.0,False
+Potassium levels,0.0,1.0,False
+Total intracranial volume,0.0,1.0,False
+HDL cholesterol and triglyceride levels,0.0,1.0,False
+Renal cell carcinoma,0.0,1.0,False
+Diabetic retinopathy,0.0,1.0,False
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze),0.0,1.0,False
+Plasma parathyroid hormone levels,0.0,1.0,False
+Electrocardiographic traits,0.0,1.0,False
+Familial lung cancer,0.0,1.0,False
+Lipid traits (pleiotropy) (HIPO component 1),0.0,1.0,False
+Thalamus volume,0.0,1.0,False
+High IL-1beta levels in gingival crevicular fluid,0.0,1.0,False
+Platelet aggregation,0.0,1.0,False
+Medial orbital frontal cortex volume,0.0,1.0,False
+Nicotine dependence and major depression (severity of comorbidity),0.0,1.0,False
+Whole brain grey matter density,0.0,1.0,False
+Urolithiasis,0.0,1.0,False
+Asthma exacerbations in inhaled corticosteroid treatment,0.0,1.0,False
+Cerebrospinal AB1-42 levels in normal cognition,0.0,1.0,False
+Logical memory (delayed recall) in normal cognition,0.0,1.0,False
+Parental longevity (father's age at death),0.0,1.0,False
+Lingual gyrus volume,0.0,1.0,False
+Systemising,0.0,1.0,False
+Cardiac troponin-I levels,0.0,1.0,False
+Inferior parietal cortex volume,0.0,1.0,False
+Non-small cell lung cancer,0.0,1.0,False
+Initial alcohol sensitivity,0.0,1.0,False
+Adiponectin levels,0.0,1.0,False
+Idiopathic intracranial hypertension,0.0,1.0,False
+Kidney stones,0.0,1.0,False
+Parental longevity (father's attained age),0.0,1.0,False
+Putamen volume,0.0,1.0,False
+Estimated glomerular filtration rate in diabetes,0.0,1.0,False
+Maximum cranial width,0.0,1.0,False
+Epstein-Barr virus copy number in lymphoblastoid cell lines,0.0,1.0,False
+Erosive tooth wear (severe vs none or mild),0.0,1.0,False
+Surgical necrotising enterocolitis in extremely premature birth,0.0,1.0,False
+Cognitive empathy,0.0,1.0,False
+Sphingomyelin levels,0.0,1.0,False
+Smoking behaviour (cigarette pack-years),0.0,1.0,False
+Iron status biomarkers,0.0,1.0,False
+Phosphatidylcholine levels,0.0,1.0,False
+17-hydroxyprogesterone (17-OHP) levels,0.0,1.0,False
+Broad depression or schizophrenia,0.0,1.0,False
+Pre-treatment viral load in HIV-1 infection,0.0,1.0,False
+Serum bilirubin levels in metabolic syndrome,0.0,1.0,False
+Serum bilirubin levels x Mediterranean diet adherence interaction in metabolic syndrome,0.0,1.0,False
+Response to treatment for acute lymphoblastic leukemia,0.0,1.0,False
+Alzheimer's disease or family history of Alzheimer's disease,0.0,1.0,False
+Family history of Alzheimer's disease,0.0,1.0,False
+Calcium levels,0.0,1.0,False
+Nevus count,0.0,1.0,False
+Erosive tooth wear (severe vs non-severe),0.0,1.0,False
+Triacylglyceride levels,0.0,1.0,False
+Magnesium levels,0.0,1.0,False
+"anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)",0.0,1.0,False
+Smoking behavior,0.0,1.0,False
+Mood instability,0.0,1.0,False
+Ovarian cancer,0.0,1.0,False
+Sudden cardiac arrest,0.0,1.0,False
+Nonsyndromic cleft palate,0.0,1.0,False
+Intake of sweets,0.0,1.0,False
+Perceived intensity of neohesperidin dihydrochalcone,0.0,1.0,False
+Eye morphology,0.0,1.0,False
+Gait speed in old age,0.0,1.0,False
+Nose morphology,0.0,1.0,False
+Irritable mood,0.0,1.0,False
+Feeling worry,0.0,1.0,False
+Feeling hurt,0.0,1.0,False
+Feeling tense,0.0,1.0,False
+Suicide attempts in major depressive disorder or bipolar disorder or schizophrenia,0.0,1.0,False
+Suicide attempts in schizophrenia,0.0,1.0,False
+Suicide attempts in bipolar disorder or schizophrenia,0.0,1.0,False
+Leukocyte telomere length,0.0,1.0,False
+Strabismus,0.0,1.0,False
+Mortality in sepsis,0.0,1.0,False
+Late-onset Alzheimer's disease,0.0,1.0,False
+Depression in smokers,0.0,1.0,False
+Urinary metabolite levels in chronic kidney disease,0.0,1.0,False
+Coronary artery calcified atherosclerotic plaque score in type 2 diabetes,0.0,1.0,False
+Medication use (antiglaucoma preparations and miotics),0.0,1.0,False
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome),0.0,1.0,False
+Heart rate response to exercise,0.0,1.0,False
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)",0.0,1.0,False
+Toxicity response to radiotherapy in prostate cancer (decreased urine stream) (time to event),0.0,1.0,False
+Huntington's disease progression,0.0,1.0,False
+Total triglycerides levels,0.0,1.0,False
+Parental lifespan,0.0,1.0,False
+Cardiometabolic and hematological traits,0.0,1.0,False
+Medication use (HMG CoA reductase inhibitors),0.0,1.0,False
+High altitude adaptation,0.0,1.0,False
+Common carotid intima-media thickness in HIV negative individuals,0.0,1.0,False
+Response to bronchodilator in chronic obstructive pulmonary disease (change in FEV1),0.0,1.0,False
+Disease progression in age-related macular degeneration,0.0,1.0,False
+Disease progression in age-related macular degeneration (adjusted for baseline),0.0,1.0,False
+Pulmonary function,0.0,1.0,False
+Nicotine withdrawal symptom count,0.0,1.0,False
+Feeling fed-up,0.0,1.0,False
+Worry too long after an embarrassing experience,0.0,1.0,False
+Pancreatic cancer,0.0,1.0,False
+Recurrent major depressive disorder,0.0,1.0,False
+Red blood cell traits,0.0,1.0,False
+Parkinson's disease,0.0,1.0,False
+Lumbar spine bone mineral density (integral),0.0,1.0,False
+Nicotine dependence symptom count,0.0,1.0,False
+Angiotensin-converting enzyme inhibitor intolerance,0.0,1.0,False
+Smoking cessation (MTAG),0.0,1.0,False
+Breast cancer and/or colorectal cancer,0.0,1.0,False
+Low susceptibility to hepatitis C infection,0.0,1.0,False
+Total body bone mineral density (age 45-60),0.0,1.0,False
+Total body bone mineral density (age over 60),0.0,1.0,False
+Creatine kinase levels,0.0,1.0,False
+Lactate dehydrogenase levels,0.0,1.0,False
+Glycated hemoglobin levels,0.0,1.0,False
+Medication use (antithrombotic agents),0.0,1.0,False
+Medication use (drugs used in diabetes),0.0,1.0,False
+Feeling nervous,0.0,1.0,False
+Cerebrospinal fluid biomarker levels,0.0,1.0,False
+Serum uric acid levels in response to allopurinol in gout,0.0,1.0,False
+LDL cholesterol levels x alcohol consumption (regular vs non-regular drinkers) interaction (2df),0.0,1.0,False
+Total bilirubin levels,0.0,1.0,False
+Post-traumatic stress disorder (re-experiencing symptoms),0.0,1.0,False
+Birth weight (MTAG),0.0,1.0,False
+Alanine aminotransferase levels in non-alcoholic fatty liver disease,0.0,1.0,False
+Glaucoma,0.0,1.0,False
+Bladder cancer,0.0,1.0,False
+Smoking status (heavy vs never),0.0,1.0,False
+LDL cholesterol levels x short total sleep time interaction (2df test),0.0,1.0,False
+Liver fibrosis in non-alcoholic fatty acid liver disease,0.0,1.0,False
+Triglyceride levels x short total sleep time interaction (2df test),0.0,1.0,False
+Rapid automised naming of letters,0.0,1.0,False
+Brainstem volume,0.0,1.0,False
+Plasma free amino acid levels (adjusted for twenty other PFAAs),0.0,1.0,False
+Amyotrophic lateral sclerosis,0.0,1.0,False
+Non-alcoholic fatty liver disease activity score,0.0,1.0,False
+BRCA1/2-negative high-risk breast cancer,0.0,1.0,False
+Toxicity response to radiotherapy in prostate cancer (hematuria) (time to event),0.0,1.0,False
+Emphysema annual change measurement in smokers (percent low attenuation area),0.0,1.0,False
+Retinal detachment or retinal break,0.0,1.0,False
+High myopia,0.0,1.0,False
+Lifetime smoking index,0.0,1.0,False
+Lipoprotein-associated phospholipase A2 activity and mass,0.0,1.0,False
+Childhood obesity,0.0,1.0,False
+Neurological blood protein biomarker levels,0.0,1.0,False
+Spontaneous preterm birth without premature rupture of membranes,0.0,1.0,False
+Serum platinum levels after completion of cisplatin chemotherapy,0.0,1.0,False
+Aspartate aminotransferase levels in excessive alcohol consumption,0.0,1.0,False
+Alcohol use disorder (consumption score),0.0,1.0,False
+Gamma glutamyl transferase levels in excessive alcohol consumption,0.0,1.0,False
+Alcohol use disorder (total score),0.0,1.0,False
+Alanine aminotransferase levels in low alcohol consumption,0.0,1.0,False
+Early spontaneous preterm birth,0.0,1.0,False
+Cognitive impairment test score,0.0,1.0,False
+Blood protein levels in cardiovascular risk,0.0,1.0,False
+Erectile dysfunction,0.0,1.0,False
+Vertical cup-disc ratio (adjusted for vertical disc diameter),0.0,1.0,False
+Type 2 diabetes (adjusted for BMI),0.0,1.0,False
+Corneal endothelial cell density,0.0,1.0,False
+Mosaic loss of chromosome Y (Y chromosome dosage),0.0,1.0,False
+Corneal endothelial cell size variation coefficient,0.0,1.0,False
+Voxel-wise structural brain imaging measurements in Alzheimer’s disease,0.0,1.0,False
+Warfarin maintenance dose,0.0,1.0,False
+Plasma anti-thyroid peroxidase levels,0.0,1.0,False
+Plasma anti-thyroglobulin levels,0.0,1.0,False
+Age-related cognitive decline (memory) (slope of z-scores),0.0,1.0,False
+Spontaneous preterm birth with premature rupture of membranes,0.0,1.0,False
+Total body bone mineral density (MTAG),0.0,1.0,False
+Cataracts (operation),0.0,1.0,False
+Tanning,0.0,1.0,False
+Insomnia symptoms (never/rarely vs. sometimes/usually),0.0,1.0,False
+White matter microstructure (fractional anisotropy),0.0,1.0,False
+Insomnia symptoms (never/rarely vs. usually),0.0,1.0,False
+Mitochondrial DNA copy number,0.0,1.0,False
+White matter microstructure (axial diusivities),0.0,1.0,False
+White matter microstructure (mode of anisotropy),0.0,1.0,False
+Weight gain in amisulpride-treated first-episode psychosis,0.0,1.0,False
+Help-seeking from a GP,0.0,1.0,False
+Calcific aortic valve stenosis,0.0,1.0,False
+Uric acid levels,0.0,1.0,False
+Alzheimer's disease (late onset),0.0,1.0,False
+Obese vs. thin,0.0,1.0,False
+Insulin-related traits (multivariate analysis),0.0,1.0,False
+Response to hepatitis C treatment,0.0,1.0,False
+Urinary calcium excretion,0.0,1.0,False
+Trauma exposure in major depressive disorder,0.0,1.0,False
+Trauma exposure in major depressive disorder-negative individuals,0.0,1.0,False
+Maximum cranial length,0.0,1.0,False
+Gallstone disease,0.0,1.0,False
+Factor VII activity,0.0,1.0,False
+Aspartate aminotransferase levels in low alcohol consumption,0.0,1.0,False
+Rapid automised naming of digits,0.0,1.0,False
+Plasma free amino acid levels,0.0,1.0,False
+LDL cholesterol x physical activity interaction (2df test),0.0,1.0,False
+Triglycerides x physical activity interaction (2df test),0.0,1.0,False
+HDL cholesterol x physical activity interaction (2df test),0.0,1.0,False
+Snoring,0.0,1.0,False
+Hospital contact for infections,0.0,1.0,False
+Circulating leptin levels in high cardiovascular risk,0.0,1.0,False
+Urinary metabolite modules (eigenmetabolites) in chronic kidney disease,0.0,1.0,False
+Reading ability (multivariate),0.0,1.0,False
+Heel bone mineral density (MTAG),0.0,1.0,False
+Glaucoma (multi-trait analysis),0.0,1.0,False
+Word spelling,0.0,1.0,False
+HDL cholesterol levels x long total sleep time interaction (2df test),0.0,1.0,False
+Non-word reading,0.0,1.0,False
+B-cell acute lymphoblastic leukaemia,0.0,1.0,False
+HDL cholesterol levels x short total sleep time interaction (2df test),0.0,1.0,False
+Proliferative diabetic retinopathy (vs NPDR and no DR),0.0,1.0,False
+Chronic kidney disease,0.0,1.0,False
+LDL cholesterol levels x long total sleep time interaction (2df test),0.0,1.0,False
+Gastrointestinal infection,0.0,1.0,False
+Phoneme awareness,0.0,1.0,False
+Chloride levels,0.0,1.0,False
+Moderate-to-late spontaneous preterm birth,0.0,1.0,False
+Orofacial clefts,0.0,1.0,False
+Hippocampal atrophy,0.0,1.0,False
+Spatial processing,0.0,1.0,False
+HDL cholesterol levels x alcohol consumption (regular vs non-regular drinkers) interaction (2df),0.0,1.0,False
+Antisaccade task score,0.0,1.0,False
+Upper eyelid sagging severity,0.0,1.0,False
+Obsessive-compulsive disorder,0.0,1.0,False
+Regular attendance at a religious group,0.0,1.0,False
+Loneliness (MTAG),0.0,1.0,False
+Facial wrinkles,0.0,1.0,False
+Triglyceride levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df),0.0,1.0,False
+LDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df),0.0,1.0,False
+Response to hepatitis B vaccine,0.0,1.0,False
+Cardiac hypertrophy,0.0,1.0,False
+Working memory,0.0,1.0,False
+Idiopathic dilated cardiomyopathy,0.0,1.0,False
+Cerebrospinal fluid sTREM-2 levels,0.0,1.0,False
+Cognitive performance (processing speed),0.0,1.0,False
+Nasopharyngeal carcinoma,0.0,1.0,False
+Chronic obstructive pulmonary disease or high blood pressure (pleiotropy),0.0,1.0,False
+California verbal learning test score,0.0,1.0,False
+Sensorimotor dexterity,0.0,1.0,False
+Face memory,0.0,1.0,False
+Gut microbiota relative abundance (bacterial taxa),0.0,1.0,False
+Age at first sexual intercourse,0.0,1.0,False
+Circulating fibroblast growth factor 23 levels,0.0,1.0,False
+Heart rate,0.0,1.0,False
+Hemoglobin A1c levels,0.0,1.0,False
+Carpal tunnel syndrome,0.0,1.0,False
+Uveal melanoma,0.0,1.0,False
+Sulfasalazine-induced agranulocytosis,0.0,1.0,False
+Heart rate response to recovery post exercise,0.0,1.0,False
+Seasonality and depression,0.0,1.0,False
+Idiopathic membranous nephropathy,0.0,1.0,False
+HDL cholesterol levels in current drinkers,0.0,1.0,False
+Glycine levels,0.0,1.0,False
+HDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df),0.0,1.0,False
+Depressive symptom improvement,0.0,1.0,False
+Frontal fibrosing alopecia,0.0,1.0,False
+Triglyceride levels in current drinkers,0.0,1.0,False
+Obesity (extreme),0.0,1.0,False
+End-stage kidney disease,0.0,1.0,False
+Serum folate levels,0.0,1.0,False
+Gut microbiota (alpha diversity),0.0,1.0,False
+LDL cholesterol levels in current drinkers,0.0,1.0,False
+C-reactive protein,0.0,1.0,False
+Stress sensitivity (neuroticism score x major depressive disorder status interaction),0.0,1.0,False
+Triglyceride levels x alcohol consumption (regular vs non-regular drinkers) interaction (2df),0.0,1.0,False
+Worry,0.0,1.0,False
+Fractures,0.0,1.0,False
+Anthropometric traits (multi-trait analysis),0.0,1.0,False
+"Obstructive sleep apnea trait (apnea hypopnea index, change over time)",0.0,1.0,False
+Prostate cancer (advanced),0.0,1.0,False
+Hair morphology traits,0.0,1.0,False
+Skin pigmentation,0.0,1.0,False
+Idiopathic pulmonary fibrosis,0.0,1.0,False
+Ocular sarcoidosis,0.0,1.0,False
+Sleep duration (short sleep),0.0,1.0,False
+Household income,0.0,1.0,False
+Alzheimer's disease or HDL levels (pleiotropy),0.0,1.0,False
+"Dental caries (decayed, missing and filled teeth)",0.0,1.0,False
+Dental caries (decayed and filled deciduous teeth),0.0,1.0,False
+Cytokine network levels (multivariate analysis),0.0,1.0,False
+Red vs. brown/black hair color,0.0,1.0,False
+Mental composite score,0.0,1.0,False
+Type 2 diabetes nephropathy,0.0,1.0,False
+Telomere length,0.0,1.0,False
+Age at loss of ambulation in Duchenne muscular dystrophy,0.0,1.0,False
+Low tan response,0.0,1.0,False
+Skin reflectance (Melanin index),0.0,1.0,False
+Alzheimer's disease (onset between ages 58 and 79),0.0,1.0,False
+Endometriosis,0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI (additive genetic model),0.0,1.0,False
+Parental longevity (mother's age at death or mother's attained age),0.0,1.0,False
+Parental longevity (father's age at death or father's attained age),0.0,1.0,False
+Alcohol use disorder,0.0,1.0,False
+Amblyopia,0.0,1.0,False
+Body mass index variance,0.0,1.0,False
+Breast cancer specific mortality in estrogen receptor positive breast cancer,0.0,1.0,False
+Waist circumference variance,0.0,1.0,False
+Non-lobar intracerebral hemorrhage (MTAG),0.0,1.0,False
+Hip circumference variance,0.0,1.0,False
+Breast cancer specific mortality in estrogen receptor negative breast cancer,0.0,1.0,False
+Cervical cancer (multi-trait analysis),0.0,1.0,False
+General factor of neuroticism,0.0,1.0,False
+Gynecologic disease (multivariate analysis),0.0,1.0,False
+Fibrinogen,0.0,1.0,False
+Menopause (age at onset),0.0,1.0,False
+Spherical equivalent,0.0,1.0,False
+Plasma factor VII activating protease levels,0.0,1.0,False
+Mucinous adenocarcinoma in colorectal cancer,0.0,1.0,False
+Bone mineral content,0.0,1.0,False
+Sex hormone-binding globulin levels,0.0,1.0,False
+Pelvic organ prolapse,0.0,1.0,False
+Bone ultrasound measurement (broadband ultrasound attenuation),0.0,1.0,False
+Carotid intima media thickness,0.0,1.0,False
+Response to methotrexate in juvenile idiopathic arthritis,0.0,1.0,False
+Very long-chain saturated fatty acid levels (fatty acid 20:0),0.0,1.0,False
+Urate levels in overweight individuals,0.0,1.0,False
+Urate levels in obese individuals,0.0,1.0,False
+Iron status biomarkers (ferritin levels),0.0,1.0,False
+Iron status biomarkers (transferrin saturation),0.0,1.0,False
+Optic cup area,0.0,1.0,False
+Waist-to-hip ratio adjusted for body mass index,0.0,1.0,False
+Serum dimethylarginine levels (asymmetric/symetric ratio),0.0,1.0,False
+Heschl's gyrus morphology,0.0,1.0,False
+Common traits (Other),0.0,1.0,False
+Protein C levels,0.0,1.0,False
+Chronic obstructive pulmonary disease-related biomarkers,0.0,1.0,False
+Non-alcoholic fatty liver disease histology (lobular),0.0,1.0,False
+Serum albumin level,0.0,1.0,False
+Elevated serum carcinoembryonic antigen levels,0.0,1.0,False
+P wave duration,0.0,1.0,False
+Anti-saccade response,0.0,1.0,False
+Age-related nuclear cataracts,0.0,1.0,False
+Urate levels in lean individuals,0.0,1.0,False
+Nasopharyngeal carcinoma (SNP x SNP interaction),0.0,1.0,False
+Clozapine-induced cytotoxicity,0.0,1.0,False
+Complement C3 and C4 levels,0.0,1.0,False
+Total bilirubin levels in HIV-1 infection,0.0,1.0,False
+Polychlorinated biphenyl levels,0.0,1.0,False
+Response to efavirenz-containing treatment in HIV 1 infection (virologic failure),0.0,1.0,False
+Liver enzyme levels,0.0,1.0,False
+Response to platinum-based chemotherapy (carboplatin),0.0,1.0,False
+Response to platinum-based chemotherapy (cisplatin),0.0,1.0,False
+Fasting blood insulin (BMI interaction),0.0,1.0,False
+Parasitemia in Tripanosoma cruzi seropositivity,0.0,1.0,False
+Migraine without aura,0.0,1.0,False
+Migraine with aura,0.0,1.0,False
+Phosphorus levels,0.0,1.0,False
+Blood pressure (smoking interaction),0.0,1.0,False
+Glucose homeostasis traits,0.0,1.0,False
+Electroencephalogram traits,0.0,1.0,False
+Toenail selenium levels,0.0,1.0,False
+Mammographic density (dense area),0.0,1.0,False
+Asymmetrical dimethylarginine levels,0.0,1.0,False
+Brain structure,0.0,1.0,False
+Smoking cessation,0.0,1.0,False
+Vertical cup-disc ratio,0.0,1.0,False
+Hyperactive-impulsive symptoms,0.0,1.0,False
+Plasma omega-6 polyunsaturated fatty acid levels (linoleic acid),0.0,1.0,False
+Hepatitis B,0.0,1.0,False
+Acne (severe),0.0,1.0,False
+Smoking initiation,0.0,1.0,False
+Age of smoking initiation,0.0,1.0,False
+Behavioural disinhibition (generation interaction),0.0,1.0,False
+Anger,0.0,1.0,False
+Symmetrical dimethylarginine levels,0.0,1.0,False
+Anxiety disorder,0.0,1.0,False
+Obesity (early onset extreme),0.0,1.0,False
+Lead levels in blood,0.0,1.0,False
+Heart rate response to beta blockers (atenolol monotherapy),0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI (age <50),0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI (age >50),0.0,1.0,False
+Longevity,0.0,1.0,False
+Multiple system atrophy,0.0,1.0,False
+Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test),0.0,1.0,False
+Metabolite levels (HVA/MHPG ratio),0.0,1.0,False
+Non-glioblastoma glioma,0.0,1.0,False
+Heart rate response to recovery post exercise (40 sec),0.0,1.0,False
+Heart rate response to recovery post exercise (50 sec),0.0,1.0,False
+Heart rate response to recovery post exercise (30 sec),0.0,1.0,False
+Systolic blood pressure x smoking status (current vs non-current) interaction (2df test),0.0,1.0,False
+Heart rate response to recovery post exercise (20 sec),0.0,1.0,False
+Metabolite levels (MHPG),0.0,1.0,False
+Fasting blood glucose adjusted for BMI,0.0,1.0,False
+Body mass index x sex x age interaction (4df test),0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test),0.0,1.0,False
+Metabolite levels (HVA),0.0,1.0,False
+Coronary atherosclerosis (increased number of diseased vessels) (traffic exposure interaction),0.0,1.0,False
+Breast cancer (estrogen-receptor negative),0.0,1.0,False
+GIP levels in response to oral glucose tolerance test (120 minutes),0.0,1.0,False
+Initial pursuit acceleration,0.0,1.0,False
+Bilirubin levels,0.0,1.0,False
+Idiopathic osteonecrosis of the femoral head,0.0,1.0,False
+Hyperuricemia,0.0,1.0,False
+Western dietary pattern,0.0,1.0,False
+High-grade serous ovarian cancer,0.0,1.0,False
+Serous invasive ovarian cancer,0.0,1.0,False
+Atopic dermatitis,0.0,1.0,False
+Cardiac Troponin-T levels,0.0,1.0,False
+Alzheimer's disease in APOE e4+ carriers,0.0,1.0,False
+Alzheimer's disease in APOE e4- carriers,0.0,1.0,False
+Nonsyndromic cleft lip with or without cleft palate,0.0,1.0,False
+Diisocyanate-induced asthma,0.0,1.0,False
+Response to serotonin reuptake inhibitors in major depressive disorder,0.0,1.0,False
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab),0.0,1.0,False
+Type 1 diabetes and autoimmune thyroid diseases,0.0,1.0,False
+TRAIL levels,0.0,1.0,False
+Stromal-cell-derived factor 1 alpha levels,0.0,1.0,False
+Tumor necrosis factor alpha levels,0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI (joint analysis for main effect and physical activity interaction),0.0,1.0,False
+Alcohol dependence symptom count,0.0,1.0,False
+Diastolic blood pressure x smoking status (ever vs never) interaction (2df test),0.0,1.0,False
+Anthropometric traits,0.0,1.0,False
+Select biomarker traits,0.0,1.0,False
+Nonalcoholic fatty liver disease,0.0,1.0,False
+Body mass index (age <50),0.0,1.0,False
+Hemostatic factors and hematological phenotypes,0.0,1.0,False
+Optic disc area,0.0,1.0,False
+Axial length,0.0,1.0,False
+Invasive epithelial ovarian cancer,0.0,1.0,False
+Systolic blood pressure x smoking status (ever vs never) interaction (2df test),0.0,1.0,False
+Blood osmolality (transformed sodium),0.0,1.0,False
+White matter hyperintensity burden,0.0,1.0,False
+Coronary artery disease or large artery stroke,0.0,1.0,False
+Coronary artery disease or ischemic stroke,0.0,1.0,False
+Large artery stroke,0.0,1.0,False
+Pulmonary function (smoking interaction),0.0,1.0,False
+Follicular lymphoma,0.0,1.0,False
+Urinary metabolites (H-NMR features),0.0,1.0,False
+Social communication problems,0.0,1.0,False
+Hirschsprung disease,0.0,1.0,False
+Heart failure,0.0,1.0,False
+Post-traumatic stress disorder,0.0,1.0,False
+Hip geometry,0.0,1.0,False
+Bipolar I disorder,0.0,1.0,False
+Factor VIII levels,0.0,1.0,False
+vWF levels,0.0,1.0,False
+Sphingolipid levels,0.0,1.0,False
+Leprosy,0.0,1.0,False
+Frontotemporal dementia,0.0,1.0,False
+Response to angiotensin II receptor blocker therapy,0.0,1.0,False
+Aortic root size,0.0,1.0,False
+Hypertriglyceridemia,0.0,1.0,False
+Metabolite levels  (X-11787),0.0,1.0,False
+Homeostasis model assessment of insulin resistance (dietary factor interaction),0.0,1.0,False
+IgA nephropathy,0.0,1.0,False
+Dialysis-related mortality,0.0,1.0,False
+Phospholipid levels (plasma),0.0,1.0,False
+Metabolite levels (Dihydroxy docosatrienoic acid),0.0,1.0,False
+Metabolite levels (Pyroglutamine),0.0,1.0,False
+Bipolar disorder with mood-incongruent psychosis,0.0,1.0,False
+Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy),0.0,1.0,False
+"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)",0.0,1.0,False
+Erectile dysfunction and prostate cancer treatment,0.0,1.0,False
+Testosterone levels,0.0,1.0,False
+Disc degeneration (lumbar),0.0,1.0,False
+Amyotrophic lateral sclerosis (age of onset),0.0,1.0,False
+Liver enzyme levels (alkaline phosphatase),0.0,1.0,False
+QRS duration,0.0,1.0,False
+Venous thromboembolism (SNP x SNP interaction),0.0,1.0,False
+Response to amphetamines,0.0,1.0,False
+IgM levels,0.0,1.0,False
+Dental caries,0.0,1.0,False
+Cannabis use (initiation),0.0,1.0,False
+Liver enzyme levels (alanine transaminase),0.0,1.0,False
+Palmitoleic acid (16:1n-7) levels,0.0,1.0,False
+Visceral adipose tissue adjusted for BMI,0.0,1.0,False
+Response to anti-TNF therapy in rheumatoid arthritis,0.0,1.0,False
+Visceral fat,0.0,1.0,False
+Self-rated health,0.0,1.0,False
+Breast size,0.0,1.0,False
+Capecitabine sensitivity,0.0,1.0,False
+Urinary metabolites,0.0,1.0,False
+Alzheimer's disease (cognitive decline),0.0,1.0,False
+Suicide attempts in bipolar disorder,0.0,1.0,False
+Cervical cancer,0.0,1.0,False
+Periodontitis (Mean PAL),0.0,1.0,False
+Periodontitis (CDC/AAP),0.0,1.0,False
+Periodontitis (DPAL),0.0,1.0,False
+Economic and political preferences,0.0,1.0,False
+Initial pursuit acceleration in psychotic disorders,0.0,1.0,False
+Immune reponse to smallpox (secreted IFN-alpha),0.0,1.0,False
+Immune reponse to smallpox (secreted IL-2),0.0,1.0,False
+Hair morphology,0.0,1.0,False
+Cognitive decline (age-related),0.0,1.0,False
+Airway responsiveness in chronic obstructive pulmonary disease,0.0,1.0,False
+Fractional exhaled nitric oxide (childhood),0.0,1.0,False
+Blood metabolite ratios,0.0,1.0,False
+Bipolar disorder (body mass index interaction),0.0,1.0,False
+Multiple myeloma,0.0,1.0,False
+Panic disorder,0.0,1.0,False
+Generalized epilepsy,0.0,1.0,False
+Serum alkaline phosphatase levels,0.0,1.0,False
+"Bone mineral density (paediatric, total body less head)",0.0,1.0,False
+Intracranial aneurysm,0.0,1.0,False
+N-glycan levels,0.0,1.0,False
+Response to cytadine analogues (cytosine arabinoside),0.0,1.0,False
+Cocaine dependence,0.0,1.0,False
+Refractive astigmatism,0.0,1.0,False
+Response to statins (LDL cholesterol change),0.0,1.0,False
+Chagas cardiomyopathy in Tripanosoma cruzi seropositivity,0.0,1.0,False
+Antibody status in Tripanosoma cruzi seropositivity,0.0,1.0,False
+PR interval in Tripanosoma cruzi seropositivity,0.0,1.0,False
+Ejection fraction in Tripanosoma cruzi seropositivity,0.0,1.0,False
+Cerebrospinal fluid AB1-42 levels,0.0,1.0,False
+Antineutrophil cytoplasmic antibody-associated vasculitis,0.0,1.0,False
+Attention deficit hyperactivity disorder (time to onset),0.0,1.0,False
+Psychosis (atypical),0.0,1.0,False
+Age-related hearing impairment (SNP x SNP interaction),0.0,1.0,False
+Age-related hearing impairment,0.0,1.0,False
+Eosinophilic esophagitis,0.0,1.0,False
+Peripheral artery disease,0.0,1.0,False
+HIV-1 viral setpoint,0.0,1.0,False
+Multiple myeloma (IgH translocation),0.0,1.0,False
+Glomerular filtration rate,0.0,1.0,False
+Thyroid stimulating hormone levels,0.0,1.0,False
+Quantitative traits,0.0,1.0,False
+Primary tooth development (time to first tooth eruption),0.0,1.0,False
+Primary tooth development (number of teeth),0.0,1.0,False
+Lung function (forced expiratory flow during mid-portion (25% and 75%) of forced vital capacity),0.0,1.0,False
+Lipid traits,0.0,1.0,False
+Mortality in heart failure,0.0,1.0,False
+vWF and FVIII levels,0.0,1.0,False
+Abdominal aortic aneurysm,0.0,1.0,False
+Chronic hepatitis B infection,0.0,1.0,False
+Alopecia areata,0.0,1.0,False
+Bulimia nervosa,0.0,1.0,False
+Eating disorders,0.0,1.0,False
+Post-traumatic stress disorder (asjusted for relatedness),0.0,1.0,False
+D-dimer levels,0.0,1.0,False
+Adverse response to lamotrigine and phenytoin,0.0,1.0,False
+Mitochondrial DNA levels,0.0,1.0,False
+Preschool internalizing problems,0.0,1.0,False
+Serum thyroid-stimulating hormone levels,0.0,1.0,False
+Irritable bowel syndrome,0.0,1.0,False
+Cholesterol,0.0,1.0,False
+Immune reponse to smallpox (secreted IL-1beta),0.0,1.0,False
+Glioblastoma,0.0,1.0,False
+Paclitaxel disposition in epithelial ovarian cancer,0.0,1.0,False
+Obstructive sleep apnea trait (apnea hypopnea index),0.0,1.0,False
+Bipolar disorder or attention deficit hyperactivity disorder,0.0,1.0,False
+Bone mineral density (total hip),0.0,1.0,False
+C-reactive protein levels or HDL-cholesterol levels (pleiotropy),0.0,1.0,False
+C-reactive protein levels or triglyceride levels (pleiotropy),0.0,1.0,False
+Cancer (pleiotropy),0.0,1.0,False
+Cancer,0.0,1.0,False
+Oropharynx cancer,0.0,1.0,False
+QRS interval (sulfonylurea treatment interaction),0.0,1.0,False
+Triptolide cytotoxicity,0.0,1.0,False
+LDL peak particle diameter (total fat intake interaction),0.0,1.0,False
+Sense of smell,0.0,1.0,False
+Lipid metabolism phenotypes,0.0,1.0,False
+Spherical equivalent (joint analysis main effects and education interaction),0.0,1.0,False
+Bone mineral density (Ward's triangle area),0.0,1.0,False
+QRS complex (12-leadsum),0.0,1.0,False
+Daytime sleep phenotypes,0.0,1.0,False
+Essential tremor,0.0,1.0,False
+Pediatric bone mineral density (femoral neck),0.0,1.0,False
+Type 2 diabetes (age of onset),0.0,1.0,False
+End-stage coagulation,0.0,1.0,False
+Hepcidin/transferrin saturation ratio,0.0,1.0,False
+Hepcidin/ferritin ratio,0.0,1.0,False
+Clopidogrel active metabolite levels,0.0,1.0,False
+White blood cell types,0.0,1.0,False
+Alcohol consumption (heavy vs. light/non-drinkers),0.0,1.0,False
+Childhood body mass index,0.0,1.0,False
+Metabolite levels (lipoprotein measures),0.0,1.0,False
+IgE levels,0.0,1.0,False
+Epilepsy and lamotrigine-induced maculopapular eruptions,0.0,1.0,False
+Interleukin-18 levels,0.0,1.0,False
+Fibrinogen levels,0.0,1.0,False
+Attention deficit hyperactivity disorder and conduct disorder,0.0,1.0,False
+Cough in response to angiotensin-converting enzyme inhibitor drugs,0.0,1.0,False
+Pubertal anthropometrics,0.0,1.0,False
+Coronary artery aneurysm in Kawasaki disease,0.0,1.0,False
+Knee osteoarthritis,0.0,1.0,False
+Mild influenza (H1N1) infection,0.0,1.0,False
+Severe influenza A (H1N1) infection,0.0,1.0,False
+Influenza A (H1N1) infection,0.0,1.0,False
+Metabolite levels (small molecules and protein measures),0.0,1.0,False
+Suicide attempts in major depressive disorder,0.0,1.0,False
+Response to paliperidone in schizophrenia (positive Marder score),0.0,1.0,False
+Response to paliperidone in schizophrenia (negative Marder score),0.0,1.0,False
+Protein quantitative trait loci,0.0,1.0,False
+Left atrial antero-posterior diameter,0.0,1.0,False
+Hematological parameters,0.0,1.0,False
+Cleft palate,0.0,1.0,False
+Age-related disease endophenotypes,0.0,1.0,False
+HDL cholesterol levels,0.0,1.0,False
+Body fat mass,0.0,1.0,False
+Cleft lip with or without cleft palate,0.0,1.0,False
+Aggressiveness in attention deficit hyperactivity disorder,0.0,1.0,False
+Cerebrospinal fluid clusterin levels,0.0,1.0,False
+Gestational age at birth in labor-initiated deliveries (child effect),0.0,1.0,False
+Gestational age at birth (child effect),0.0,1.0,False
+Pelvic organ prolapse (moderate/severe),0.0,1.0,False
+Macrophage inflammatory protein 1b levels,0.0,1.0,False
+Platelet-derived growth factor BB levels,0.0,1.0,False
+RANTES levels,0.0,1.0,False
+Stem cell growth factor beta levels,0.0,1.0,False
+Stem cell factor levels,0.0,1.0,False
+Pit-and-Fissure caries,0.0,1.0,False
+Perceived unattractiveness to mosquitoes,0.0,1.0,False
+Tourette syndrome,0.0,1.0,False
+Iris color (b* coordinate),0.0,1.0,False
+Iris heterochromicity,0.0,1.0,False
+Iris color (L* coordinate),0.0,1.0,False
+Macrophage inflammatory protein 1a levels,0.0,1.0,False
+Iris color (a* coordinate),0.0,1.0,False
+Alcoholic chronic pancreatitis,0.0,1.0,False
+TB-LM or TBLH-BMD (pleiotropy),0.0,1.0,False
+Blood pressure traits (multi-trait analysis),0.0,1.0,False
+Alanine transaminase levels,0.0,1.0,False
+Dupuytren's disease,0.0,1.0,False
+Total cholesterol change in response to fenofibrate in statin-treated type 2 diabetes,0.0,1.0,False
+Response to statin therapy,0.0,1.0,False
+Accelerated cognitive decline after conversion of mild cognitive impairment to Alzheimer's disease (Alzhiemer's diagnosis trajectory interaction),0.0,1.0,False
+Glaucoma (primary open-angle),0.0,1.0,False
+Alcohol consumption (drinkers vs non-drinkers),0.0,1.0,False
+Body mass index (adult),0.0,1.0,False
+Acute graft versus host disease in bone marrow transplantation (recipient effect),0.0,1.0,False
+Macrophage colony stimulating factor levels,0.0,1.0,False
+Interleukin-16 levels,0.0,1.0,False
+Smooth-surface caries,0.0,1.0,False
+Cannabis dependence symptom count,0.0,1.0,False
+Parental extreme longevity (95 years and older),0.0,1.0,False
+Parental longevity (combined parental age at death),0.0,1.0,False
+Systemic juvenile idiopathic arthritis,0.0,1.0,False
+Posterior cortical atrophy and Alzheimer's disease,0.0,1.0,False
+beta-nerve growth factor levels,0.0,1.0,False
+Eotaxin levels,0.0,1.0,False
+Growth-regulated protein alpha levels,0.0,1.0,False
+Granulocyte-colony stimulating factor levels,0.0,1.0,False
+Fibroblast growth factor basic levels,0.0,1.0,False
+Interleukin-1-receptor antagonist levels,0.0,1.0,False
+Hepatocyte growth factor levels,0.0,1.0,False
+Interferon gamma levels,0.0,1.0,False
+Interleukin-2 levels,0.0,1.0,False
+Interleukin-2 receptor antagonist levels,0.0,1.0,False
+Interleukin-4 levels,0.0,1.0,False
+Malaria,0.0,1.0,False
+Interleukin-9 levels,0.0,1.0,False
+Interleukin-7 levels,0.0,1.0,False
+Interleukin-10 levels,0.0,1.0,False
+Interleukin-5 levels,0.0,1.0,False
+Interleukin-13 levels,0.0,1.0,False
+Renal function-related traits (BUN),0.0,1.0,False
+Interferon gamma-induced protein 10 levels,0.0,1.0,False
+Interleukin-12p70 levels,0.0,1.0,False
+Neuritic plaque,0.0,1.0,False
+Lewy body disease,0.0,1.0,False
+Glomerular filtration rate in chronic kidney disease,0.0,1.0,False
+Diabetic kidney disease,0.0,1.0,False
+Chronic sinus infection,0.0,1.0,False
+Hepatitis A,0.0,1.0,False
+Rheumatic fever,0.0,1.0,False
+Yeast infection,0.0,1.0,False
+Measles,0.0,1.0,False
+Hematological and biochemical traits,0.0,1.0,False
+BMI in smokers,0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI in non-smokers,0.0,1.0,False
+Urinary tract infection frequency,0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction),0.0,1.0,False
+BMI (adjusted for smoking behaviour),0.0,1.0,False
+Number of common colds,0.0,1.0,False
+Body mass index (joint analysis main effects and smoking interaction),0.0,1.0,False
+Prothrombin time,0.0,1.0,False
+Heart rate variability traits (RMSSD),0.0,1.0,False
+Heart rate variability traits (SDNN),0.0,1.0,False
+Neurocognitive impairment in HIV-1 infection (dichotomous),0.0,1.0,False
+Craniofacial microsomia,0.0,1.0,False
+Activated partial thromboplastin time,0.0,1.0,False
+Ease of getting up in the morning,0.0,1.0,False
+Small cell lung carcinoma,0.0,1.0,False
+Childhood ear infection,0.0,1.0,False
+Mononucleosis,0.0,1.0,False
+Subjective well-being (MTAG),0.0,1.0,False
+Cold sores,0.0,1.0,False
+Nodular sclerosis Hodgkin lymphoma,0.0,1.0,False
+BMI in non-smokers,0.0,1.0,False
+Caudate activity during reward,0.0,1.0,False
+Major depression and alcohol dependence,0.0,1.0,False
+Lipoprotein phospholipase A2 activity in cardiovascular disease,0.0,1.0,False
+Homocysteine levels,0.0,1.0,False
+Glomerular filtration rate (creatinine),0.0,1.0,False
+Post bronchodilator FEV1 in COPD,0.0,1.0,False
+Ischemic stroke (large artery atherosclerosis),0.0,1.0,False
+Gut microbiome composition (winter),0.0,1.0,False
+Thrombosis,0.0,1.0,False
+Advanced age-related macular degeneration,0.0,1.0,False
+Cognitive decline rate in late mild cognitive impairment,0.0,1.0,False
+Cerebral amyloid deposition in APOEe4 non-carriers (PET imaging),0.0,1.0,False
+Cutaneous psoriasis,0.0,1.0,False
+Gastric cancer,0.0,1.0,False
+antipsychotic drug dosage in schizophrenia or schizoaffective disorder,0.0,1.0,False
+Takayasu arteritis,0.0,1.0,False
+Colorectal adenoma (advanced),0.0,1.0,False
+Clozapine-induced agranulocytosis,0.0,1.0,False
+Body mass index in physically active individuals,0.0,1.0,False
+Response to antipsychotic treatment in schizophrenia (working memory),0.0,1.0,False
+Fear of minor pain,0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour),0.0,1.0,False
+Waist-to-hip ratio adjusted for BMI in active individuals,0.0,1.0,False
+Migraine,0.0,1.0,False
+Airflow obstruction,0.0,1.0,False
+Lipoprotein (a) levels,0.0,1.0,False
+Depressive symptoms (MTAG),0.0,1.0,False
+Carboplatin disposition in epthelial ovarian cancer,0.0,1.0,False
+Borderline personality disorder,0.0,1.0,False
+Strep throat,0.0,1.0,False
+Exploratory eye movement dysfunction in schizophrenia (cognitive search score),0.0,1.0,False
+Cerebral amyloid deposition (PET imaging),0.0,1.0,False
+Eye color,0.0,1.0,False
+Mean corpuscular hemoglobin concentration,0.0,1.0,False
+Nonsyndromic cleft lip with cleft palate,0.0,1.0,False
+Coronary artery calcification,0.0,1.0,False
+Loneliness,0.0,1.0,False
+Loneliness (multivariate analysis),0.0,1.0,False
+Loneliness (linear analysis),0.0,1.0,False
+Venous thromboembolism adjusted for sickle cell variant rs77121243-T,0.0,1.0,False
+Interstitial lung disease,0.0,1.0,False
+Exploratory eye movement dysfunction in schizophrenia (number of eye fixations),0.0,1.0,False
+Emphysema imaging phenotypes,0.0,1.0,False
+Dementia and core Alzheimer's disease neuropathologic changes,0.0,1.0,False
+Response to zileuton treatment in asthma (FEV1 change interaction),0.0,1.0,False
+Classic bladder exstrophy,0.0,1.0,False
+Oppositional defiant disorder dimensions in attention-deficit hyperactivity disorder,0.0,1.0,False
+Presence of antiphospholipid antibodies,0.0,1.0,False
+Carotid plaque burden,0.0,1.0,False
+Cardiovascular disease risk factors,0.0,1.0,False
+Gut microbiota (bacterial taxa),0.0,1.0,False
+Joint mobility (Beighton score),0.0,1.0,False
+Nose size,0.0,1.0,False
+Pediatric bone mineral content (radius),0.0,1.0,False
+Percentage gas trapping,0.0,1.0,False
+Exploratory eye movement dysfunction in schizophrenia (responsive search score),0.0,1.0,False
+Glomerular filtration rate in non diabetics (creatinine),0.0,1.0,False
+Eyebrow thickness,0.0,1.0,False
+Neuroticism (MTAG),0.0,1.0,False
+Pneumonia,0.0,1.0,False
+Scarlet fever,0.0,1.0,False
+Red blood cell density in sickle cell anemia,0.0,1.0,False
+Chickenpox,0.0,1.0,False
+Bacterial meningitis,0.0,1.0,False
+Peripheral arterial disease (traffic-related air pollution interaction),0.0,1.0,False
+Lean body mass,0.0,1.0,False
+Trunk fat mass,0.0,1.0,False
+"Facial morphology (factor 15, philtrum width)",0.0,1.0,False
+Facial morphology (factor 16),0.0,1.0,False
+"Facial morphology (factor 17, height of vermillion upper lip)",0.0,1.0,False
+Facial morphology (factor 18),0.0,1.0,False
+Facial morphology (factor 20),0.0,1.0,False
+DNA methylation (variation),0.0,1.0,False
+Time-dependent creatinine clearance change response to tenofovir treatment in HIV infection (time and treatment arm interaction),0.0,1.0,False
+Vitamin D levels,0.0,1.0,False
+"Facial morphology (factor 6, height of vermillion lower lip)",0.0,1.0,False
+"Facial morphology (factor 11, projection of the nose)",0.0,1.0,False
+"Facial morphology (factor 13, vertical position of alar curvature relative to upper lip)",0.0,1.0,False
+"Facial morphology (factor 14, intercanthal width)",0.0,1.0,False
+Facial morphology (factor 23),0.0,1.0,False
+"Facial morphology (factor 21, depth of nasal alae)",0.0,1.0,False
+6-month creatinine clearance change response to tenofovir treatment in HIV infection (treatment arm interaction),0.0,1.0,False
+Tenofovir clearance in HIV infection,0.0,1.0,False
+Lung cancer in never smokers,0.0,1.0,False
+Age at menopause,0.0,1.0,False

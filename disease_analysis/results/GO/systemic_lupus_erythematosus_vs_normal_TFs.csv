@@ -1,0 +1,2911 @@
+,OR,p,FDR
+regulation of transcription by RNA polymerase II,21.985880398671096,5.0689778184957905e-75,True
+positive regulation of transcription by RNA polymerase II,12.17439350772684,6.239379866089697e-43,True
+negative regulation of transcription by RNA polymerase II,11.523136039265072,3.754883390998649e-36,True
+"regulation of transcription, DNA-templated",10.662988826815642,2.903619819576778e-30,True
+"positive regulation of transcription, DNA-templated",8.598985902936423,7.590313789422136e-19,True
+"negative regulation of transcription, DNA-templated",6.453397063844315,2.312635227618231e-12,True
+positive regulation of pri-miRNA transcription by RNA polymerase II,19.942245989304812,1.5167998460491613e-06,True
+cellular response to DNA damage stimulus,6.107911287653095,2.0345725528795094e-06,True
+transcription initiation from RNA polymerase II promoter,7.6728778467908905,2.0452549589732472e-06,True
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress,63.89392643284859,2.052794449653193e-06,True
+intracellular receptor signaling pathway,26.762765347102697,3.265369586385311e-06,True
+response to lipid,44.7185628742515,6.095593548699571e-06,True
+negative regulation of pri-miRNA transcription by RNA polymerase II,44.7185628742515,6.095593548699571e-06,True
+type I interferon signaling pathway,11.099254843517139,3.221424325564738e-05,True
+eye development,14.776474318325935,4.218535548921948e-05,True
+interferon-gamma-mediated signaling pathway,10.25564738292011,4.8583718947871626e-05,True
+steroid hormone mediated signaling pathway,23.524739993696816,5.059004402522432e-05,True
+hormone-mediated signaling pathway,13.366322432587493,6.528513573067904e-05,True
+negative regulation of cholesterol storage,47.63520408163265,8.398712438041239e-05,True
+negative regulation of fat cell differentiation,12.473226238286479,8.82188075197635e-05,True
+cell differentiation,3.2561088007193435,9.701098323591267e-05,True
+pituitary gland development,19.42931528247852,9.746780750763503e-05,True
+negative regulation of DNA binding,17.1847075080608,0.00014900580476580235,True
+"transcription, DNA-templated",8.247450110864746,0.00014954319803027935,True
+PERK-mediated unfolded protein response,37.04563492063492,0.00015193086305362704,True
+"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",11.002244271202457,0.00015222433160652212,True
+anatomical structure morphogenesis,6.387293469708891,0.00019417646374282374,True
+positive regulation of erythrocyte differentiation,14.890219560878243,0.00024513047956542815,True
+"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",30.306818181818183,0.00024803980857342076,True
+anterior/posterior pattern specification,7.428171828171828,0.00025498941248261264,True
+cytokine-mediated signaling pathway,4.156973461321288,0.0002833602282338962,True
+cell maturation,13.534385773906733,0.000341783186750663,True
+cellular response to hydrogen peroxide,8.761295180722891,0.0004073572430361302,True
+"DNA damage response, signal transduction by p53 class mediator",23.808673469387756,0.0004541852389141571,True
+positive regulation of gene expression,3.3547261626038654,0.0004954209770750476,True
+neuron fate commitment,20.830357142857142,0.0006386408455084672,False
+cellular glucose homeostasis,18.51388888888889,0.0008649644342648113,False
+negative regulation of inflammatory response,5.720184899845917,0.0009427087751799808,False
+viral process,3.092643629425482,0.0009729791668421584,False
+positive regulation of oligodendrocyte differentiation,16.660714285714285,0.0011365374944408318,False
+cellular response to UV,9.49573194037457,0.0011718592718760693,False
+response to mechanical stimulus,8.924550898203593,0.0014520820403621324,False
+animal organ morphogenesis,5.2293164200140945,0.001461625540039607,False
+regulation of lipid metabolic process,6.437127821631353,0.001508117642436945,False
+cell fate commitment,8.74909005518375,0.001555017967863836,False
+positive regulation of neuron apoptotic process,8.74909005518375,0.001555017967863836,False
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway,14.485248447204969,0.0016355946443928433,False
+defense response to protozoan,14.485248447204969,0.0016355946443928433,False
+transcription by RNA polymerase II,4.362383775771459,0.0016653027675438644,False
+response to gamma radiation,13.880952380952381,0.001827860499092402,False
+cytokine production,13.880952380952381,0.001827860499092402,False
+aortic valve morphogenesis,13.325,0.0020336544178442962,False
+negative regulation of fibroblast proliferation,12.811813186813186,0.0022533005862568722,False
+positive regulation of DNA binding,12.336640211640212,0.002487111117531536,False
+somatic stem cell population maintenance,7.559525017761088,0.00256778355558139,False
+neuron differentiation,4.616189290161893,0.0026595610207845446,False
+embryonic organ development,11.895408163265307,0.002735386287335782,False
+circadian regulation of gene expression,7.19258257678192,0.0030423165823058908,False
+response to interferon-beta,27.62130177514793,0.0035094117772062,False
+positive regulation of vascular associated smooth muscle cell apoptotic process,27.62130177514793,0.0035094117772062,False
+positive regulation of fatty acid beta-oxidation,27.62130177514793,0.0035094117772062,False
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,10.742511520737327,0.0035698296496127005,False
+regulation of hematopoietic stem cell differentiation,6.85951174573929,0.003573491966502272,False
+glucose homeostasis,5.038803864105069,0.004134824472395234,False
+immune system process,10.090367965367966,0.004203441555852747,False
+short-term memory,24.55095332018409,0.004263789394861509,False
+mRNA transcription by RNA polymerase II,24.55095332018409,0.004263789394861509,False
+negative regulation of telomerase activity,24.55095332018409,0.004263789394861509,False
+ER overload response,24.55095332018409,0.004263789394861509,False
+response to drug,3.2726949408731216,0.0044715209369225045,False
+placenta development,9.793067226890756,0.004544176117998163,False
+defense response,6.367835757057314,0.004592986301434712,False
+regulation of telomere maintenance,22.09467455621302,0.00508616110130747,False
+"positive regulation of phagocytosis, engulfment",22.09467455621302,0.00508616110130747,False
+calcineurin-NFAT signaling cascade,22.09467455621302,0.00508616110130747,False
+enamel mineralization,22.09467455621302,0.00508616110130747,False
+RNA polymerase II preinitiation complex assembly,22.09467455621302,0.00508616110130747,False
+regulation of cellular senescence,22.09467455621302,0.00508616110130747,False
+negative regulation of cell growth involved in cardiac muscle cell development,22.09467455621302,0.00508616110130747,False
+ossification,6.105159543925847,0.005290028477064302,False
+cellular response to hypoxia,4.738104962221769,0.005296161705253127,False
+negative regulation of cell proliferation,2.733667589613111,0.005523860904137233,False
+hepatocyte differentiation,20.084991931145776,0.005975245916351877,False
+regulation of osteoblast differentiation,20.084991931145776,0.005975245916351877,False
+negative regulation of macrophage derived foam cell differentiation,20.084991931145776,0.005975245916351877,False
+cellular response to interleukin-1,5.712267772148012,0.0066030780712574375,False
+negative regulation of collagen biosynthetic process,18.41025641025641,0.006929780267373338,False
+trophoblast giant cell differentiation,18.41025641025641,0.006929780267373338,False
+"regulation of gene expression, epigenetic",18.41025641025641,0.006929780267373338,False
+positive regulation of leukocyte adhesion to vascular endothelial cell,18.41025641025641,0.006929780267373338,False
+cardiac right ventricle morphogenesis,18.41025641025641,0.006929780267373338,False
+heart development,3.655335968379447,0.00782459023172243,False
+lipid homeostasis,7.924319727891157,0.007871922321760925,False
+sympathetic nervous system development,16.993172507965408,0.007948517783995154,False
+chromosome organization,16.993172507965408,0.007948517783995154,False
+negative regulation of androgen receptor signaling pathway,16.993172507965408,0.007948517783995154,False
+erythrocyte maturation,16.993172507965408,0.007948517783995154,False
+protein acetylation,16.993172507965408,0.007948517783995154,False
+positive regulation of transcription regulatory region DNA binding,16.993172507965408,0.007948517783995154,False
+cellular response to peptide,16.993172507965408,0.007948517783995154,False
+regulation of regulatory T cell differentiation,16.993172507965408,0.007948517783995154,False
+regulation of fat cell differentiation,16.993172507965408,0.007948517783995154,False
+response to growth factor,16.993172507965408,0.007948517783995154,False
+negative regulation of cold-induced thermogenesis,7.563311688311688,0.008877571349625238,False
+hematopoietic stem cell differentiation,15.778529163144547,0.009030229090415764,False
+positive regulation of gluconeogenesis,15.778529163144547,0.009030229090415764,False
+positive regulation of lipid biosynthetic process,15.778529163144547,0.009030229090415764,False
+estrous cycle,15.778529163144547,0.009030229090415764,False
+cellular response to glucose starvation,7.233695652173913,0.009955087738803717,False
+endoplasmic reticulum unfolded protein response,7.233695652173913,0.009955087738803717,False
+cell fate determination,14.725838264299803,0.01017370160433078,False
+positive regulation by host of viral transcription,14.725838264299803,0.01017370160433078,False
+in utero embryonic development,3.411721273650208,0.010635066992225266,False
+defense response to virus,3.411721273650208,0.010635066992225266,False
+kidney development,4.892807791011384,0.01098048760260114,False
+myeloid cell differentiation,13.804733727810651,0.011377739334651183,False
+camera-type eye morphogenesis,13.804733727810651,0.011377739334651183,False
+embryonic hemopoiesis,13.804733727810651,0.011377739334651183,False
+myeloid dendritic cell differentiation,13.804733727810651,0.011377739334651183,False
+response to vitamin A,12.991994430908457,0.012641162685568256,False
+spinal cord motor neuron differentiation,12.991994430908457,0.012641162685568256,False
+chromatin remodeling,4.636726546906187,0.013064279431345456,False
+positive regulation of interferon-alpha production,12.26955950032873,0.01396280825985812,False
+protein tetramerization,12.26955950032873,0.01396280825985812,False
+positive regulation of endothelial cell migration,5.938775510204081,0.016449858583968212,False
+negative regulation of cell cycle arrest,11.041420118343195,0.01677619231173381,False
+gastrulation,10.515074668920823,0.018265683246918827,False
+positive regulation of mesenchymal cell proliferation,10.515074668920823,0.018265683246918827,False
+negative regulation of cellular senescence,10.515074668920823,0.018265683246918827,False
+endocrine pancreas development,10.036578805809574,0.019808900943259773,False
+positive regulation of glycolytic process,10.036578805809574,0.019808900943259773,False
+intrinsic apoptotic signaling pathway by p53 class mediator,10.036578805809574,0.019808900943259773,False
+negative regulation of myoblast differentiation,10.036578805809574,0.019808900943259773,False
+fatty acid metabolic process,5.3623271889400925,0.021252126280084292,False
+regulation of circadian rhythm,5.3623271889400925,0.021252126280084292,False
+cellular response to interleukin-4,9.599691278621044,0.021404760123538515,False
+roof of mouth development,5.2769274376417235,0.02211926007413763,False
+response to insulin,5.194196428571429,0.02300549441302077,False
+post-embryonic development,5.194196428571429,0.02300549441302077,False
+proximal/distal pattern formation,9.199211045364892,0.023052190579907223,False
+regulation of cell cycle,3.8001944828292133,0.02448564944307726,False
+embryonic pattern specification,8.830769230769231,0.02475013698785873,False
+positive regulation of cell cycle arrest,8.830769230769231,0.02475013698785873,False
+bone morphogenesis,8.830769230769231,0.02475013698785873,False
+negative regulation of gene expression,2.7137283768862717,0.028089765602546043,False
+positive regulation of DNA replication,8.175761560376944,0.028293429697320405,False
+neural tube development,8.175761560376944,0.028293429697320405,False
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator,8.175761560376944,0.028293429697320405,False
+beta-catenin-TCF complex assembly,8.175761560376944,0.028293429697320405,False
+circadian rhythm,4.68033199195171,0.029743146462429853,False
+adipose tissue development,7.88334742180896,0.03013673816699032,False
+positive regulation of interferon-beta production,7.88334742180896,0.03013673816699032,False
+cell cycle arrest,3.527041155783671,0.03077667944321279,False
+cellular response to tumor necrosis factor,3.4990805789994814,0.03152912868393151,False
+cellular response to dexamethasone stimulus,7.611099775556009,0.03202648657244153,False
+face morphogenesis,7.611099775556009,0.03202648657244153,False
+JAK-STAT cascade,7.611099775556009,0.03202648657244153,False
+"DNA-templated transcription, initiation",7.611099775556009,0.03202648657244153,False
+T cell differentiation in thymus,7.611099775556009,0.03202648657244153,False
+spinal cord development,7.357001972386588,0.03396169135890089,False
+sprouting angiogenesis,7.357001972386588,0.03396169135890089,False
+cochlea development,7.357001972386588,0.03396169135890089,False
+negative regulation of smooth muscle cell proliferation,7.357001972386588,0.03396169135890089,False
+spermatogenesis,2.2035242157941544,0.03586159811590505,False
+cellular response to BMP stimulus,7.119297575873258,0.0359413828115678,False
+negative regulation of DNA-binding transcription factor activity,4.314239332096475,0.03625707696224031,False
+negative regulation of transforming growth factor beta receptor signaling pathway,4.258699633699634,0.037408315801314256,False
+energy homeostasis,6.687107764030841,0.04003041503492068,False
+regulation of angiogenesis,6.687107764030841,0.04003041503492068,False
+lipid metabolic process,3.2182591339061006,0.04051943088734502,False
+positive regulation of apoptotic process,2.268381053375751,0.04184561928892978,False
+negative regulation of endothelial cell apoptotic process,6.490080055690916,0.04213788406347574,False
+cell motility,6.490080055690916,0.04213788406347574,False
+T cell differentiation,6.490080055690916,0.04213788406347574,False
+response to interleukin-1,6.490080055690916,0.04213788406347574,False
+response to cold,6.490080055690916,0.04213788406347574,False
+negative regulation of interferon-gamma production,6.304311073541843,0.044286095946594196,False
+positive regulation of cell proliferation,2.00352733686067,0.04464031231846763,False
+positive regulation of intrinsic apoptotic signaling pathway,6.128862590401052,0.046474147677506863,False
+positive regulation of angiogenesis,3.040603724058732,0.047882456279714346,False
+muscle organ development,3.816297208538588,0.04859675520769544,False
+negative regulation of Notch signaling pathway,5.962897809051655,0.0487011491158606,False
+response to starvation,5.656501289637385,0.05326850387916531,False
+response to cAMP,5.656501289637385,0.05326850387916531,False
+negative regulation of viral genome replication,5.656501289637385,0.05326850387916531,False
+embryonic skeletal system morphogenesis,5.514792899408284,0.05560713980781975,False
+camera-type eye development,5.514792899408284,0.05560713980781975,False
+positive regulation of insulin secretion,5.514792899408284,0.05560713980781975,False
+intrinsic apoptotic signaling pathway in response to DNA damage,5.379997113580603,0.057981290349128085,False
+brain development,2.4594839535131676,0.05965819076522521,False
+thymus development,5.251620174697098,0.060390127332783,False
+telomere maintenance,5.251620174697098,0.060390127332783,False
+response to cytokine,5.251620174697098,0.060390127332783,False
+somitogenesis,5.251620174697098,0.060390127332783,False
+cellular response to amino acid starvation,5.251620174697098,0.060390127332783,False
+cellular response to insulin stimulus,3.456845238095238,0.06122980785737247,False
+positive regulation of epithelial to mesenchymal transition,5.129214256226779,0.06283283454028397,False
+gluconeogenesis,5.129214256226779,0.06283283454028397,False
+cellular response to lipopolysaccharide,2.720987472906947,0.0658180799606986,False
+transforming growth factor beta receptor signaling pathway,3.317857142857143,0.06728864317254632,False
+cerebellum development,4.793928479547208,0.0703561914479305,False
+negative regulation of Wnt signaling pathway,4.793928479547208,0.0703561914479305,False
+erythrocyte differentiation,4.793928479547208,0.0703561914479305,False
+response to peptide hormone,4.793928479547208,0.0703561914479305,False
+positive regulation of fibroblast proliferation,4.691678207226489,0.07292645117882272,False
+positive regulation of tumor necrosis factor production,4.593688362919132,0.07552667415021153,False
+negative regulation of I-kappaB kinase/NF-kappaB signaling,4.593688362919132,0.07552667415021153,False
+negative regulation of osteoblast differentiation,4.593688362919132,0.07552667415021153,False
+positive regulation of blood vessel endothelial cell migration,4.593688362919132,0.07552667415021153,False
+neuron migration,3.0996328437917224,0.07851871977759348,False
+negative regulation of apoptotic process,1.8412497628233508,0.08065435952524369,False
+positive regulation of type I interferon production,4.409467455621302,0.08081403049367014,False
+positive regulation of interleukin-8 production,4.239417387346381,0.08621241057408757,False
+positive regulation of fat cell differentiation,4.239417387346381,0.08621241057408757,False
+ear development,12.203267973856208,0.08711663938322006,False
+positive regulation of cellular component movement,12.203267973856208,0.08711663938322006,False
+prostate gland development,12.203267973856208,0.08711663938322006,False
+glycosaminoglycan metabolic process,12.203267973856208,0.08711663938322006,False
+response to UV-C,12.203267973856208,0.08711663938322006,False
+negative regulation of potassium ion transport,12.203267973856208,0.08711663938322006,False
+positive regulation of protein metabolic process,12.203267973856208,0.08711663938322006,False
+protein localization to microtubule,12.203267973856208,0.08711663938322006,False
+negative regulation of telomere maintenance via telomere lengthening,12.203267973856208,0.08711663938322006,False
+response to salt stress,12.203267973856208,0.08711663938322006,False
+positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,12.203267973856208,0.08711663938322006,False
+negative regulation of histone acetylation,12.203267973856208,0.08711663938322006,False
+positive regulation of B cell receptor signaling pathway,12.203267973856208,0.08711663938322006,False
+negative regulation of appetite,12.203267973856208,0.08711663938322006,False
+angiogenesis involved in wound healing,12.203267973856208,0.08711663938322006,False
+negative regulation of production of miRNAs involved in gene silencing by miRNA,12.203267973856208,0.08711663938322006,False
+positive regulation of megakaryocyte differentiation,12.203267973856208,0.08711663938322006,False
+positive regulation of signal transduction,12.203267973856208,0.08711663938322006,False
+regulation of myeloid cell differentiation,12.203267973856208,0.08711663938322006,False
+peripheral nervous system neuron development,12.203267973856208,0.08711663938322006,False
+cellular response to lipoteichoic acid,12.203267973856208,0.08711663938322006,False
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process,4.159205090990287,0.08895145328883931,False
+odontogenesis of dentin-containing tooth,4.007530930607854,0.09450577326987936,False
+inner ear morphogenesis,4.007530930607854,0.09450577326987936,False
+regulation of B cell receptor signaling pathway,10.98235294117647,0.09540192438063842,False
+positive regulation of monocyte chemotactic protein-1 production,10.98235294117647,0.09540192438063842,False
+cellular response to interferon-alpha,10.98235294117647,0.09540192438063842,False
+mesonephros development,10.98235294117647,0.09540192438063842,False
+attachment of mitotic spindle microtubules to kinetochore,10.98235294117647,0.09540192438063842,False
+negative regulation of lipopolysaccharide-mediated signaling pathway,10.98235294117647,0.09540192438063842,False
+positive regulation of RNA polymerase II transcriptional preinitiation complex assembly,10.98235294117647,0.09540192438063842,False
+positive regulation of mast cell degranulation,10.98235294117647,0.09540192438063842,False
+interleukin-27-mediated signaling pathway,10.98235294117647,0.09540192438063842,False
+positive regulation of cell cycle G1/S phase transition,10.98235294117647,0.09540192438063842,False
+positive regulation of production of miRNAs involved in gene silencing by miRNA,10.98235294117647,0.09540192438063842,False
+interleukin-35-mediated signaling pathway,10.98235294117647,0.09540192438063842,False
+positive regulation of regulatory T cell differentiation,10.98235294117647,0.09540192438063842,False
+intracellular steroid hormone receptor signaling pathway,10.98235294117647,0.09540192438063842,False
+cellular response to angiotensin,10.98235294117647,0.09540192438063842,False
+keratinocyte proliferation,10.98235294117647,0.09540192438063842,False
+"protein localization to chromosome, telomeric region",10.98235294117647,0.09540192438063842,False
+positive regulation of histone deacetylation,10.98235294117647,0.09540192438063842,False
+anoikis,10.98235294117647,0.09540192438063842,False
+limb bud formation,10.98235294117647,0.09540192438063842,False
+positive regulation of transcription by RNA polymerase I,10.98235294117647,0.09540192438063842,False
+cellular response to cold,10.98235294117647,0.09540192438063842,False
+positive regulation of interleukin-5 production,10.98235294117647,0.09540192438063842,False
+protein localization to kinetochore,10.98235294117647,0.09540192438063842,False
+Golgi vesicle transport,10.98235294117647,0.09540192438063842,False
+Wnt signaling pathway,2.3686957635531076,0.09624061843358193,False
+positive regulation of smooth muscle cell proliferation,3.9357565511411665,0.09731969301268853,False
+tumor necrosis factor-mediated signaling pathway,2.785264105642257,0.09951120544681819,False
+positive regulation of epithelial cell proliferation,3.8665005709540123,0.10015723106628507,False
+humoral immune response,3.8665005709540123,0.10015723106628507,False
+negative regulation of neuron differentiation,3.8665005709540123,0.10015723106628507,False
+phagocytosis,3.799632728014691,0.10301773369722766,False
+negative regulation of angiogenesis,2.738931523022432,0.10320995489783245,False
+urogenital system development,9.983422459893049,0.103612448320608,False
+natural killer cell differentiation,9.983422459893049,0.103612448320608,False
+negative regulation of cell motility,9.983422459893049,0.103612448320608,False
+response to muramyl dipeptide,9.983422459893049,0.103612448320608,False
+negative regulation by host of viral transcription,9.983422459893049,0.103612448320608,False
+negative regulation of ATPase activity,9.983422459893049,0.103612448320608,False
+positive regulation of interleukin-13 production,9.983422459893049,0.103612448320608,False
+negative regulation of neural precursor cell proliferation,9.983422459893049,0.103612448320608,False
+hypothalamus development,9.983422459893049,0.103612448320608,False
+endoderm formation,9.983422459893049,0.103612448320608,False
+cellular response to fluid shear stress,9.983422459893049,0.103612448320608,False
+thalamus development,9.983422459893049,0.103612448320608,False
+negative regulation of toll-like receptor 4 signaling pathway,9.983422459893049,0.103612448320608,False
+negative regulation of protein sumoylation,9.983422459893049,0.103612448320608,False
+lens morphogenesis in camera-type eye,9.983422459893049,0.103612448320608,False
+fatty acid catabolic process,9.983422459893049,0.103612448320608,False
+positive regulation of osteoblast proliferation,9.983422459893049,0.103612448320608,False
+response to estrogen,3.7350315916156855,0.10590055697252768,False
+SMAD protein signal transduction,3.7350315916156855,0.10590055697252768,False
+negative regulation of cell growth,2.694105691056911,0.10696272192418717,False
+positive regulation of synapse assembly,3.6725838264299804,0.10880506662848338,False
+autophagy,2.6722350230414746,0.10885898760522111,False
+regulation of apoptotic process,2.247241557494149,0.11056461540878779,False
+response to carbohydrate,9.150980392156862,0.11174888185166834,False
+replicative senescence,9.150980392156862,0.11174888185166834,False
+regulation of NIK/NF-kappaB signaling,9.150980392156862,0.11174888185166834,False
+rRNA transcription,9.150980392156862,0.11174888185166834,False
+regulation of respiratory gaseous exchange by neurological system process,9.150980392156862,0.11174888185166834,False
+regulation of type I interferon production,9.150980392156862,0.11174888185166834,False
+positive regulation of type I interferon-mediated signaling pathway,9.150980392156862,0.11174888185166834,False
+positive regulation of response to DNA damage stimulus,9.150980392156862,0.11174888185166834,False
+macrophage activation,9.150980392156862,0.11174888185166834,False
+immunoglobulin mediated immune response,9.150980392156862,0.11174888185166834,False
+eyelid development in camera-type eye,9.150980392156862,0.11174888185166834,False
+cardiac septum morphogenesis,9.150980392156862,0.11174888185166834,False
+cerebral cortex neuron differentiation,9.150980392156862,0.11174888185166834,False
+regulation of interferon-gamma-mediated signaling pathway,9.150980392156862,0.11174888185166834,False
+negative regulation of smooth muscle cell migration,9.150980392156862,0.11174888185166834,False
+cellular response to glucose stimulus,3.5537316281733156,0.11467665563460822,False
+DNA replication,2.588169642857143,0.11657307338990777,False
+regulation of signal transduction by p53 class mediator,2.588169642857143,0.11657307338990777,False
+kinetochore assembly,8.44660633484163,0.11981188966582737,False
+lipoprotein transport,8.44660633484163,0.11981188966582737,False
+negative regulation of glycolytic process,8.44660633484163,0.11981188966582737,False
+white fat cell differentiation,8.44660633484163,0.11981188966582737,False
+cardiac muscle cell proliferation,8.44660633484163,0.11981188966582737,False
+glial cell differentiation,8.44660633484163,0.11981188966582737,False
+digestive tract morphogenesis,8.44660633484163,0.11981188966582737,False
+negative regulation of oxidative stress-induced neuron death,8.44660633484163,0.11981188966582737,False
+cardiac muscle hypertrophy in response to stress,8.44660633484163,0.11981188966582737,False
+negative regulation of interferon-beta production,8.44660633484163,0.11981188966582737,False
+regulation of bicellular tight junction assembly,8.44660633484163,0.11981188966582737,False
+cellular response to organic substance,8.44660633484163,0.11981188966582737,False
+central nervous system neuron development,8.44660633484163,0.11981188966582737,False
+positive regulation of fatty acid biosynthetic process,8.44660633484163,0.11981188966582737,False
+vascular endothelial growth factor signaling pathway,8.44660633484163,0.11981188966582737,False
+rhythmic process,3.4423076923076925,0.12062761537998945,False
+hematopoietic progenitor cell differentiation,3.4423076923076925,0.12062761537998945,False
+positive regulation of NIK/NF-kappaB signaling,3.4423076923076925,0.12062761537998945,False
+cellular response to drug,3.3891670459717798,0.12363137295028881,False
+canonical Wnt signaling pathway,3.337636722252107,0.1266532076746476,False
+response to nutrient,3.337636722252107,0.1266532076746476,False
+positive regulation of T cell receptor signaling pathway,7.8428571428571425,0.12780213051755948,False
+nucleosome positioning,7.8428571428571425,0.12780213051755948,False
+positive regulation of neuron migration,7.8428571428571425,0.12780213051755948,False
+energy reserve metabolic process,7.8428571428571425,0.12780213051755948,False
+negative regulation of innate immune response,7.8428571428571425,0.12780213051755948,False
+"negative regulation of DNA damage response, signal transduction by p53 class mediator",7.8428571428571425,0.12780213051755948,False
+oxygen transport,7.8428571428571425,0.12780213051755948,False
+fatty acid oxidation,7.8428571428571425,0.12780213051755948,False
+hematopoietic stem cell proliferation,7.8428571428571425,0.12780213051755948,False
+uterus development,7.8428571428571425,0.12780213051755948,False
+pulmonary valve morphogenesis,7.8428571428571425,0.12780213051755948,False
+regulation of intracellular estrogen receptor signaling pathway,7.8428571428571425,0.12780213051755948,False
+response to muscle stretch,7.8428571428571425,0.12780213051755948,False
+cellular response to dopamine,7.8428571428571425,0.12780213051755948,False
+positive regulation of DNA biosynthetic process,7.8428571428571425,0.12780213051755948,False
+snRNA transcription by RNA polymerase II,3.239122868082144,0.1327488377121573,False
+fat cell differentiation,3.239122868082144,0.1327488377121573,False
+cellular response to nitric oxide,7.319607843137255,0.13572025728451867,False
+histone H4-K5 acetylation,7.319607843137255,0.13572025728451867,False
+response to organonitrogen compound,7.319607843137255,0.13572025728451867,False
+epithelial cell morphogenesis,7.319607843137255,0.13572025728451867,False
+regulation of gene expression by genetic imprinting,7.319607843137255,0.13572025728451867,False
+anterior/posterior axis specification,7.319607843137255,0.13572025728451867,False
+positive regulation of nitric-oxide synthase biosynthetic process,7.319607843137255,0.13572025728451867,False
+histone H4-K8 acetylation,7.319607843137255,0.13572025728451867,False
+homeostasis of number of cells,7.319607843137255,0.13572025728451867,False
+cellular response to chemokine,7.319607843137255,0.13572025728451867,False
+long-chain fatty acid transport,7.319607843137255,0.13572025728451867,False
+embryonic heart tube development,7.319607843137255,0.13572025728451867,False
+cellular response to hepatocyte growth factor stimulus,7.319607843137255,0.13572025728451867,False
+definitive hemopoiesis,7.319607843137255,0.13572025728451867,False
+cellular response to prostaglandin E stimulus,7.319607843137255,0.13572025728451867,False
+"positive regulation of DNA-templated transcription, elongation",7.319607843137255,0.13572025728451867,False
+regulation of insulin secretion involved in cellular response to glucose stimulus,7.319607843137255,0.13572025728451867,False
+positive regulation of glial cell proliferation,7.319607843137255,0.13572025728451867,False
+cell proliferation,2.3819373072970196,0.13878395954045133,False
+cellular response to starvation,3.1017584798733226,0.14201389580814358,False
+regulation of neuron apoptotic process,6.8617647058823525,0.14356691701352378,False
+regulation of G1/S transition of mitotic cell cycle,6.8617647058823525,0.14356691701352378,False
+monocyte differentiation,6.8617647058823525,0.14356691701352378,False
+negative regulation of phosphatidylinositol 3-kinase signaling,6.8617647058823525,0.14356691701352378,False
+fatty acid homeostasis,6.8617647058823525,0.14356691701352378,False
+mitotic cell cycle arrest,6.8617647058823525,0.14356691701352378,False
+regulation of keratinocyte differentiation,6.8617647058823525,0.14356691701352378,False
+determination of adult lifespan,6.8617647058823525,0.14356691701352378,False
+retinoic acid receptor signaling pathway,6.8617647058823525,0.14356691701352378,False
+isotype switching,6.8617647058823525,0.14356691701352378,False
+regulation of extrinsic apoptotic signaling pathway via death domain receptors,6.8617647058823525,0.14356691701352378,False
+negative regulation of DNA replication,6.457785467128027,0.15134275098904598,False
+olfactory bulb development,6.457785467128027,0.15134275098904598,False
+embryonic digestive tract morphogenesis,6.457785467128027,0.15134275098904598,False
+negative regulation of myeloid cell differentiation,6.457785467128027,0.15134275098904598,False
+positive regulation of transcription of Notch receptor target,6.457785467128027,0.15134275098904598,False
+negative regulation of myotube differentiation,6.457785467128027,0.15134275098904598,False
+cellular response to interleukin-6,6.457785467128027,0.15134275098904598,False
+positive regulation of branching involved in ureteric bud morphogenesis,6.457785467128027,0.15134275098904598,False
+response to fatty acid,6.457785467128027,0.15134275098904598,False
+myelination in peripheral nervous system,6.457785467128027,0.15134275098904598,False
+positive regulation of cardiac muscle cell apoptotic process,6.457785467128027,0.15134275098904598,False
+pharyngeal system development,6.457785467128027,0.15134275098904598,False
+endocardial cushion morphogenesis,6.457785467128027,0.15134275098904598,False
+response to endoplasmic reticulum stress,2.975531744762514,0.15141208349157534,False
+liver development,2.975531744762514,0.15141208349157534,False
+negative regulation of protein binding,2.935700197238659,0.15457199337324667,False
+neural tube closure,2.8969168483338525,0.15774466182134103,False
+cellular response to extracellular stimulus,6.098692810457516,0.1590483947767834,False
+positive regulation of T cell differentiation,6.098692810457516,0.1590483947767834,False
+regulation of establishment of cell polarity,6.098692810457516,0.1590483947767834,False
+regulation of blood vessel diameter,6.098692810457516,0.1590483947767834,False
+positive regulation of keratinocyte differentiation,6.098692810457516,0.1590483947767834,False
+membrane protein intracellular domain proteolysis,6.098692810457516,0.1590483947767834,False
+regulation of reactive oxygen species metabolic process,6.098692810457516,0.1590483947767834,False
+TOR signaling,6.098692810457516,0.1590483947767834,False
+cell-substrate adhesion,6.098692810457516,0.1590483947767834,False
+interleukin-6-mediated signaling pathway,6.098692810457516,0.1590483947767834,False
+blastocyst development,6.098692810457516,0.1590483947767834,False
+positive regulation of chondrocyte differentiation,6.098692810457516,0.1590483947767834,False
+glycogen biosynthetic process,6.098692810457516,0.1590483947767834,False
+regulation of gene expression,1.929869518604712,0.16209389499211166,False
+chromatin organization,2.205952380952381,0.1622954879889943,False
+positive regulation of blood vessel diameter,5.777399380804954,0.16668447827841962,False
+embryonic placenta development,5.777399380804954,0.16668447827841962,False
+positive regulation of protein export from nucleus,5.777399380804954,0.16668447827841962,False
+iron ion transport,5.777399380804954,0.16668447827841962,False
+positive regulation of amyloid-beta formation,5.777399380804954,0.16668447827841962,False
+stress-activated protein kinase signaling cascade,5.777399380804954,0.16668447827841962,False
+cGMP-mediated signaling,5.777399380804954,0.16668447827841962,False
+lipoprotein metabolic process,5.777399380804954,0.16668447827841962,False
+necroptotic process,5.777399380804954,0.16668447827841962,False
+positive regulation of transcription initiation from RNA polymerase II promoter,5.777399380804954,0.16668447827841962,False
+endoderm development,5.777399380804954,0.16668447827841962,False
+positive regulation of myoblast fusion,5.777399380804954,0.16668447827841962,False
+cellular response to low-density lipoprotein particle stimulus,5.777399380804954,0.16668447827841962,False
+middle ear morphogenesis,5.777399380804954,0.16668447827841962,False
+response to X-ray,5.777399380804954,0.16668447827841962,False
+negative regulation of interleukin-17 production,5.777399380804954,0.16668447827841962,False
+regulation of bone mineralization,5.777399380804954,0.16668447827841962,False
+negative regulation of telomere maintenance via telomerase,5.777399380804954,0.16668447827841962,False
+temperature homeostasis,5.777399380804954,0.16668447827841962,False
+histone H4-K16 acetylation,5.488235294117647,0.17425162576211378,False
+cartilage condensation,5.488235294117647,0.17425162576211378,False
+regulation of smoothened signaling pathway,5.488235294117647,0.17425162576211378,False
+thyroid gland development,5.488235294117647,0.17425162576211378,False
+positive regulation of dendritic spine morphogenesis,5.488235294117647,0.17425162576211378,False
+neuron projection extension,5.488235294117647,0.17425162576211378,False
+gene expression,5.488235294117647,0.17425162576211378,False
+positive regulation of dendrite morphogenesis,5.488235294117647,0.17425162576211378,False
+negative regulation of cardiac muscle cell proliferation,5.488235294117647,0.17425162576211378,False
+brain morphogenesis,5.488235294117647,0.17425162576211378,False
+neural crest cell development,5.488235294117647,0.17425162576211378,False
+sex differentiation,5.488235294117647,0.17425162576211378,False
+BMP signaling pathway,2.684081397026988,0.17702184705260518,False
+regulation of inflammatory response,2.684081397026988,0.17702184705260518,False
+positive regulation of NF-kappaB transcription factor activity,2.1068016378525933,0.1778406040083767,False
+multicellular organism growth,2.651600484779354,0.18027060527776628,False
+release of cytochrome c from mitochondria,5.226610644257703,0.1817504559300127,False
+negative regulation of reactive oxygen species metabolic process,5.226610644257703,0.1817504559300127,False
+mammary gland development,5.226610644257703,0.1817504559300127,False
+response to immobilization stress,5.226610644257703,0.1817504559300127,False
+negative regulation of proteolysis,5.226610644257703,0.1817504559300127,False
+positive regulation of cell motility,5.226610644257703,0.1817504559300127,False
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,5.226610644257703,0.1817504559300127,False
+positive regulation of nitric-oxide synthase activity,5.226610644257703,0.1817504559300127,False
+positive regulation of peptidyl-tyrosine phosphorylation,2.6198929275852354,0.18352843371130784,False
+positive regulation of interleukin-6 production,2.5889314305603897,0.1867949039359279,False
+developmental growth,4.988770053475936,0.1891815819595723,False
+regulation of Wnt signaling pathway,4.988770053475936,0.1891815819595723,False
+transcription by RNA polymerase III,4.988770053475936,0.1891815819595723,False
+negative regulation of interleukin-2 production,4.988770053475936,0.1891815819595723,False
+response to interferon-gamma,4.988770053475936,0.1891815819595723,False
+DNA methylation,4.988770053475936,0.1891815819595723,False
+artery morphogenesis,4.988770053475936,0.1891815819595723,False
+neuronal stem cell population maintenance,4.988770053475936,0.1891815819595723,False
+mitochondrial calcium ion transmembrane transport,4.988770053475936,0.1891815819595723,False
+cellular response to interferon-beta,4.988770053475936,0.1891815819595723,False
+wound healing,2.529143712167585,0.1933520906621788,False
+Fc-epsilon receptor signaling pathway,2.003787878787879,0.19608276765475705,False
+phospholipid biosynthetic process,4.771611253196931,0.1965456115660543,False
+cellular senescence,4.771611253196931,0.1965456115660543,False
+positive regulation of innate immune response,4.771611253196931,0.1965456115660543,False
+positive regulation of interleukin-4 production,4.771611253196931,0.1965456115660543,False
+negative regulation of endothelial cell migration,4.771611253196931,0.1965456115660543,False
+skeletal muscle fiber development,4.771611253196931,0.1965456115660543,False
+male meiosis I,4.771611253196931,0.1965456115660543,False
+pancreas development,4.771611253196931,0.1965456115660543,False
+glucose transmembrane transport,4.771611253196931,0.1965456115660543,False
+regulation of cell proliferation,1.9795765611633875,0.20071422885258677,False
+ventricular cardiac muscle tissue morphogenesis,4.572549019607843,0.2038431470410195,False
+cellular response to fatty acid,4.572549019607843,0.2038431470410195,False
+cell aging,4.572549019607843,0.2038431470410195,False
+negative regulation of vascular endothelial cell proliferation,4.572549019607843,0.2038431470410195,False
+decidualization,4.572549019607843,0.2038431470410195,False
+intrinsic apoptotic signaling pathway,4.572549019607843,0.2038431470410195,False
+regulation of glucose metabolic process,4.389411764705883,0.21107478529983945,False
+regulation of canonical Wnt signaling pathway,4.389411764705883,0.21107478529983945,False
+positive regulation of interleukin-2 production,4.389411764705883,0.21107478529983945,False
+regulation of neuron differentiation,4.389411764705883,0.21107478529983945,False
+response to morphine,4.389411764705883,0.21107478529983945,False
+positive regulation of excitatory postsynaptic potential,4.389411764705883,0.21107478529983945,False
+innate immune response in mucosa,4.389411764705883,0.21107478529983945,False
+cellular response to oxidative stress,2.365209645606668,0.21318860831893952,False
+male gonad development,2.365209645606668,0.21318860831893952,False
+cellular response to interferon-gamma,2.3399219438499306,0.2165146915132579,False
+mRNA stabilization,4.220361990950226,0.21824111792959455,False
+response to organic substance,4.220361990950226,0.21824111792959455,False
+oligodendrocyte development,4.220361990950226,0.21824111792959455,False
+positive regulation of protein localization to nucleus,4.220361990950226,0.21824111792959455,False
+gamma-aminobutyric acid signaling pathway,4.220361990950226,0.21824111792959455,False
+negative regulation of peptidyl-serine phosphorylation,4.220361990950226,0.21824111792959455,False
+positive regulation of viral transcription,4.220361990950226,0.21824111792959455,False
+positive regulation of reactive oxygen species metabolic process,4.220361990950226,0.21824111792959455,False
+negative regulation of sprouting angiogenesis,4.220361990950226,0.21824111792959455,False
+negative regulation of blood pressure,4.220361990950226,0.21824111792959455,False
+protein deubiquitination,1.6969138645785353,0.2186942465581754,False
+negative regulation of canonical Wnt signaling pathway,1.8774350649350648,0.22186111435174966,False
+cholesterol homeostasis,2.2909270216962523,0.22318067552680618,False
+telomere capping,4.063834422657952,0.22534273123200818,False
+positive regulation of release of cytochrome c from mitochondria,4.063834422657952,0.22534273123200818,False
+positive regulation of vascular endothelial growth factor production,4.063834422657952,0.22534273123200818,False
+endodermal cell differentiation,4.063834422657952,0.22534273123200818,False
+developmental process,4.063834422657952,0.22534273123200818,False
+homeostasis of number of cells within a tissue,4.063834422657952,0.22534273123200818,False
+regulation of DNA-binding transcription factor activity,4.063834422657952,0.22534273123200818,False
+embryonic hindlimb morphogenesis,3.918487394957983,0.23238020629755318,False
+endochondral ossification,3.918487394957983,0.23238020629755318,False
+response to antibiotic,3.918487394957983,0.23238020629755318,False
+entrainment of circadian clock by photoperiod,3.918487394957983,0.23238020629755318,False
+negative regulation of apoptotic signaling pathway,3.918487394957983,0.23238020629755318,False
+positive regulation of defense response to virus by host,3.918487394957983,0.23238020629755318,False
+transcription elongation from RNA polymerase I promoter,3.918487394957983,0.23238020629755318,False
+digestive tract development,3.918487394957983,0.23238020629755318,False
+positive regulation of I-kappaB kinase/NF-kappaB signaling,1.8149529042386185,0.23620038864810422,False
+protein stabilization,1.804937548790008,0.23860644765089306,False
+TRIF-dependent toll-like receptor signaling pathway,3.7831643002028397,0.23935411899080167,False
+establishment of mitotic spindle orientation,3.7831643002028397,0.23935411899080167,False
+regulation of transcription involved in G1/S transition of mitotic cell cycle,3.7831643002028397,0.23935411899080167,False
+termination of RNA polymerase I transcription,3.7831643002028397,0.23935411899080167,False
+respiratory gaseous exchange,3.7831643002028397,0.23935411899080167,False
+cellular response to gamma radiation,3.7831643002028397,0.23935411899080167,False
+mesoderm development,3.7831643002028397,0.23935411899080167,False
+response to virus,2.1554704722125537,0.24326422397050923,False
+regulation of neuron projection development,3.656862745098039,0.24626504005912975,False
+response to amino acid,3.656862745098039,0.24626504005912975,False
+positive regulation of mitotic cell cycle,3.656862745098039,0.24626504005912975,False
+osteoclast differentiation,3.656862745098039,0.24626504005912975,False
+ERK1 and ERK2 cascade,3.656862745098039,0.24626504005912975,False
+negative regulation of cyclin-dependent protein serine/threonine kinase activity,3.5387096774193547,0.2531135351838933,False
+endothelial cell migration,3.5387096774193547,0.2531135351838933,False
+blood vessel remodeling,3.5387096774193547,0.2531135351838933,False
+liver regeneration,3.5387096774193547,0.2531135351838933,False
+cellular response to ionizing radiation,3.5387096774193547,0.2531135351838933,False
+cellular response to vascular endothelial growth factor stimulus,3.5387096774193547,0.2531135351838933,False
+platelet-derived growth factor receptor signaling pathway,3.5387096774193547,0.2531135351838933,False
+mismatch repair,3.5387096774193547,0.2531135351838933,False
+DNA damage checkpoint,3.5387096774193547,0.2531135351838933,False
+embryonic cranial skeleton morphogenesis,3.5387096774193547,0.2531135351838933,False
+triglyceride homeostasis,3.5387096774193547,0.2531135351838933,False
+"positive regulation of gene expression, epigenetic",3.5387096774193547,0.2531135351838933,False
+osteoblast differentiation,2.0935474781628627,0.2533378553101053,False
+multicellular organism development,1.4275862068965517,0.25514152273833757,False
+negative regulation of mitotic cell cycle,3.427941176470588,0.25990016494305634,False
+positive regulation of cardiac muscle cell proliferation,3.427941176470588,0.25990016494305634,False
+odontogenesis,3.427941176470588,0.25990016494305634,False
+regulation of cytokine production,3.427941176470588,0.25990016494305634,False
+ventricular septum development,3.427941176470588,0.25990016494305634,False
+embryonic forelimb morphogenesis,3.427941176470588,0.25990016494305634,False
+negative regulation of insulin receptor signaling pathway,3.427941176470588,0.25990016494305634,False
+Notch signaling pathway,2.0350646504492658,0.26342157681776995,False
+negative regulation of NIK/NF-kappaB signaling,3.323885918003565,0.26662548494523525,False
+skeletal system morphogenesis,3.323885918003565,0.26662548494523525,False
+positive regulation of axon extension,3.323885918003565,0.26662548494523525,False
+positive regulation of telomerase activity,3.323885918003565,0.26662548494523525,False
+protein localization to nucleus,3.323885918003565,0.26662548494523525,False
+proteasomal protein catabolic process,3.323885918003565,0.26662548494523525,False
+regulation of heart contraction,3.323885918003565,0.26662548494523525,False
+regulation of cell differentiation,3.323885918003565,0.26662548494523525,False
+transcription initiation from RNA polymerase I promoter,3.323885918003565,0.26662548494523525,False
+blood circulation,3.323885918003565,0.26662548494523525,False
+skin development,3.2259515570934254,0.27329004582741867,False
+positive regulation of cell migration involved in sprouting angiogenesis,3.2259515570934254,0.27329004582741867,False
+negative regulation of extrinsic apoptotic signaling pathway,3.2259515570934254,0.27329004582741867,False
+negative regulation of protein catabolic process,3.2259515570934254,0.27329004582741867,False
+positive regulation of interleukin-12 production,3.2259515570934254,0.27329004582741867,False
+dorsal/ventral pattern formation,3.2259515570934254,0.27329004582741867,False
+cellular response to nerve growth factor stimulus,3.2259515570934254,0.27329004582741867,False
+positive regulation of DNA-binding transcription factor activity,1.9797430566661336,0.2735075652630777,False
+ventricular septum morphogenesis,3.1336134453781512,0.2798943933023726,False
+germ cell development,3.1336134453781512,0.2798943933023726,False
+positive regulation of Wnt signaling pathway,3.1336134453781512,0.2798943933023726,False
+negative regulation of epithelial to mesenchymal transition,3.1336134453781512,0.2798943933023726,False
+release of sequestered calcium ion into cytosol,3.1336134453781512,0.2798943933023726,False
+hair follicle development,3.0464052287581698,0.286439068230638,False
+acute-phase response,3.0464052287581698,0.286439068230638,False
+"Wnt signaling pathway, calcium modulating pathway",3.0464052287581698,0.286439068230638,False
+killing of cells of other organism,3.0464052287581698,0.286439068230638,False
+ureteric bud development,3.0464052287581698,0.286439068230638,False
+phosphatidylinositol 3-kinase signaling,3.0464052287581698,0.286439068230638,False
+positive regulation of smoothened signaling pathway,3.0464052287581698,0.286439068230638,False
+"DNA damage response, detection of DNA damage",3.0464052287581698,0.286439068230638,False
+negative regulation of vascular smooth muscle cell proliferation,3.0464052287581698,0.286439068230638,False
+histone H4 acetylation,2.963910969793323,0.29292460662087455,False
+negative regulation of endothelial cell proliferation,2.963910969793323,0.29292460662087455,False
+positive regulation of glucose import,2.8857585139318886,0.29935153973058337,False
+embryonic limb morphogenesis,2.8857585139318886,0.29935153973058337,False
+chondrocyte differentiation,2.8857585139318886,0.29935153973058337,False
+negative regulation of blood vessel endothelial cell migration,2.8116138763197585,0.30572039400438955,False
+nucleotide-excision repair,2.8116138763197585,0.30572039400438955,False
+neuron apoptotic process,2.8116138763197585,0.30572039400438955,False
+ovarian follicle development,2.8116138763197585,0.30572039400438955,False
+lens development in camera-type eye,2.7411764705882353,0.312031691260043,False
+response to nutrient levels,2.7411764705882353,0.312031691260043,False
+retina homeostasis,2.7411764705882353,0.312031691260043,False
+mitotic spindle assembly,2.7411764705882353,0.312031691260043,False
+negative regulation of G0 to G1 transition,2.7411764705882353,0.312031691260043,False
+histone H3 acetylation,2.7411764705882353,0.312031691260043,False
+positive regulation of B cell proliferation,2.7411764705882353,0.312031691260043,False
+regulation of glycolytic process,2.674175035868006,0.3182859486092634,False
+embryo implantation,2.674175035868006,0.3182859486092634,False
+branching involved in ureteric bud morphogenesis,2.674175035868006,0.3182859486092634,False
+negative regulation of cell cycle,2.674175035868006,0.3182859486092634,False
+response to progesterone,2.674175035868006,0.3182859486092634,False
+positive regulation of nitric oxide biosynthetic process,2.6103641456582634,0.3244836785721142,False
+cellular response to epidermal growth factor stimulus,2.6103641456582634,0.3244836785721142,False
+animal organ regeneration,2.6103641456582634,0.3244836785721142,False
+blood vessel development,2.6103641456582634,0.3244836785721142,False
+CENP-A containing nucleosome assembly,2.6103641456582634,0.3244836785721142,False
+protein-containing complex assembly,1.7288356706890928,0.3270488804618776,False
+fatty acid beta-oxidation,2.5495212038303694,0.3306253890620298,False
+regulation of protein phosphorylation,2.5495212038303694,0.3306253890620298,False
+skeletal muscle cell differentiation,2.4914438502673795,0.336711583477371,False
+bone mineralization,2.4914438502673795,0.336711583477371,False
+cellular response to organic cyclic compound,2.4914438502673795,0.336711583477371,False
+forebrain development,2.4359477124183004,0.34274276072416665,False
+histone acetylation,2.4359477124183004,0.34274276072416665,False
+response to activity,2.3828644501278773,0.34871941523527994,False
+visual learning,2.3828644501278773,0.34871941523527994,False
+regulation of mitotic cell cycle,2.3828644501278773,0.34871941523527994,False
+positive regulation of phagocytosis,2.3828644501278773,0.34871941523527994,False
+antibacterial humoral response,2.332040050062578,0.35464203699731417,False
+collagen fibril organization,2.332040050062578,0.35464203699731417,False
+adult locomotory behavior,2.332040050062578,0.35464203699731417,False
+generation of precursor metabolites and energy,2.332040050062578,0.35464203699731417,False
+myelination,2.332040050062578,0.35464203699731417,False
+negative regulation of BMP signaling pathway,2.283333333333333,0.36051111172157657,False
+cognition,2.236614645858343,0.36632712064778417,False
+negative regulation of phosphatase activity,2.236614645858343,0.36632712064778417,False
+anatomical structure development,2.236614645858343,0.36632712064778417,False
+regulation of synaptic plasticity,2.236614645858343,0.36632712064778417,False
+neuron development,2.236614645858343,0.36632712064778417,False
+protein destabilization,2.236614645858343,0.36632712064778417,False
+response to hydrogen peroxide,2.191764705882353,0.372090540814252,False
+positive regulation of protein serine/threonine kinase activity,2.191764705882353,0.372090540814252,False
+mitotic cytokinesis,2.1486735870818916,0.3778018449199974,False
+apoptotic process,1.21459902896367,0.38043354713468797,False
+negative regulation of neuron death,2.107239819004525,0.3834615015306956,False
+negative regulation of tumor necrosis factor production,2.107239819004525,0.3834615015306956,False
+cellular defense response,2.107239819004525,0.3834615015306956,False
+positive regulation of canonical Wnt signaling pathway,1.5127524994899,0.38596470488541934,False
+negative regulation of protein ubiquitination,2.067369589345172,0.3890699749452869,False
+response to unfolded protein,2.067369589345172,0.3890699749452869,False
+hemopoiesis,2.067369589345172,0.3890699749452869,False
+cellular response to heat,2.028976034858388,0.39462772534315177,False
+glucose metabolic process,2.028976034858388,0.39462772534315177,False
+embryonic digit morphogenesis,2.028976034858388,0.39462772534315177,False
+response to ischemia,2.028976034858388,0.39462772534315177,False
+retina development in camera-type eye,1.9919786096256684,0.40013520878112396,False
+antimicrobial humoral response,1.9919786096256684,0.40013520878112396,False
+positive regulation of autophagy,1.9563025210084033,0.40559287728178706,False
+negative regulation of G1/S transition of mitotic cell cycle,1.8886409736308316,0.4163605571808664,False
+negative regulation of cell death,1.8886409736308316,0.4163605571808664,False
+cellular response to growth factor stimulus,1.8886409736308316,0.4163605571808664,False
+cell redox homeostasis,1.8886409736308316,0.4163605571808664,False
+negative regulation of interleukin-6 production,1.856530408773679,0.4216714524926378,False
+cellular iron ion homeostasis,1.8254901960784313,0.42693430073459515,False
+double-strand break repair,1.8254901960784313,0.42693430073459515,False
+learning or memory,1.8254901960784313,0.42693430073459515,False
+negative regulation of epithelial cell proliferation,1.8254901960784313,0.42693430073459515,False
+response to wounding,1.8254901960784313,0.42693430073459515,False
+negative regulation of protein kinase B signaling,1.7954676952748312,0.43214953409650864,False
+response to hypoxia,1.36124076592304,0.43641036226695673,False
+apoptotic signaling pathway,1.73828197945845,0.442438865324907,False
+protein sumoylation,1.73828197945845,0.442438865324907,False
+smoothened signaling pathway,1.73828197945845,0.442438865324907,False
+vascular endothelial growth factor receptor signaling pathway,1.73828197945845,0.442438865324907,False
+positive regulation of osteoblast differentiation,1.73828197945845,0.442438865324907,False
+DNA recombination,1.7110294117647058,0.44751380831773363,False
+positive regulation of interferon-gamma production,1.7110294117647058,0.44751380831773363,False
+I-kappaB kinase/NF-kappaB signaling,1.6846153846153846,0.4525428266698268,False
+regulation of blood pressure,1.6846153846153846,0.4525428266698268,False
+activation of protein kinase activity,1.6590017825311942,0.45752633355778993,False
+cellular response to retinoic acid,1.6590017825311942,0.45752633355778993,False
+epithelial cell differentiation,1.6341527655838455,0.4624647384324102,False
+response to glucose,1.6341527655838455,0.4624647384324102,False
+NIK/NF-kappaB signaling,1.6341527655838455,0.4624647384324102,False
+antimicrobial humoral immune response mediated by antimicrobial peptide,1.6100346020761245,0.46735844707240476,False
+cell chemotaxis,1.6100346020761245,0.46735844707240476,False
+chemokine-mediated signaling pathway,1.586615515771526,0.4722078617122156,False
+regulation of autophagy,1.586615515771526,0.4722078617122156,False
+regulation of megakaryocyte differentiation,1.586615515771526,0.4722078617122156,False
+positive regulation of protein kinase B signaling,1.2659985634641038,0.47275354636211747,False
+T cell receptor signaling pathway,1.2659985634641038,0.47275354636211747,False
+negative regulation of protein phosphorylation,1.5417564208782104,0.48177539961330146,False
+positive regulation of protein catabolic process,1.5417564208782104,0.48177539961330146,False
+chromosome segregation,1.5202614379084967,0.48649430939703675,False
+Ras protein signal transduction,1.5202614379084967,0.48649430939703675,False
+B cell differentiation,1.499355358581789,0.4911704981946591,False
+positive regulation of translation,1.4790143084260732,0.4958043504801861,False
+cholesterol metabolic process,1.4790143084260732,0.4958043504801861,False
+"regulation of alternative mRNA splicing, via spliceosome",1.4592156862745098,0.5003962473790716,False
+blood coagulation,1.1896063802418317,0.5048113124084939,False
+protein localization,1.439938080495356,0.5049465665411643,False
+negative regulation of ERK1 and ERK2 cascade,1.4211611917494271,0.5094556821772385,False
+defense response to Gram-negative bacterium,1.402865761689291,0.513923965233358,False
+protein import into nucleus,1.402865761689291,0.513923965233358,False
+epidermis development,1.3850335070737156,0.5183517833616389,False
+regulation of mitotic cell cycle phase transition,1.3850335070737156,0.5183517833616389,False
+double-strand break repair via homologous recombination,1.3506899055918664,0.5270874787790893,False
+cell morphogenesis,1.3341463414634147,0.5313960749252026,False
+response to toxic substance,1.3341463414634147,0.5313960749252026,False
+lung development,1.3341463414634147,0.5313960749252026,False
+regulation of protein stability,1.3341463414634147,0.5313960749252026,False
+calcium-mediated signaling,1.3180014174344437,0.5356656439359877,False
+positive regulation of neuron differentiation,1.3022408963585435,0.5398965372784676,False
+female pregnancy,1.3022408963585435,0.5398965372784676,False
+insulin receptor signaling pathway,1.2868512110726644,0.5440891031780078,False
+negative regulation of NF-kappaB transcription factor activity,1.2868512110726644,0.5440891031780078,False
+positive regulation of phosphatidylinositol 3-kinase signaling,1.257133198106829,0.5523606304833769,False
+activation of cysteine-type endopeptidase activity involved in apoptotic process,1.257133198106829,0.5523606304833769,False
+positive regulation of inflammatory response,1.257133198106829,0.5523606304833769,False
+mitochondrion organization,1.1884910485933504,0.5723925069129228,False
+xenobiotic metabolic process,1.1756483238456672,0.5762906240593347,False
+interleukin-1-mediated signaling pathway,1.1507739938080495,0.5839811874404862,False
+positive regulation of cold-induced thermogenesis,1.1387254901960784,0.5877742675393318,False
+cellular response to leukemia inhibitory factor,1.1387254901960784,0.5877742675393318,False
+cellular calcium ion homeostasis,1.1269254093389933,0.5915329643649606,False
+response to ethanol,1.104040404040404,0.5989484448925391,False
+G1/S transition of mitotic cell cycle,1.104040404040404,0.5989484448925391,False
+DNA repair,0.9839543685697532,0.6054568087053824,False
+platelet activation,1.0820617355853233,0.6062300747467151,False
+response to estradiol,1.0609366076527698,0.6133802559958383,False
+cell migration,0.9451574066958682,0.6269199155480094,False
+B cell receptor signaling pathway,1.0022126281705344,0.6340654905703743,False
+stimulatory C-type lectin receptor signaling pathway,0.9752100840336134,0.643991672756322,False
+Golgi organization,0.9253240279162512,0.6630480525379522,False
+activation of MAPK activity,0.8874701099952176,0.6781511641080837,False
+mitotic cell cycle,0.8141352063213345,0.7090503286042218,False
+skeletal system development,0.802076124567474,0.7143427444956791,False
+response to lipopolysaccharide,0.7961786174323744,0.7169529502554423,False
+central nervous system development,0.7903665814151748,0.7195394433764085,False
+negative regulation of neuron apoptotic process,0.7789915966386555,0.7246421463143085,False
+sensory perception of sound,0.7625257095845331,0.7321236478156579,False
+innate immune response,0.7955078853282446,0.7388619619053984,False
+immune response,0.7744740413980319,0.7431123609515498,False
+positive regulation of cytosolic calcium ion concentration,0.7266666666666667,0.7488038381049336,False
+nervous system development,0.7201692856303147,0.7654951761854137,False
+mRNA processing,0.6852016278209397,0.7687409942682574,False
+aging,0.6600713012477718,0.7811502249410833,False
+biological_process,0.72425049566419,0.7996947800976668,False
+proteasome-mediated ubiquitin-dependent protein catabolic process,0.6045751633986928,0.8093525899498208,False
+defense response to bacterium,0.5407960199004975,0.8428666590158715,False
+intracellular signal transduction,0.5840284534043605,0.8552325313129175,False
+regulation of immune response,0.49132286398722386,0.8693180382870118,False
+axon guidance,0.48908320084790674,0.8705175989348293,False
+cellular protein metabolic process,0.4846638655462185,0.8728839778092639,False
+cell-cell signaling,0.4781808758745789,0.8763531665721496,False
+angiogenesis,0.4577562670637875,0.8872513639634096,False
+cell cycle,0.44445515911282546,0.8943065109439332,False
+MAPK cascade,0.415122830741492,0.9096660705782291,False
+cell surface receptor signaling pathway,0.3823945125753482,0.9262940643896892,False
+signal transduction,0.5188069350573024,0.9602479301401807,False
+inflammatory response,0.28026960784313726,0.9711232397137451,False
+proteolysis,0.24441913439635535,0.9827018991264238,False
+protein phosphorylation,0.23775922785965828,0.9845348799680239,False
+neutrophil degranulation,0.2216173425892096,0.9885322833516261,False
+G protein-coupled receptor signaling pathway,0.18242322771185823,0.9997314886559917,False
+protein monoubiquitination,0.0,1.0,False
+L-phenylalanine catabolic process,0.0,1.0,False
+regulation of phosphatidylinositol 3-kinase activity,0.0,1.0,False
+positive regulation of connective tissue replacement,0.0,1.0,False
+phosphatidylinositol acyl-chain remodeling,0.0,1.0,False
+ventricular cardiac muscle cell development,0.0,1.0,False
+protein import into peroxisome matrix,0.0,1.0,False
+regulation of clathrin-dependent endocytosis,0.0,1.0,False
+phosphatidylglycerol acyl-chain remodeling,0.0,1.0,False
+NLS-bearing protein import into nucleus,0.0,1.0,False
+positive regulation of autophagosome assembly,0.0,1.0,False
+7-methylguanosine mRNA capping,0.0,1.0,False
+mitotic metaphase plate congression,0.0,1.0,False
+response to glucagon,0.0,1.0,False
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,0.0,1.0,False
+granulocyte differentiation,0.0,1.0,False
+mitotic nuclear envelope disassembly,0.0,1.0,False
+semaphorin-plexin signaling pathway involved in axon guidance,0.0,1.0,False
+protein targeting to ER,0.0,1.0,False
+cellular response to leptin stimulus,0.0,1.0,False
+mitotic spindle organization,0.0,1.0,False
+T cell proliferation,0.0,1.0,False
+inorganic anion transport,0.0,1.0,False
+protein maturation,0.0,1.0,False
+protein localization to phagophore assembly site,0.0,1.0,False
+transcription-coupled nucleotide-excision repair,0.0,1.0,False
+autophagosome assembly,0.0,1.0,False
+preassembly of GPI anchor in ER membrane,0.0,1.0,False
+mast cell degranulation,0.0,1.0,False
+positive regulation of nuclear-transcribed mRNA poly(A) tail shortening,0.0,1.0,False
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,0.0,1.0,False
+regulation of MAP kinase activity,0.0,1.0,False
+synapsis,0.0,1.0,False
+DNA-dependent DNA replication,0.0,1.0,False
+rRNA catabolic process,0.0,1.0,False
+DNA replication initiation,0.0,1.0,False
+fibroblast growth factor receptor signaling pathway,0.0,1.0,False
+GPI anchor biosynthetic process,0.0,1.0,False
+negative regulation of excitatory postsynaptic potential,0.0,1.0,False
+transcription elongation from RNA polymerase II promoter,0.0,1.0,False
+phosphatidylethanolamine acyl-chain remodeling,0.0,1.0,False
+regulation of postsynaptic density assembly,0.0,1.0,False
+phosphatidylserine acyl-chain remodeling,0.0,1.0,False
+regulation of insulin receptor signaling pathway,0.0,1.0,False
+negative regulation of epidermal growth factor-activated receptor activity,0.0,1.0,False
+glycerophospholipid catabolic process,0.0,1.0,False
+cyclooxygenase pathway,0.0,1.0,False
+negative regulation of viral release from host cell,0.0,1.0,False
+regulation of phagocytosis,0.0,1.0,False
+midbody abscission,0.0,1.0,False
+blood vessel morphogenesis,0.0,1.0,False
+tube formation,0.0,1.0,False
+left/right axis specification,0.0,1.0,False
+positive regulation of intracellular protein transport,0.0,1.0,False
+dendritic spine morphogenesis,0.0,1.0,False
+positive regulation of filopodium assembly,0.0,1.0,False
+filopodium assembly,0.0,1.0,False
+negative regulation of protein complex assembly,0.0,1.0,False
+regulation of RNA metabolic process,0.0,1.0,False
+nuclear migration,0.0,1.0,False
+regulation of centrosome duplication,0.0,1.0,False
+protein K11-linked ubiquitination,0.0,1.0,False
+positive regulation of mitotic metaphase/anaphase transition,0.0,1.0,False
+ribosomal small subunit biogenesis,0.0,1.0,False
+positive regulation of ubiquitin protein ligase activity,0.0,1.0,False
+regulation of centriole replication,0.0,1.0,False
+regulation of postsynaptic neurotransmitter receptor activity,0.0,1.0,False
+manganese ion transport,0.0,1.0,False
+tRNA export from nucleus,0.0,1.0,False
+mitotic sister chromatid cohesion,0.0,1.0,False
+mitotic DNA replication checkpoint,0.0,1.0,False
+regulation of mitotic metaphase/anaphase transition,0.0,1.0,False
+DNA replication checkpoint,0.0,1.0,False
+nuclear pore complex assembly,0.0,1.0,False
+cytoskeleton-dependent cytokinesis,0.0,1.0,False
+"mRNA splicing, via spliceosome",0.0,1.0,False
+cilium organization,0.0,1.0,False
+regulation of axonogenesis,0.0,1.0,False
+keratinization,0.0,1.0,False
+negative regulation of microtubule polymerization,0.0,1.0,False
+RNA methylation,0.0,1.0,False
+embryo development,0.0,1.0,False
+protein neddylation,0.0,1.0,False
+respiratory burst,0.0,1.0,False
+skin morphogenesis,0.0,1.0,False
+CDP-diacylglycerol biosynthetic process,0.0,1.0,False
+DNA synthesis involved in DNA repair,0.0,1.0,False
+positive regulation of transforming growth factor beta receptor signaling pathway,0.0,1.0,False
+regulation of exit from mitosis,0.0,1.0,False
+proteasomal ubiquitin-independent protein catabolic process,0.0,1.0,False
+regulation of DNA repair,0.0,1.0,False
+maturation of SSU-rRNA,0.0,1.0,False
+NAD biosynthesis via nicotinamide riboside salvage pathway,0.0,1.0,False
+negative regulation of cell differentiation,0.0,1.0,False
+calcium import into the mitochondrion,0.0,1.0,False
+dentate gyrus development,0.0,1.0,False
+regulation of neurotransmitter receptor activity,0.0,1.0,False
+synaptic vesicle transport,0.0,1.0,False
+receptor clustering,0.0,1.0,False
+corpus callosum development,0.0,1.0,False
+layer formation in cerebral cortex,0.0,1.0,False
+synaptic vesicle exocytosis,0.0,1.0,False
+nucleocytoplasmic transport,0.0,1.0,False
+regulation of gene silencing,0.0,1.0,False
+centriole replication,0.0,1.0,False
+ribosomal large subunit assembly,0.0,1.0,False
+lamellipodium assembly,0.0,1.0,False
+synaptic membrane adhesion,0.0,1.0,False
+regulation of synapse organization,0.0,1.0,False
+astrocyte development,0.0,1.0,False
+ESCRT III complex disassembly,0.0,1.0,False
+detection of chemical stimulus involved in sensory perception of smell,0.0,1.0,False
+ciliary basal body-plasma membrane docking,0.0,1.0,False
+ERAD pathway,0.0,1.0,False
+positive regulation of dendrite extension,0.0,1.0,False
+positive regulation of isotype switching to IgG isotypes,0.0,1.0,False
+positive regulation of interleukin-10 production,0.0,1.0,False
+translesion synthesis,0.0,1.0,False
+positive regulation of phosphatidylinositol 3-kinase activity,0.0,1.0,False
+error-prone translesion synthesis,0.0,1.0,False
+toll-like receptor 4 signaling pathway,0.0,1.0,False
+sperm-egg recognition,0.0,1.0,False
+antigen processing and presentation,0.0,1.0,False
+positive regulation of cytokine production involved in inflammatory response,0.0,1.0,False
+immunological synapse formation,0.0,1.0,False
+positive regulation of viral entry into host cell,0.0,1.0,False
+interleukin-15-mediated signaling pathway,0.0,1.0,False
+error-free translesion synthesis,0.0,1.0,False
+positive regulation of cell-matrix adhesion,0.0,1.0,False
+positive thymic T cell selection,0.0,1.0,False
+mitotic chromosome condensation,0.0,1.0,False
+heterotypic cell-cell adhesion,0.0,1.0,False
+endosome transport via multivesicular body sorting pathway,0.0,1.0,False
+multivesicular body assembly,0.0,1.0,False
+detection of bacterium,0.0,1.0,False
+T cell activation involved in immune response,0.0,1.0,False
+positive regulation of telomerase RNA localization to Cajal body,0.0,1.0,False
+positive regulation of protein localization to Cajal body,0.0,1.0,False
+positive regulation of establishment of protein localization to telomere,0.0,1.0,False
+viral budding via host ESCRT complex,0.0,1.0,False
+signal transduction by protein phosphorylation,0.0,1.0,False
+regulation of T cell proliferation,0.0,1.0,False
+glomerular filtration,0.0,1.0,False
+glycoprotein metabolic process,0.0,1.0,False
+organic cation transport,0.0,1.0,False
+regulation of embryonic development,0.0,1.0,False
+positive regulation of protein import into nucleus,0.0,1.0,False
+sterol transport,0.0,1.0,False
+chromosome condensation,0.0,1.0,False
+regulation of G2/M transition of mitotic cell cycle,0.0,1.0,False
+pyrimidine nucleoside salvage,0.0,1.0,False
+positive regulation of protein exit from endoplasmic reticulum,0.0,1.0,False
+protein localization to lysosome,0.0,1.0,False
+cellular response to ATP,0.0,1.0,False
+regulation of macrophage activation,0.0,1.0,False
+prostaglandin biosynthetic process,0.0,1.0,False
+cellular response to nutrient levels,0.0,1.0,False
+regulation of mRNA processing,0.0,1.0,False
+inflammatory response to antigenic stimulus,0.0,1.0,False
+positive regulation of cell-cell adhesion,0.0,1.0,False
+hyaluronan catabolic process,0.0,1.0,False
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline,0.0,1.0,False
+activation of JUN kinase activity,0.0,1.0,False
+viral life cycle,0.0,1.0,False
+positive regulation of tyrosine phosphorylation of STAT protein,0.0,1.0,False
+nucleobase-containing small molecule catabolic process,0.0,1.0,False
+protein targeting to lysosome,0.0,1.0,False
+phospholipid transport,0.0,1.0,False
+positive regulation of triglyceride biosynthetic process,0.0,1.0,False
+androgen biosynthetic process,0.0,1.0,False
+sensory perception of taste,0.0,1.0,False
+intestinal cholesterol absorption,0.0,1.0,False
+positive regulation of T cell activation,0.0,1.0,False
+calcium ion regulated exocytosis,0.0,1.0,False
+hippo signaling,0.0,1.0,False
+positive regulation of double-strand break repair via nonhomologous end joining,0.0,1.0,False
+protein K11-linked deubiquitination,0.0,1.0,False
+zinc ion transmembrane transport,0.0,1.0,False
+protein modification by small protein conjugation,0.0,1.0,False
+cellular glucuronidation,0.0,1.0,False
+regulation of calcium-mediated signaling,0.0,1.0,False
+NAD metabolic process,0.0,1.0,False
+dendrite self-avoidance,0.0,1.0,False
+spliceosomal tri-snRNP complex assembly,0.0,1.0,False
+pyruvate metabolic process,0.0,1.0,False
+mRNA catabolic process,0.0,1.0,False
+"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0.0,1.0,False
+3'-UTR-mediated mRNA destabilization,0.0,1.0,False
+mRNA transport,0.0,1.0,False
+ERBB2 signaling pathway,0.0,1.0,False
+positive regulation of monocyte differentiation,0.0,1.0,False
+regulation of B cell differentiation,0.0,1.0,False
+positive regulation of Arp2/3 complex-mediated actin nucleation,0.0,1.0,False
+cellular response to fibroblast growth factor stimulus,0.0,1.0,False
+regulation of RNA splicing,0.0,1.0,False
+magnesium ion transmembrane transport,0.0,1.0,False
+RNA splicing,0.0,1.0,False
+centrosome duplication,0.0,1.0,False
+inner cell mass cell proliferation,0.0,1.0,False
+signal transduction involved in G2 DNA damage checkpoint,0.0,1.0,False
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate,0.0,1.0,False
+plasma membrane tubulation,0.0,1.0,False
+positive regulation of histone H3-K4 methylation,0.0,1.0,False
+piRNA metabolic process,0.0,1.0,False
+negative regulation of erythrocyte differentiation,0.0,1.0,False
+positive regulation of mitotic nuclear division,0.0,1.0,False
+positive regulation of cell division,0.0,1.0,False
+positive regulation of isotype switching,0.0,1.0,False
+positive regulation of mitochondrial translation,0.0,1.0,False
+negative regulation of defense response to virus,0.0,1.0,False
+"negative regulation of mRNA splicing, via spliceosome",0.0,1.0,False
+synaptic vesicle priming,0.0,1.0,False
+SNARE complex assembly,0.0,1.0,False
+axonemal dynein complex assembly,0.0,1.0,False
+behavioral response to pain,0.0,1.0,False
+steroid metabolic process,0.0,1.0,False
+microtubule severing,0.0,1.0,False
+tRNA 5'-leader removal,0.0,1.0,False
+sulfation,0.0,1.0,False
+chloride transport,0.0,1.0,False
+anion transport,0.0,1.0,False
+very long-chain fatty acid biosynthetic process,0.0,1.0,False
+ribosome biogenesis,0.0,1.0,False
+attachment of spindle microtubules to kinetochore,0.0,1.0,False
+rRNA processing,0.0,1.0,False
+"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.0,1.0,False
+anaphase-promoting complex-dependent catabolic process,0.0,1.0,False
+regulation of calcium ion-dependent exocytosis,0.0,1.0,False
+regulation of chromosome segregation,0.0,1.0,False
+calcium ion-regulated exocytosis of neurotransmitter,0.0,1.0,False
+MyD88-dependent toll-like receptor signaling pathway,0.0,1.0,False
+production of miRNAs involved in gene silencing by miRNA,0.0,1.0,False
+positive regulation of myoblast differentiation,0.0,1.0,False
+microvillus assembly,0.0,1.0,False
+cellular response to thyroid hormone stimulus,0.0,1.0,False
+negative regulation of keratinocyte proliferation,0.0,1.0,False
+biosynthetic process,0.0,1.0,False
+cellular response to nitrogen starvation,0.0,1.0,False
+negative regulation of intracellular estrogen receptor signaling pathway,0.0,1.0,False
+dosage compensation by inactivation of X chromosome,0.0,1.0,False
+poly-N-acetyllactosamine biosynthetic process,0.0,1.0,False
+stem cell population maintenance,0.0,1.0,False
+endoplasmic reticulum tubular network organization,0.0,1.0,False
+ectoderm development,0.0,1.0,False
+ventricular trabecula myocardium morphogenesis,0.0,1.0,False
+outflow tract morphogenesis,0.0,1.0,False
+xenobiotic glucuronidation,0.0,1.0,False
+positive regulation of brown fat cell differentiation,0.0,1.0,False
+branching involved in salivary gland morphogenesis,0.0,1.0,False
+positive regulation of rRNA processing,0.0,1.0,False
+embryonic camera-type eye morphogenesis,0.0,1.0,False
+tRNA wobble uridine modification,0.0,1.0,False
+inner dynein arm assembly,0.0,1.0,False
+deadenylation-dependent decapping of nuclear-transcribed mRNA,0.0,1.0,False
+negative regulation of cell-cell adhesion mediated by cadherin,0.0,1.0,False
+positive regulation of vascular permeability,0.0,1.0,False
+cardiac muscle tissue development,0.0,1.0,False
+hindbrain development,0.0,1.0,False
+male genitalia development,0.0,1.0,False
+peptidyl-lysine methylation,0.0,1.0,False
+epithelial tube branching involved in lung morphogenesis,0.0,1.0,False
+lung morphogenesis,0.0,1.0,False
+embryonic skeletal joint morphogenesis,0.0,1.0,False
+snRNA processing,0.0,1.0,False
+branching morphogenesis of an epithelial tube,0.0,1.0,False
+smooth muscle tissue development,0.0,1.0,False
+snRNA 3'-end processing,0.0,1.0,False
+peptidyl-L-cysteine S-palmitoylation,0.0,1.0,False
+formation of quadruple SL/U4/U5/U6 snRNP,0.0,1.0,False
+negative regulation of phosphorylation,0.0,1.0,False
+reticulophagy,0.0,1.0,False
+positive regulation of neutrophil chemotaxis,0.0,1.0,False
+positive regulation of extrinsic apoptotic signaling pathway via death domain receptors,0.0,1.0,False
+positive regulation of epithelial cell migration,0.0,1.0,False
+regulation of transcription by RNA polymerase III,0.0,1.0,False
+NAD biosynthetic process,0.0,1.0,False
+postreplication repair,0.0,1.0,False
+negative regulation of macrophage activation,0.0,1.0,False
+protein targeting to vacuole,0.0,1.0,False
+"retrograde transport, endosome to plasma membrane",0.0,1.0,False
+protein maturation by iron-sulfur cluster transfer,0.0,1.0,False
+apoptotic DNA fragmentation,0.0,1.0,False
+negative regulation of amyloid precursor protein biosynthetic process,0.0,1.0,False
+intermediate filament cytoskeleton organization,0.0,1.0,False
+hemidesmosome assembly,0.0,1.0,False
+mannosylation,0.0,1.0,False
+retrograde axonal transport,0.0,1.0,False
+mRNA methylation,0.0,1.0,False
+regulation of autophagy of mitochondrion,0.0,1.0,False
+positive regulation of mitochondrial fission,0.0,1.0,False
+response to hyperoxia,0.0,1.0,False
+oligodendrocyte differentiation,0.0,1.0,False
+positive regulation of programmed cell death,0.0,1.0,False
+protein polyglutamylation,0.0,1.0,False
+positive regulation of macroautophagy,0.0,1.0,False
+positive regulation of necrotic cell death,0.0,1.0,False
+autophagy of mitochondrion,0.0,1.0,False
+endoplasmic reticulum organization,0.0,1.0,False
+histone H3-K36 demethylation,0.0,1.0,False
+intraciliary retrograde transport,0.0,1.0,False
+protein import into mitochondrial matrix,0.0,1.0,False
+atrial septum morphogenesis,0.0,1.0,False
+limb development,0.0,1.0,False
+vasculature development,0.0,1.0,False
+negative regulation of cAMP-dependent protein kinase activity,0.0,1.0,False
+positive regulation of G protein-coupled receptor signaling pathway,0.0,1.0,False
+sodium-independent organic anion transport,0.0,1.0,False
+positive regulation of positive chemotaxis,0.0,1.0,False
+DNA integration,0.0,1.0,False
+regulation of membrane repolarization,0.0,1.0,False
+regulation of store-operated calcium entry,0.0,1.0,False
+protein polymerization,0.0,1.0,False
+nucleotide-binding oligomerization domain containing signaling pathway,0.0,1.0,False
+positive regulation of macrophage differentiation,0.0,1.0,False
+toll-like receptor 3 signaling pathway,0.0,1.0,False
+natural killer cell activation,0.0,1.0,False
+positive regulation of macrophage activation,0.0,1.0,False
+response to UV,0.0,1.0,False
+axonal fasciculation,0.0,1.0,False
+positive regulation of tumor necrosis factor-mediated signaling pathway,0.0,1.0,False
+positive regulation of calcium ion import,0.0,1.0,False
+regulation of cell morphogenesis,0.0,1.0,False
+microtubule bundle formation,0.0,1.0,False
+muscle structure development,0.0,1.0,False
+production of siRNA involved in RNA interference,0.0,1.0,False
+myofibril assembly,0.0,1.0,False
+proteolysis involved in cellular protein catabolic process,0.0,1.0,False
+regulation of cytoskeleton organization,0.0,1.0,False
+"SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition",0.0,1.0,False
+regulation of interleukin-6 production,0.0,1.0,False
+mRNA 5'-splice site recognition,0.0,1.0,False
+cornification,0.0,1.0,False
+receptor catabolic process,0.0,1.0,False
+actin polymerization or depolymerization,0.0,1.0,False
+mRNA destabilization,0.0,1.0,False
+regulation of lamellipodium assembly,0.0,1.0,False
+chloride transmembrane transport,0.0,1.0,False
+UV protection,0.0,1.0,False
+inactivation of MAPK activity,0.0,1.0,False
+regulation of ARF protein signal transduction,0.0,1.0,False
+negative regulation of smoothened signaling pathway,0.0,1.0,False
+positive regulation of endopeptidase activity,0.0,1.0,False
+positive regulation of ubiquitin-dependent protein catabolic process,0.0,1.0,False
+regulation of viral entry into host cell,0.0,1.0,False
+heart trabecula formation,0.0,1.0,False
+regulation of protein kinase B signaling,0.0,1.0,False
+positive regulation of myotube differentiation,0.0,1.0,False
+negative regulation of cardiac muscle hypertrophy,0.0,1.0,False
+peroxisome fission,0.0,1.0,False
+vesicle docking,0.0,1.0,False
+cargo loading into COPII-coated vesicle,0.0,1.0,False
+multivesicular body sorting pathway,0.0,1.0,False
+synaptonemal complex assembly,0.0,1.0,False
+histone monoubiquitination,0.0,1.0,False
+miRNA metabolic process,0.0,1.0,False
+negative regulation of viral transcription,0.0,1.0,False
+regulation of mitotic nuclear division,0.0,1.0,False
+vesicle fusion,0.0,1.0,False
+basement membrane organization,0.0,1.0,False
+Arp2/3 complex-mediated actin nucleation,0.0,1.0,False
+cellular response to exogenous dsRNA,0.0,1.0,False
+negative regulation of protein tyrosine kinase activity,0.0,1.0,False
+negative regulation of MAPK cascade,0.0,1.0,False
+negative regulation of tyrosine phosphorylation of STAT protein,0.0,1.0,False
+epithelial cilium movement involved in determination of left/right asymmetry,0.0,1.0,False
+vesicle organization,0.0,1.0,False
+posttranscriptional regulation of gene expression,0.0,1.0,False
+negative regulation of cytokine-mediated signaling pathway,0.0,1.0,False
+"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.0,1.0,False
+killing by host of symbiont cells,0.0,1.0,False
+"endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.0,1.0,False
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process,0.0,1.0,False
+cellular response to caffeine,0.0,1.0,False
+detection of light stimulus involved in visual perception,0.0,1.0,False
+regulation of potassium ion transmembrane transport,0.0,1.0,False
+regulation of ventricular cardiac muscle cell action potential,0.0,1.0,False
+cardiac conduction,0.0,1.0,False
+response to pain,0.0,1.0,False
+positive regulation of osteoclast differentiation,0.0,1.0,False
+morphogenesis of an epithelium,0.0,1.0,False
+late endosome to vacuole transport via multivesicular body sorting pathway,0.0,1.0,False
+positive regulation of cellular protein catabolic process,0.0,1.0,False
+L-alpha-amino acid transmembrane transport,0.0,1.0,False
+negative regulation of pathway-restricted SMAD protein phosphorylation,0.0,1.0,False
+actin filament severing,0.0,1.0,False
+regulation of neuroinflammatory response,0.0,1.0,False
+G protein-coupled glutamate receptor signaling pathway,0.0,1.0,False
+amino acid import across plasma membrane,0.0,1.0,False
+protein N-linked glycosylation,0.0,1.0,False
+monocarboxylic acid transport,0.0,1.0,False
+positive regulation of myelination,0.0,1.0,False
+amino acid transmembrane transport,0.0,1.0,False
+mitochondrial translational termination,0.0,1.0,False
+mitochondrial translational elongation,0.0,1.0,False
+meiotic cell cycle,0.0,1.0,False
+neutrophil chemotaxis,0.0,1.0,False
+sensory perception of chemical stimulus,0.0,1.0,False
+cytolysis,0.0,1.0,False
+positive regulation of macrophage chemotaxis,0.0,1.0,False
+complement receptor mediated signaling pathway,0.0,1.0,False
+amyloid-beta clearance,0.0,1.0,False
+collagen-activated tyrosine kinase receptor signaling pathway,0.0,1.0,False
+organic anion transport,0.0,1.0,False
+hexose transmembrane transport,0.0,1.0,False
+axon development,0.0,1.0,False
+negative regulation of axon extension involved in axon guidance,0.0,1.0,False
+receptor recycling,0.0,1.0,False
+regulation of neuron migration,0.0,1.0,False
+regulation of neurotransmitter secretion,0.0,1.0,False
+negative regulation of vascular endothelial growth factor production,0.0,1.0,False
+positive regulation of TORC1 signaling,0.0,1.0,False
+mRNA splice site selection,0.0,1.0,False
+protein folding in endoplasmic reticulum,0.0,1.0,False
+protein export from nucleus,0.0,1.0,False
+"RNA splicing, via transesterification reactions",0.0,1.0,False
+G2/M transition of mitotic cell cycle,0.0,1.0,False
+negative regulation of ryanodine-sensitive calcium-release channel activity,0.0,1.0,False
+regulation of ryanodine-sensitive calcium-release channel activity,0.0,1.0,False
+inositol phosphate metabolic process,0.0,1.0,False
+positive regulation of protein autophosphorylation,0.0,1.0,False
+regulation of rhodopsin mediated signaling pathway,0.0,1.0,False
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum,0.0,1.0,False
+negative regulation of peptidyl-threonine phosphorylation,0.0,1.0,False
+detection of calcium ion,0.0,1.0,False
+negative regulation of bone resorption,0.0,1.0,False
+sialylation,0.0,1.0,False
+retina layer formation,0.0,1.0,False
+L-glutamate transmembrane transport,0.0,1.0,False
+UTP biosynthetic process,0.0,1.0,False
+anion transmembrane transport,0.0,1.0,False
+negative regulation of voltage-gated calcium channel activity,0.0,1.0,False
+amino acid transport,0.0,1.0,False
+detection of mechanical stimulus involved in sensory perception of pain,0.0,1.0,False
+neutral amino acid transport,0.0,1.0,False
+branching involved in mammary gland duct morphogenesis,0.0,1.0,False
+regulation of proteolysis,0.0,1.0,False
+secondary palate development,0.0,1.0,False
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway,0.0,1.0,False
+cytoplasmic translation,0.0,1.0,False
+regulation of postsynaptic neurotransmitter receptor internalization,0.0,1.0,False
+negative regulation of chromatin silencing,0.0,1.0,False
+negative regulation of adenylate cyclase activity,0.0,1.0,False
+oxalate transport,0.0,1.0,False
+histone H3-K4 trimethylation,0.0,1.0,False
+pyrimidine nucleoside catabolic process,0.0,1.0,False
+glutathione catabolic process,0.0,1.0,False
+dolichol-linked oligosaccharide biosynthetic process,0.0,1.0,False
+DNA methylation involved in gamete generation,0.0,1.0,False
+tRNA methylation,0.0,1.0,False
+positive regulation of methylation-dependent chromatin silencing,0.0,1.0,False
+regulation of Golgi organization,0.0,1.0,False
+centrosome localization,0.0,1.0,False
+chromatin silencing at rDNA,0.0,1.0,False
+DNA metabolic process,0.0,1.0,False
+"DNA catabolic process, endonucleolytic",0.0,1.0,False
+cilium-dependent cell motility,0.0,1.0,False
+telomere organization,0.0,1.0,False
+outer dynein arm assembly,0.0,1.0,False
+muscle cell differentiation,0.0,1.0,False
+epithelial cilium movement,0.0,1.0,False
+cilium movement,0.0,1.0,False
+telomere maintenance via semi-conservative replication,0.0,1.0,False
+mitochondrial translation,0.0,1.0,False
+mitochondrial DNA replication,0.0,1.0,False
+regulation of phosphoprotein phosphatase activity,0.0,1.0,False
+nuclear envelope organization,0.0,1.0,False
+endosome organization,0.0,1.0,False
+receptor guanylyl cyclase signaling pathway,0.0,1.0,False
+protein deacetylation,0.0,1.0,False
+peptidyl-threonine dephosphorylation,0.0,1.0,False
+peptidyl-serine dephosphorylation,0.0,1.0,False
+bone remodeling,0.0,1.0,False
+IRES-dependent viral translational initiation,0.0,1.0,False
+formation of translation preinitiation complex,0.0,1.0,False
+cellular response to brain-derived neurotrophic factor stimulus,0.0,1.0,False
+translational elongation,0.0,1.0,False
+actin nucleation,0.0,1.0,False
+histone ubiquitination,0.0,1.0,False
+regulation of epithelial cell proliferation,0.0,1.0,False
+positive regulation of potassium ion transmembrane transport,0.0,1.0,False
+positive regulation of leukocyte chemotaxis,0.0,1.0,False
+positive regulation of cell growth involved in cardiac muscle cell development,0.0,1.0,False
+inositol phosphate-mediated signaling,0.0,1.0,False
+bleb assembly,0.0,1.0,False
+sphingosine-1-phosphate receptor signaling pathway,0.0,1.0,False
+regulation of cell cycle process,0.0,1.0,False
+motile cilium assembly,0.0,1.0,False
+epithelial cell development,0.0,1.0,False
+negative regulation of JUN kinase activity,0.0,1.0,False
+protein deneddylation,0.0,1.0,False
+positive regulation of RNA splicing,0.0,1.0,False
+presynapse assembly,0.0,1.0,False
+planar cell polarity pathway involved in neural tube closure,0.0,1.0,False
+cochlea morphogenesis,0.0,1.0,False
+somatic hypermutation of immunoglobulin genes,0.0,1.0,False
+RNA metabolic process,0.0,1.0,False
+positive regulation of transcription elongation from RNA polymerase II promoter,0.0,1.0,False
+ribosomal large subunit biogenesis,0.0,1.0,False
+non-canonical Wnt signaling pathway,0.0,1.0,False
+negative regulation of T cell activation,0.0,1.0,False
+cGMP biosynthetic process,0.0,1.0,False
+cellular response to follicle-stimulating hormone stimulus,0.0,1.0,False
+head development,0.0,1.0,False
+positive regulation of synaptic transmission,0.0,1.0,False
+positive regulation of tumor necrosis factor secretion,0.0,1.0,False
+import into nucleus,0.0,1.0,False
+pyroptosis,0.0,1.0,False
+"DNA-templated transcription, termination",0.0,1.0,False
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay,0.0,1.0,False
+primary miRNA processing,0.0,1.0,False
+cytoplasmic mRNA processing body assembly,0.0,1.0,False
+RNA transport,0.0,1.0,False
+RNA catabolic process,0.0,1.0,False
+positive regulation of telomere capping,0.0,1.0,False
+nuclear-transcribed mRNA catabolic process,0.0,1.0,False
+"regulation of mRNA splicing, via spliceosome",0.0,1.0,False
+regulation of behavior,0.0,1.0,False
+forelimb morphogenesis,0.0,1.0,False
+acrosome assembly,0.0,1.0,False
+"alternative mRNA splicing, via spliceosome",0.0,1.0,False
+cellular response to osmotic stress,0.0,1.0,False
+gamete generation,0.0,1.0,False
+eosinophil chemotaxis,0.0,1.0,False
+translational initiation,0.0,1.0,False
+nucleic acid phosphodiester bond hydrolysis,0.0,1.0,False
+inner ear receptor cell stereocilium organization,0.0,1.0,False
+negative regulation of inclusion body assembly,0.0,1.0,False
+histone H3-K9 demethylation,0.0,1.0,False
+response to exogenous dsRNA,0.0,1.0,False
+regulation of translational initiation,0.0,1.0,False
+spliceosomal complex assembly,0.0,1.0,False
+regulation of protein complex stability,0.0,1.0,False
+inner mitochondrial membrane organization,0.0,1.0,False
+positive regulation of gene silencing by miRNA,0.0,1.0,False
+histone deacetylation,0.0,1.0,False
+nuclear export,0.0,1.0,False
+positive regulation of transcription of nucleolar large rRNA by RNA polymerase I,0.0,1.0,False
+histone H4 deacetylation,0.0,1.0,False
+synaptic vesicle maturation,0.0,1.0,False
+negative regulation of receptor internalization,0.0,1.0,False
+cardiac muscle hypertrophy,0.0,1.0,False
+hepatocyte growth factor receptor signaling pathway,0.0,1.0,False
+establishment of planar polarity,0.0,1.0,False
+negative regulation of vascular endothelial growth factor receptor signaling pathway,0.0,1.0,False
+receptor localization to synapse,0.0,1.0,False
+GMP metabolic process,0.0,1.0,False
+cellular protein-containing complex localization,0.0,1.0,False
+peristalsis,0.0,1.0,False
+"mitochondrial electron transport, NADH to ubiquinone",0.0,1.0,False
+spermatid nucleus differentiation,0.0,1.0,False
+2-oxoglutarate metabolic process,0.0,1.0,False
+sleep,0.0,1.0,False
+telomere maintenance via telomerase,0.0,1.0,False
+retinal cone cell development,0.0,1.0,False
+regulation of exocytosis,0.0,1.0,False
+oogenesis,0.0,1.0,False
+positive regulation of stress-activated MAPK cascade,0.0,1.0,False
+regulation of cellular amino acid metabolic process,0.0,1.0,False
+nucleosome disassembly,0.0,1.0,False
+folic acid metabolic process,0.0,1.0,False
+tissue development,0.0,1.0,False
+sterol biosynthetic process,0.0,1.0,False
+T cell chemotaxis,0.0,1.0,False
+positive regulation of cell-cell adhesion mediated by cadherin,0.0,1.0,False
+positive regulation of double-strand break repair,0.0,1.0,False
+positive regulation of embryonic development,0.0,1.0,False
+sister chromatid cohesion,0.0,1.0,False
+activation of MAPKKK activity,0.0,1.0,False
+tongue development,0.0,1.0,False
+sequestering of actin monomers,0.0,1.0,False
+positive regulation of cell adhesion mediated by integrin,0.0,1.0,False
+histone deubiquitination,0.0,1.0,False
+protein peptidyl-prolyl isomerization,0.0,1.0,False
+glycoprotein biosynthetic process,0.0,1.0,False
+negative regulation of G2/M transition of mitotic cell cycle,0.0,1.0,False
+mesodermal cell differentiation,0.0,1.0,False
+Rab protein signal transduction,0.0,1.0,False
+morphogenesis of embryonic epithelium,0.0,1.0,False
+inhibitory synapse assembly,0.0,1.0,False
+microtubule polymerization,0.0,1.0,False
+UDP-N-acetylglucosamine biosynthetic process,0.0,1.0,False
+glutathione biosynthetic process,0.0,1.0,False
+positive regulation of endothelial cell chemotaxis,0.0,1.0,False
+positive regulation of vascular endothelial cell proliferation,0.0,1.0,False
+embryonic morphogenesis,0.0,1.0,False
+negative regulation of fibroblast growth factor receptor signaling pathway,0.0,1.0,False
+inositol phosphate biosynthetic process,0.0,1.0,False
+positive regulation of sprouting angiogenesis,0.0,1.0,False
+organ induction,0.0,1.0,False
+glycosaminoglycan catabolic process,0.0,1.0,False
+ubiquinone biosynthetic process,0.0,1.0,False
+"complement activation, lectin pathway",0.0,1.0,False
+protein O-linked mannosylation,0.0,1.0,False
+protein O-linked glycosylation,0.0,1.0,False
+fructose 6-phosphate metabolic process,0.0,1.0,False
+establishment of endothelial intestinal barrier,0.0,1.0,False
+protein heterotetramerization,0.0,1.0,False
+negative regulation of double-strand break repair via homologous recombination,0.0,1.0,False
+interleukin-2-mediated signaling pathway,0.0,1.0,False
+embryonic viscerocranium morphogenesis,0.0,1.0,False
+long-chain fatty-acyl-CoA biosynthetic process,0.0,1.0,False
+lysosome localization,0.0,1.0,False
+protein kinase A signaling,0.0,1.0,False
+O-glycan processing,0.0,1.0,False
+carbohydrate phosphorylation,0.0,1.0,False
+ganglioside biosynthetic process,0.0,1.0,False
+"synaptic transmission, GABAergic",0.0,1.0,False
+negative regulation of protein processing,0.0,1.0,False
+negative regulation of megakaryocyte differentiation,0.0,1.0,False
+activation of innate immune response,0.0,1.0,False
+positive regulation of TOR signaling,0.0,1.0,False
+cilium movement involved in cell motility,0.0,1.0,False
+pentose-phosphate shunt,0.0,1.0,False
+glucose 6-phosphate metabolic process,0.0,1.0,False
+urate metabolic process,0.0,1.0,False
+glycogen metabolic process,0.0,1.0,False
+positive regulation of cysteine-type endopeptidase activity,0.0,1.0,False
+N-glycan processing,0.0,1.0,False
+oligosaccharide biosynthetic process,0.0,1.0,False
+oligosaccharide metabolic process,0.0,1.0,False
+fucosylation,0.0,1.0,False
+regulation of protein kinase A signaling,0.0,1.0,False
+somite development,0.0,1.0,False
+cellular response to leucine starvation,0.0,1.0,False
+cellular response to leucine,0.0,1.0,False
+iron-sulfur cluster assembly,0.0,1.0,False
+glutamate metabolic process,0.0,1.0,False
+positive regulation of proteasomal protein catabolic process,0.0,1.0,False
+gene silencing by RNA,0.0,1.0,False
+glutamate receptor signaling pathway,0.0,1.0,False
+negative regulation of transcription regulatory region DNA binding,0.0,1.0,False
+positive regulation of actin filament bundle assembly,0.0,1.0,False
+mitochondrial transcription,0.0,1.0,False
+regulation of JNK cascade,0.0,1.0,False
+triglyceride biosynthetic process,0.0,1.0,False
+establishment of endothelial barrier,0.0,1.0,False
+negative regulation of endocytosis,0.0,1.0,False
+actin filament capping,0.0,1.0,False
+purine nucleotide catabolic process,0.0,1.0,False
+negative regulation of peptidyl-tyrosine phosphorylation,0.0,1.0,False
+regulation of MAPK cascade,0.0,1.0,False
+megakaryocyte development,0.0,1.0,False
+regulation of mitochondrion organization,0.0,1.0,False
+neurotransmitter transport,0.0,1.0,False
+positive regulation of ATP biosynthetic process,0.0,1.0,False
+negative regulation of protein autophosphorylation,0.0,1.0,False
+cell proliferation in forebrain,0.0,1.0,False
+dendritic spine maintenance,0.0,1.0,False
+"substrate-dependent cell migration, cell extension",0.0,1.0,False
+negative regulation of glucose import,0.0,1.0,False
+early endosome to late endosome transport,0.0,1.0,False
+Rap protein signal transduction,0.0,1.0,False
+mitotic nuclear envelope reassembly,0.0,1.0,False
+histone H3 deacetylation,0.0,1.0,False
+regulation of stem cell population maintenance,0.0,1.0,False
+formation of cytoplasmic translation initiation complex,0.0,1.0,False
+regulation of gene silencing by miRNA,0.0,1.0,False
+"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.0,1.0,False
+negative regulation of translational initiation,0.0,1.0,False
+mRNA export from nucleus,0.0,1.0,False
+RNA export from nucleus,0.0,1.0,False
+post-anal tail morphogenesis,0.0,1.0,False
+locomotor rhythm,0.0,1.0,False
+negative regulation of protein localization to nucleus,0.0,1.0,False
+protein insertion into membrane,0.0,1.0,False
+negative regulation of hydrogen peroxide-induced cell death,0.0,1.0,False
+leukotriene D4 biosynthetic process,0.0,1.0,False
+negative regulation of axon regeneration,0.0,1.0,False
+negative regulation of Ras protein signal transduction,0.0,1.0,False
+regulation of fatty acid biosynthetic process,0.0,1.0,False
+neutrophil activation,0.0,1.0,False
+positive regulation of stem cell proliferation,0.0,1.0,False
+glycerol metabolic process,0.0,1.0,False
+negative regulation of transcription elongation from RNA polymerase II promoter,0.0,1.0,False
+histone methylation,0.0,1.0,False
+N-acetylglucosamine metabolic process,0.0,1.0,False
+poly(A)+ mRNA export from nucleus,0.0,1.0,False
+heparan sulfate proteoglycan biosynthetic process,0.0,1.0,False
+glycosaminoglycan biosynthetic process,0.0,1.0,False
+embryo development ending in birth or egg hatching,0.0,1.0,False
+histone H3-K9 methylation,0.0,1.0,False
+startle response,0.0,1.0,False
+respiratory electron transport chain,0.0,1.0,False
+positive regulation of acrosome reaction,0.0,1.0,False
+protein palmitoylation,0.0,1.0,False
+protein localization to chromatin,0.0,1.0,False
+glutathione derivative biosynthetic process,0.0,1.0,False
+rRNA methylation,0.0,1.0,False
+Golgi ribbon formation,0.0,1.0,False
+activation of JNKK activity,0.0,1.0,False
+positive regulation of immunoglobulin secretion,0.0,1.0,False
+negative regulation of inflammatory response to antigenic stimulus,0.0,1.0,False
+positive regulation of calcineurin-NFAT signaling cascade,0.0,1.0,False
+positive regulation of ruffle assembly,0.0,1.0,False
+exit from mitosis,0.0,1.0,False
+ceramide metabolic process,0.0,1.0,False
+synaptic vesicle fusion to presynaptic active zone membrane,0.0,1.0,False
+phospholipid dephosphorylation,0.0,1.0,False
+G protein-coupled purinergic nucleotide receptor signaling pathway,0.0,1.0,False
+protein K63-linked ubiquitination,0.0,1.0,False
+positive regulation of viral release from host cell,0.0,1.0,False
+histone H2A monoubiquitination,0.0,1.0,False
+epithelial cell proliferation,0.0,1.0,False
+double-strand break repair via break-induced replication,0.0,1.0,False
+DNA strand elongation involved in DNA replication,0.0,1.0,False
+negative regulation of neuron migration,0.0,1.0,False
+nucleotide biosynthetic process,0.0,1.0,False
+supramolecular fiber organization,0.0,1.0,False
+notochord development,0.0,1.0,False
+heart morphogenesis,0.0,1.0,False
+extracellular matrix assembly,0.0,1.0,False
+collagen metabolic process,0.0,1.0,False
+regulation of metabolic process,0.0,1.0,False
+negative regulation of vascular associated smooth muscle cell migration,0.0,1.0,False
+rhodopsin mediated signaling pathway,0.0,1.0,False
+regulation of AMPA receptor activity,0.0,1.0,False
+transepithelial transport,0.0,1.0,False
+thyroid hormone transport,0.0,1.0,False
+ruffle organization,0.0,1.0,False
+dendritic cell chemotaxis,0.0,1.0,False
+regulation of mitotic spindle organization,0.0,1.0,False
+spliceosomal snRNP assembly,0.0,1.0,False
+neuron maturation,0.0,1.0,False
+signal peptide processing,0.0,1.0,False
+autophagosome maturation,0.0,1.0,False
+regulation of short-term neuronal synaptic plasticity,0.0,1.0,False
+vesicle transport along microtubule,0.0,1.0,False
+histone lysine methylation,0.0,1.0,False
+glycerophospholipid biosynthetic process,0.0,1.0,False
+"regulation of synaptic transmission, GABAergic",0.0,1.0,False
+regulation of fibroblast migration,0.0,1.0,False
+sulfur compound metabolic process,0.0,1.0,False
+negative regulation of gluconeogenesis,0.0,1.0,False
+detection of mechanical stimulus involved in sensory perception of sound,0.0,1.0,False
+regulation of cytokine secretion,0.0,1.0,False
+ribosomal small subunit assembly,0.0,1.0,False
+intra-S DNA damage checkpoint,0.0,1.0,False
+SRP-dependent cotranslational protein targeting to membrane,0.0,1.0,False
+viral transcription,0.0,1.0,False
+negative regulation of transcription by competitive promoter binding,0.0,1.0,False
+regulation of cell size,0.0,1.0,False
+long-chain fatty acid metabolic process,0.0,1.0,False
+regulation of microtubule polymerization or depolymerization,0.0,1.0,False
+response to dexamethasone,0.0,1.0,False
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules,0.0,1.0,False
+cardiac left ventricle morphogenesis,0.0,1.0,False
+somite rostral/caudal axis specification,0.0,1.0,False
+"nucleotide-excision repair, DNA gap filling",0.0,1.0,False
+cellular respiration,0.0,1.0,False
+phosphatidylcholine catabolic process,0.0,1.0,False
+mitochondrial fission,0.0,1.0,False
+mitochondrial respiratory chain supercomplex assembly,0.0,1.0,False
+"mitochondrial electron transport, cytochrome c to oxygen",0.0,1.0,False
+resolution of meiotic recombination intermediates,0.0,1.0,False
+intra-Golgi vesicle-mediated transport,0.0,1.0,False
+unsaturated fatty acid biosynthetic process,0.0,1.0,False
+estrogen metabolic process,0.0,1.0,False
+chondrocyte proliferation,0.0,1.0,False
+early endosome to Golgi transport,0.0,1.0,False
+multicellular organism aging,0.0,1.0,False
+cell adhesion mediated by integrin,0.0,1.0,False
+endothelial cell morphogenesis,0.0,1.0,False
+collagen catabolic process,0.0,1.0,False
+cellular lipid metabolic process,0.0,1.0,False
+glycoprotein catabolic process,0.0,1.0,False
+protein targeting,0.0,1.0,False
+cargo loading into vesicle,0.0,1.0,False
+protein quality control for misfolded or incompletely synthesized proteins,0.0,1.0,False
+positive regulation of mRNA catabolic process,0.0,1.0,False
+xenobiotic transport,0.0,1.0,False
+response to metal ion,0.0,1.0,False
+tetrahydrofolate interconversion,0.0,1.0,False
+regulation of mitotic spindle assembly,0.0,1.0,False
+spindle assembly,0.0,1.0,False
+female gamete generation,0.0,1.0,False
+peptide hormone processing,0.0,1.0,False
+regulation of signaling receptor activity,0.0,1.0,False
+thyroid hormone generation,0.0,1.0,False
+sperm capacitation,0.0,1.0,False
+vesicle docking involved in exocytosis,0.0,1.0,False
+positive regulation of microglial cell activation,0.0,1.0,False
+T cell mediated cytotoxicity,0.0,1.0,False
+negative regulation of autophagosome assembly,0.0,1.0,False
+negative regulation of transposition,0.0,1.0,False
+actin filament depolymerization,0.0,1.0,False
+establishment of cell polarity,0.0,1.0,False
+angiotensin maturation,0.0,1.0,False
+DNA biosynthetic process,0.0,1.0,False
+metaphase plate congression,0.0,1.0,False
+auditory receptor cell stereocilium organization,0.0,1.0,False
+DNA replication-dependent nucleosome assembly,0.0,1.0,False
+histone exchange,0.0,1.0,False
+presynaptic membrane assembly,0.0,1.0,False
+postsynaptic membrane assembly,0.0,1.0,False
+histone mRNA metabolic process,0.0,1.0,False
+"mRNA cis splicing, via spliceosome",0.0,1.0,False
+natural killer cell mediated cytotoxicity,0.0,1.0,False
+spindle organization,0.0,1.0,False
+DNA dealkylation involved in DNA repair,0.0,1.0,False
+regulation of double-strand break repair via homologous recombination,0.0,1.0,False
+defense response to fungus,0.0,1.0,False
+chaperone-mediated protein folding,0.0,1.0,False
+anterograde synaptic vesicle transport,0.0,1.0,False
+nuclear-transcribed mRNA poly(A) tail shortening,0.0,1.0,False
+single strand break repair,0.0,1.0,False
+phosphatidylinositol phosphorylation,0.0,1.0,False
+interleukin-7-mediated signaling pathway,0.0,1.0,False
+"positive regulation of mRNA splicing, via spliceosome",0.0,1.0,False
+microtubule-based process,0.0,1.0,False
+negative regulation of cytokine secretion,0.0,1.0,False
+histone H3-K4 methylation,0.0,1.0,False
+protein O-linked glycosylation via serine,0.0,1.0,False
+divalent metal ion transport,0.0,1.0,False
+I-kappaB phosphorylation,0.0,1.0,False
+regulation of synapse assembly,0.0,1.0,False
+response to cocaine,0.0,1.0,False
+posttranscriptional gene silencing by RNA,0.0,1.0,False
+regulation of dopamine metabolic process,0.0,1.0,False
+muscle fiber development,0.0,1.0,False
+regulation of neuron death,0.0,1.0,False
+regulation of dopamine secretion,0.0,1.0,False
+action potential,0.0,1.0,False
+neuron cellular homeostasis,0.0,1.0,False
+neuromuscular process,0.0,1.0,False
+nervous system process,0.0,1.0,False
+cation transport,0.0,1.0,False
+transmission of nerve impulse,0.0,1.0,False
+acetylcholine receptor signaling pathway,0.0,1.0,False
+G protein-coupled serotonin receptor signaling pathway,0.0,1.0,False
+activation of NF-kappaB-inducing kinase activity,0.0,1.0,False
+chromatin-mediated maintenance of transcription,0.0,1.0,False
+UV-damage excision repair,0.0,1.0,False
+basement membrane assembly,0.0,1.0,False
+intracellular transport of virus,0.0,1.0,False
+positive regulation of exosomal secretion,0.0,1.0,False
+exogenous drug catabolic process,0.0,1.0,False
+omega-hydroxylase P450 pathway,0.0,1.0,False
+vitamin D metabolic process,0.0,1.0,False
+epoxygenase P450 pathway,0.0,1.0,False
+steroid biosynthetic process,0.0,1.0,False
+regulation of cilium assembly,0.0,1.0,False
+protein K48-linked deubiquitination,0.0,1.0,False
+cell activation,0.0,1.0,False
+protein K63-linked deubiquitination,0.0,1.0,False
+negative regulation of type I interferon production,0.0,1.0,False
+"mitochondrial electron transport, ubiquinol to cytochrome c",0.0,1.0,False
+superoxide metabolic process,0.0,1.0,False
+positive regulation of ceramide biosynthetic process,0.0,1.0,False
+cell-cell junction organization,0.0,1.0,False
+synapse maturation,0.0,1.0,False
+positive regulation of neurogenesis,0.0,1.0,False
+positive regulation of B cell activation,0.0,1.0,False
+interleukin-6 production,0.0,1.0,False
+membrane protein proteolysis,0.0,1.0,False
+positive regulation of immune response,0.0,1.0,False
+cobalamin metabolic process,0.0,1.0,False
+CTP biosynthetic process,0.0,1.0,False
+positive regulation of granulocyte macrophage colony-stimulating factor production,0.0,1.0,False
+positive regulation of neuroinflammatory response,0.0,1.0,False
+regulation of postsynaptic membrane neurotransmitter receptor levels,0.0,1.0,False
+positive regulation of interleukin-17 production,0.0,1.0,False
+embryonic brain development,0.0,1.0,False
+negative regulation of oligodendrocyte differentiation,0.0,1.0,False
+oxidative demethylation,0.0,1.0,False
+negative regulation of epithelial cell migration,0.0,1.0,False
+sterol metabolic process,0.0,1.0,False
+organic acid metabolic process,0.0,1.0,False
+axoneme assembly,0.0,1.0,False
+cell development,0.0,1.0,False
+negative regulation of vascular endothelial growth factor signaling pathway,0.0,1.0,False
+netrin-activated signaling pathway,0.0,1.0,False
+neural precursor cell proliferation,0.0,1.0,False
+regulation of actin filament polymerization,0.0,1.0,False
+phosphatidylcholine acyl-chain remodeling,0.0,1.0,False
+vocalization behavior,0.0,1.0,False
+positive regulation of translational initiation,0.0,1.0,False
+regulation of protein ubiquitination,0.0,1.0,False
+response to ATP,0.0,1.0,False
+cellular protein catabolic process,0.0,1.0,False
+regulation of gluconeogenesis,0.0,1.0,False
+lipid phosphorylation,0.0,1.0,False
+glycerolipid metabolic process,0.0,1.0,False
+diacylglycerol metabolic process,0.0,1.0,False
+commissural neuron axon guidance,0.0,1.0,False
+skeletal muscle tissue regeneration,0.0,1.0,False
+microtubule anchoring,0.0,1.0,False
+regulation of epithelial to mesenchymal transition,0.0,1.0,False
+natural killer cell activation involved in immune response,0.0,1.0,False
+regulation of gastrulation,0.0,1.0,False
+positive regulation of peptidyl-serine phosphorylation of STAT protein,0.0,1.0,False
+negative regulation of astrocyte differentiation,0.0,1.0,False
+negative regulation of amyloid-beta clearance,0.0,1.0,False
+macrophage activation involved in immune response,0.0,1.0,False
+estrogen biosynthetic process,0.0,1.0,False
+hormone biosynthetic process,0.0,1.0,False
+sodium ion homeostasis,0.0,1.0,False
+negative regulation of cell adhesion mediated by integrin,0.0,1.0,False
+hair cycle,0.0,1.0,False
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,0.0,1.0,False
+inositol phosphate dephosphorylation,0.0,1.0,False
+growth hormone receptor signaling pathway,0.0,1.0,False
+animal organ development,0.0,1.0,False
+gene silencing by miRNA,0.0,1.0,False
+positive regulation of growth,0.0,1.0,False
+phosphatidylinositol metabolic process,0.0,1.0,False
+miRNA mediated inhibition of translation,0.0,1.0,False
+3'-UTR-mediated mRNA stabilization,0.0,1.0,False
+placenta blood vessel development,0.0,1.0,False
+detection of mechanical stimulus,0.0,1.0,False
+negative regulation of hippo signaling,0.0,1.0,False
+potassium ion export across plasma membrane,0.0,1.0,False
+lens fiber cell differentiation,0.0,1.0,False
+membrane repolarization during ventricular cardiac muscle cell action potential,0.0,1.0,False
+negative regulation of phosphoprotein phosphatase activity,0.0,1.0,False
+negative regulation of G protein-coupled receptor signaling pathway,0.0,1.0,False
+membrane depolarization during action potential,0.0,1.0,False
+negative regulation of circadian rhythm,0.0,1.0,False
+positive regulation of Ras protein signal transduction,0.0,1.0,False
+magnesium ion transport,0.0,1.0,False
+regulation of cell adhesion mediated by integrin,0.0,1.0,False
+regulation of signal transduction,0.0,1.0,False
+stabilization of membrane potential,0.0,1.0,False
+microtubule depolymerization,0.0,1.0,False
+regulated exocytosis,0.0,1.0,False
+cellular response to potassium ion,0.0,1.0,False
+long-term synaptic potentiation,0.0,1.0,False
+intraciliary transport involved in cilium assembly,0.0,1.0,False
+ion homeostasis,0.0,1.0,False
+glucocorticoid biosynthetic process,0.0,1.0,False
+JAK-STAT cascade involved in growth hormone signaling pathway,0.0,1.0,False
+negative regulation of osteoclast differentiation,0.0,1.0,False
+negative regulation of phagocytosis,0.0,1.0,False
+microtubule nucleation,0.0,1.0,False
+GTP biosynthetic process,0.0,1.0,False
+positive regulation of neuroblast proliferation,0.0,1.0,False
+glutathione metabolic process,0.0,1.0,False
+positive regulation of extrinsic apoptotic signaling pathway in absence of ligand,0.0,1.0,False
+epithelial cell-cell adhesion,0.0,1.0,False
+regulation of chondrocyte differentiation,0.0,1.0,False
+positive regulation of chromatin binding,0.0,1.0,False
+mitotic sister chromatid segregation,0.0,1.0,False
+synaptic vesicle docking,0.0,1.0,False
+oligosaccharide catabolic process,0.0,1.0,False
+regulation of protein secretion,0.0,1.0,False
+phosphatidylinositol dephosphorylation,0.0,1.0,False
+toll-like receptor 9 signaling pathway,0.0,1.0,False
+negative regulation of cardiac muscle cell apoptotic process,0.0,1.0,False
+pre-mRNA cleavage required for polyadenylation,0.0,1.0,False
+"tRNA splicing, via endonucleolytic cleavage and ligation",0.0,1.0,False
+mRNA 3'-end processing,0.0,1.0,False
+termination of RNA polymerase II transcription,0.0,1.0,False
+"RNA phosphodiester bond hydrolysis, exonucleolytic",0.0,1.0,False
+negative regulation of peptidase activity,0.0,1.0,False
+sulfate transmembrane transport,0.0,1.0,False
+phosphate ion transmembrane transport,0.0,1.0,False
+sulfate transport,0.0,1.0,False
+mitochondrial transport,0.0,1.0,False
+regulation of protein kinase activity,0.0,1.0,False
+positive regulation of protein targeting to mitochondrion,0.0,1.0,False
+negative regulation of ubiquitin-dependent protein catabolic process,0.0,1.0,False
+maturation of 5.8S rRNA,0.0,1.0,False
+macroautophagy,0.0,1.0,False
+maturation of LSU-rRNA,0.0,1.0,False
+centriole-centriole cohesion,0.0,1.0,False
+platelet degranulation,0.0,1.0,False
+type B pancreatic cell development,0.0,1.0,False
+prepulse inhibition,0.0,1.0,False
+positive regulation of apoptotic signaling pathway,0.0,1.0,False
+JNK cascade,0.0,1.0,False
+excretion,0.0,1.0,False
+positive regulation of guanylate cyclase activity,0.0,1.0,False
+positive regulation of chemokine production,0.0,1.0,False
+inhibitory postsynaptic potential,0.0,1.0,False
+intracellular protein transport,0.0,1.0,False
+"nucleotide-excision repair, DNA damage recognition",0.0,1.0,False
+"nucleotide-excision repair, DNA duplex unwinding",0.0,1.0,False
+"nucleotide-excision repair, preincision complex stabilization",0.0,1.0,False
+"nucleotide-excision repair, preincision complex assembly",0.0,1.0,False
+"nucleotide-excision repair, DNA incision, 3'-to lesion",0.0,1.0,False
+"nucleotide-excision repair, DNA incision, 5'-to lesion",0.0,1.0,False
+regulation of autophagosome assembly,0.0,1.0,False
+protein ADP-ribosylation,0.0,1.0,False
+regulation of calcium ion transport,0.0,1.0,False
+regulation of mitochondrial membrane potential,0.0,1.0,False
+"synaptic transmission, dopaminergic",0.0,1.0,False
+negative regulation of protein kinase activity,0.0,1.0,False
+protein kinase C-activating G protein-coupled receptor signaling pathway,0.0,1.0,False
+"synaptic transmission, cholinergic",0.0,1.0,False
+sensory perception,0.0,1.0,False
+"positive regulation of synaptic transmission, GABAergic",0.0,1.0,False
+membrane depolarization,0.0,1.0,False
+"synaptic transmission, glutamatergic",0.0,1.0,False
+positive regulation of renal sodium excretion,0.0,1.0,False
+vasodilation,0.0,1.0,False
+eating behavior,0.0,1.0,False
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process,0.0,1.0,False
+astrocyte activation,0.0,1.0,False
+neuron projection morphogenesis,0.0,1.0,False
+positive regulation of urine volume,0.0,1.0,False
+positive regulation of cardiac muscle hypertrophy,0.0,1.0,False
+protein autoprocessing,0.0,1.0,False
+signal transduction involved in regulation of gene expression,0.0,1.0,False
+smooth muscle contraction,0.0,1.0,False
+adult heart development,0.0,1.0,False
+negative regulation of autophagy,0.0,1.0,False
+calcium ion transport into cytosol,0.0,1.0,False
+cell growth involved in cardiac muscle cell development,0.0,1.0,False
+positive regulation of protein kinase C signaling,0.0,1.0,False
+regulation of cardiac muscle contraction,0.0,1.0,False
+positive regulation of cytokine production,0.0,1.0,False
+Rho protein signal transduction,0.0,1.0,False
+activation of protein kinase B activity,0.0,1.0,False
+cellular response to hormone stimulus,0.0,1.0,False
+negative regulation of insulin secretion,0.0,1.0,False
+regulation of insulin secretion,0.0,1.0,False
+negative regulation of calcium ion transport,0.0,1.0,False
+regulation of smooth muscle contraction,0.0,1.0,False
+positive regulation of vasoconstriction,0.0,1.0,False
+positive regulation of MAPK cascade,0.0,1.0,False
+phospholipase C-activating G protein-coupled receptor signaling pathway,0.0,1.0,False
+macrophage differentiation,0.0,1.0,False
+positive regulation of intracellular estrogen receptor signaling pathway,0.0,1.0,False
+"nucleotide-excision repair, DNA incision",0.0,1.0,False
+regulation of DNA methylation,0.0,1.0,False
+regulation of catalytic activity,0.0,1.0,False
+positive regulation of mitochondrial depolarization,0.0,1.0,False
+positive regulation of SMAD protein signal transduction,0.0,1.0,False
+protein poly-ADP-ribosylation,0.0,1.0,False
+protein auto-ADP-ribosylation,0.0,1.0,False
+global genome nucleotide-excision repair,0.0,1.0,False
+cellular response to zinc ion,0.0,1.0,False
+regulation of cellular protein localization,0.0,1.0,False
+cellular response to amyloid-beta,0.0,1.0,False
+positive regulation of double-strand break repair via homologous recombination,0.0,1.0,False
+cell death,0.0,1.0,False
+regulation of presynaptic cytosolic calcium ion concentration,0.0,1.0,False
+regulation of cardiac muscle cell contraction,0.0,1.0,False
+excitatory postsynaptic potential,0.0,1.0,False
+"negative regulation of synaptic transmission, glutamatergic",0.0,1.0,False
+regulation of cytosolic calcium ion concentration,0.0,1.0,False
+adenylate cyclase-activating adrenergic receptor signaling pathway,0.0,1.0,False
+neuropeptide signaling pathway,0.0,1.0,False
+regulation of G protein-coupled receptor signaling pathway,0.0,1.0,False
+sensory perception of pain,0.0,1.0,False
+neuron projection development,0.0,1.0,False
+protein homooligomerization,0.0,1.0,False
+regulation of protein localization,0.0,1.0,False
+positive regulation of GTPase activity,0.0,1.0,False
+positive regulation of cAMP-mediated signaling,0.0,1.0,False
+positive regulation of protein kinase activity,0.0,1.0,False
+ATP metabolic process,0.0,1.0,False
+"positive regulation of synaptic transmission, glutamatergic",0.0,1.0,False
+regulation of postsynaptic membrane potential,0.0,1.0,False
+negative regulation of GTPase activity,0.0,1.0,False
+protein complex oligomerization,0.0,1.0,False
+opioid receptor signaling pathway,0.0,1.0,False
+positive regulation of insulin secretion involved in cellular response to glucose stimulus,0.0,1.0,False
+cellular response to calcium ion,0.0,1.0,False
+cellular response to glucagon stimulus,0.0,1.0,False
+positive regulation of long-term synaptic potentiation,0.0,1.0,False
+cellular response to forskolin,0.0,1.0,False
+regulation of synaptic vesicle exocytosis,0.0,1.0,False
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,0.0,1.0,False
+sensory perception of smell,0.0,1.0,False
+flagellated sperm motility,0.0,1.0,False
+adenylate cyclase-activating dopamine receptor signaling pathway,0.0,1.0,False
+dopamine receptor signaling pathway,0.0,1.0,False
+negative regulation of neuron projection development,0.0,1.0,False
+cellular response to lithium ion,0.0,1.0,False
+cellular response to ethanol,0.0,1.0,False
+negative regulation of cytokine production involved in inflammatory response,0.0,1.0,False
+positive regulation of synaptic plasticity,0.0,1.0,False
+cellular response to glucocorticoid stimulus,0.0,1.0,False
+diet induced thermogenesis,0.0,1.0,False
+activation of phospholipase C activity,0.0,1.0,False
+cell volume homeostasis,0.0,1.0,False
+G protein-coupled receptor internalization,0.0,1.0,False
+regulation of systemic arterial blood pressure,0.0,1.0,False
+androgen metabolic process,0.0,1.0,False
+negative regulation of vascular permeability,0.0,1.0,False
+positive regulation of vasculogenesis,0.0,1.0,False
+activation of MAPKK activity,0.0,1.0,False
+regulation of the force of heart contraction,0.0,1.0,False
+negative regulation of systemic arterial blood pressure,0.0,1.0,False
+lipid catabolic process,0.0,1.0,False
+positive regulation of protein dephosphorylation,0.0,1.0,False
+positive regulation of epidermal growth factor-activated receptor activity,0.0,1.0,False
+negative regulation of hormone secretion,0.0,1.0,False
+detection of temperature stimulus involved in sensory perception of pain,0.0,1.0,False
+negative regulation of lipid catabolic process,0.0,1.0,False
+protein targeting to membrane,0.0,1.0,False
+vasculogenesis,0.0,1.0,False
+phosphorylation,0.0,1.0,False
+negative regulation of signaling receptor activity,0.0,1.0,False
+positive regulation of protein binding,0.0,1.0,False
+barbed-end actin filament capping,0.0,1.0,False
+leukocyte migration,0.0,1.0,False
+leukocyte tethering or rolling,0.0,1.0,False
+lipid storage,0.0,1.0,False
+ethanol oxidation,0.0,1.0,False
+drug metabolic process,0.0,1.0,False
+retinol metabolic process,0.0,1.0,False
+retinoic acid metabolic process,0.0,1.0,False
+respiratory system process,0.0,1.0,False
+electron transport chain,0.0,1.0,False
+positive regulation of blood pressure,0.0,1.0,False
+response to redox state,0.0,1.0,False
+ethanol catabolic process,0.0,1.0,False
+response to bacterium,0.0,1.0,False
+positive regulation of calcium ion transport into cytosol,0.0,1.0,False
+activation of protein kinase A activity,0.0,1.0,False
+negative regulation of multicellular organism growth,0.0,1.0,False
+regulation of sodium ion transport,0.0,1.0,False
+positive regulation of cytokine secretion,0.0,1.0,False
+negative regulation of cAMP-mediated signaling,0.0,1.0,False
+gonad development,0.0,1.0,False
+male sex determination,0.0,1.0,False
+adrenal gland development,0.0,1.0,False
+Leydig cell differentiation,0.0,1.0,False
+dopamine biosynthetic process,0.0,1.0,False
+one-carbon metabolic process,0.0,1.0,False
+negative regulation of bone mineralization,0.0,1.0,False
+negative regulation of kinase activity,0.0,1.0,False
+Rac protein signal transduction,0.0,1.0,False
+actin filament polymerization,0.0,1.0,False
+positive regulation of T cell proliferation,0.0,1.0,False
+response to axon injury,0.0,1.0,False
+methylation,0.0,1.0,False
+positive regulation of chemotaxis,0.0,1.0,False
+positive regulation of phosphoprotein phosphatase activity,0.0,1.0,False
+positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway,0.0,1.0,False
+positive regulation of cellular protein metabolic process,0.0,1.0,False
+positive regulation of superoxide anion generation,0.0,1.0,False
+low-density lipoprotein particle remodeling,0.0,1.0,False
+negative regulation of MAP kinase activity,0.0,1.0,False
+positive regulation of epidermal growth factor receptor signaling pathway,0.0,1.0,False
+positive regulation of insulin receptor signaling pathway,0.0,1.0,False
+negative regulation of heart rate,0.0,1.0,False
+regulation of long-term neuronal synaptic plasticity,0.0,1.0,False
+positive regulation of protein tyrosine kinase activity,0.0,1.0,False
+cellular response to mechanical stimulus,0.0,1.0,False
+regulation of cardiac conduction,0.0,1.0,False
+positive regulation of vascular smooth muscle cell proliferation,0.0,1.0,False
+positive regulation of vascular associated smooth muscle cell migration,0.0,1.0,False
+positive regulation of extrinsic apoptotic signaling pathway,0.0,1.0,False
+stress-activated MAPK cascade,0.0,1.0,False
+response to electrical stimulus,0.0,1.0,False
+positive regulation of monocyte chemotaxis,0.0,1.0,False
+positive regulation of chemokine secretion,0.0,1.0,False
+positive regulation of glucose metabolic process,0.0,1.0,False
+positive regulation of mitochondrial membrane potential,0.0,1.0,False
+negative regulation of macroautophagy,0.0,1.0,False
+protein ubiquitination,0.0,1.0,False
+cell projection organization,0.0,1.0,False
+protein catabolic process,0.0,1.0,False
+positive regulation of sodium ion transport,0.0,1.0,False
+hyaluronan metabolic process,0.0,1.0,False
+T cell costimulation,0.0,1.0,False
+regulation of myelination,0.0,1.0,False
+lipopolysaccharide-mediated signaling pathway,0.0,1.0,False
+response to food,0.0,1.0,False
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process,0.0,1.0,False
+positive regulation of peptidyl-serine phosphorylation,0.0,1.0,False
+regulation of cell migration,0.0,1.0,False
+positive regulation of fibroblast migration,0.0,1.0,False
+fibroblast migration,0.0,1.0,False
+response to heat,0.0,1.0,False
+ruffle assembly,0.0,1.0,False
+positive regulation of G1/S transition of mitotic cell cycle,0.0,1.0,False
+positive regulation of T cell migration,0.0,1.0,False
+purine nucleotide metabolic process,0.0,1.0,False
+nucleoside diphosphate phosphorylation,0.0,1.0,False
+nucleobase-containing small molecule interconversion,0.0,1.0,False
+nucleoside monophosphate phosphorylation,0.0,1.0,False
+regulation of oxidative phosphorylation,0.0,1.0,False
+GTP metabolic process,0.0,1.0,False
+maternal placenta development,0.0,1.0,False
+cell migration involved in sprouting angiogenesis,0.0,1.0,False
+regulation of glycogen biosynthetic process,0.0,1.0,False
+nitric oxide biosynthetic process,0.0,1.0,False
+apoptotic mitochondrial changes,0.0,1.0,False
+carbohydrate transport,0.0,1.0,False
+artery smooth muscle contraction,0.0,1.0,False
+positive regulation of macrophage derived foam cell differentiation,0.0,1.0,False
+nitric oxide mediated signal transduction,0.0,1.0,False
+cellular sodium ion homeostasis,0.0,1.0,False
+regulation of defense response to virus by virus,0.0,1.0,False
+"Wnt signaling pathway, planar cell polarity pathway",0.0,1.0,False
+clathrin-dependent endocytosis,0.0,1.0,False
+vesicle-mediated transport,0.0,1.0,False
+aorta development,0.0,1.0,False
+positive regulation of endocytosis,0.0,1.0,False
+positive regulation of receptor-mediated endocytosis,0.0,1.0,False
+clathrin coat assembly,0.0,1.0,False
+melanosome organization,0.0,1.0,False
+endosome to melanosome transport,0.0,1.0,False
+positive regulation of natural killer cell mediated cytotoxicity,0.0,1.0,False
+peptide metabolic process,0.0,1.0,False
+fusion of sperm to egg plasma membrane involved in single fertilization,0.0,1.0,False
+transport,0.0,1.0,False
+coronary vasculature development,0.0,1.0,False
+low-density lipoprotein particle clearance,0.0,1.0,False
+low-density lipoprotein particle receptor catabolic process,0.0,1.0,False
+antigen processing and presentation of exogenous peptide antigen via MHC class II,0.0,1.0,False
+receptor-mediated endocytosis,0.0,1.0,False
+activation of transmembrane receptor protein tyrosine kinase activity,0.0,1.0,False
+endosome to lysosome transport,0.0,1.0,False
+positive regulation of protein kinase A signaling,0.0,1.0,False
+positive regulation of protein ubiquitination,0.0,1.0,False
+"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",0.0,1.0,False
+G protein-coupled acetylcholine receptor signaling pathway,0.0,1.0,False
+peptidyl-serine phosphorylation,0.0,1.0,False
+viral genome replication,0.0,1.0,False
+viral entry into host cell,0.0,1.0,False
+purine nucleotide biosynthetic process,0.0,1.0,False
+aerobic respiration,0.0,1.0,False
+response to muscle activity,0.0,1.0,False
+cellular response to electrical stimulus,0.0,1.0,False
+Golgi to endosome transport,0.0,1.0,False
+progesterone metabolic process,0.0,1.0,False
+brown fat cell differentiation,0.0,1.0,False
+chondrocyte development,0.0,1.0,False
+proteoglycan biosynthetic process,0.0,1.0,False
+adult feeding behavior,0.0,1.0,False
+maternal process involved in female pregnancy,0.0,1.0,False
+negative regulation of cell-matrix adhesion,0.0,1.0,False
+morphogenesis of an epithelial sheet,0.0,1.0,False
+T cell mediated immunity,0.0,1.0,False
+keratinocyte differentiation,0.0,1.0,False
+feeding behavior,0.0,1.0,False
+aorta morphogenesis,0.0,1.0,False
+endothelial cell differentiation,0.0,1.0,False
+positive regulation of Notch signaling pathway,0.0,1.0,False
+Notch signaling involved in heart development,0.0,1.0,False
+negative regulation of stem cell differentiation,0.0,1.0,False
+regulation of cell growth,0.0,1.0,False
+regulation of heart rate,0.0,1.0,False
+myoblast differentiation,0.0,1.0,False
+glycogen catabolic process,0.0,1.0,False
+response to amyloid-beta,0.0,1.0,False
+positive regulation of p38MAPK cascade,0.0,1.0,False
+extracellular matrix organization,0.0,1.0,False
+keratan sulfate catabolic process,0.0,1.0,False
+microglial cell activation,0.0,1.0,False
+negative regulation of interleukin-10 production,0.0,1.0,False
+positive regulation of interleukin-1 beta production,0.0,1.0,False
+positive regulation of heterotypic cell-cell adhesion,0.0,1.0,False
+positive regulation of activated T cell proliferation,0.0,1.0,False
+positive regulation of tumor necrosis factor biosynthetic process,0.0,1.0,False
+positive regulation of JUN kinase activity,0.0,1.0,False
+transcytosis,0.0,1.0,False
+positive regulation of chemokine biosynthetic process,0.0,1.0,False
+positive regulation of JNK cascade,0.0,1.0,False
+induction of positive chemotaxis,0.0,1.0,False
+protein localization to membrane,0.0,1.0,False
+regulation of long-term synaptic potentiation,0.0,1.0,False
+keratan sulfate biosynthetic process,0.0,1.0,False
+positive regulation of CREB transcription factor activity,0.0,1.0,False
+cAMP-mediated signaling,0.0,1.0,False
+long-term memory,0.0,1.0,False
+positive regulation of phospholipase C activity,0.0,1.0,False
+positive regulation of neuron projection development,0.0,1.0,False
+negative regulation of Rho protein signal transduction,0.0,1.0,False
+carbohydrate metabolic process,0.0,1.0,False
+protein glycosylation,0.0,1.0,False
+lipid glycosylation,0.0,1.0,False
+cell adhesion,0.0,1.0,False
+small GTPase mediated signal transduction,0.0,1.0,False
+modulation of chemical synaptic transmission,0.0,1.0,False
+activation of GTPase activity,0.0,1.0,False
+very long-chain fatty acid metabolic process,0.0,1.0,False
+protein targeting to peroxisome,0.0,1.0,False
+bile acid metabolic process,0.0,1.0,False
+fatty acid beta-oxidation using acyl-CoA oxidase,0.0,1.0,False
+regulation of vascular permeability,0.0,1.0,False
+alpha-linolenic acid metabolic process,0.0,1.0,False
+cellular response to copper ion,0.0,1.0,False
+regulation of response to DNA damage stimulus,0.0,1.0,False
+spleen development,0.0,1.0,False
+positive regulation of muscle cell differentiation,0.0,1.0,False
+positive regulation of release of sequestered calcium ion into cytosol,0.0,1.0,False
+positive regulation of stress fiber assembly,0.0,1.0,False
+positive regulation of focal adhesion assembly,0.0,1.0,False
+positive regulation of ERK1 and ERK2 cascade,0.0,1.0,False
+oxidation-reduction process,0.0,1.0,False
+negative regulation of protein serine/threonine kinase activity,0.0,1.0,False
+positive regulation of substrate adhesion-dependent cell spreading,0.0,1.0,False
+negative regulation of long-term synaptic potentiation,0.0,1.0,False
+positive regulation of neuron death,0.0,1.0,False
+regulation of cell motility,0.0,1.0,False
+regulation of actin cytoskeleton reorganization,0.0,1.0,False
+positive regulation of actin cytoskeleton reorganization,0.0,1.0,False
+circulatory system development,0.0,1.0,False
+tissue homeostasis,0.0,1.0,False
+fatty acid biosynthetic process,0.0,1.0,False
+carnitine shuttle,0.0,1.0,False
+regulation of ion transmembrane transport,0.0,1.0,False
+protein localization to synapse,0.0,1.0,False
+sodium ion transmembrane transport,0.0,1.0,False
+regulation of membrane potential,0.0,1.0,False
+behavioral fear response,0.0,1.0,False
+response to amphetamine,0.0,1.0,False
+ion transmembrane transport,0.0,1.0,False
+sodium ion transport,0.0,1.0,False
+associative learning,0.0,1.0,False
+protein homotrimerization,0.0,1.0,False
+calcium ion transmembrane transport,0.0,1.0,False
+osteoblast development,0.0,1.0,False
+phosphatidylcholine biosynthetic process,0.0,1.0,False
+synapse assembly,0.0,1.0,False
+memory,0.0,1.0,False
+regulation of vasoconstriction,0.0,1.0,False
+response to acidic pH,0.0,1.0,False
+phototransduction,0.0,1.0,False
+fatty-acyl-CoA biosynthetic process,0.0,1.0,False
+protein homotetramerization,0.0,1.0,False
+positive regulation of lipid storage,0.0,1.0,False
+response to organic cyclic compound,0.0,1.0,False
+negative regulation of catalytic activity,0.0,1.0,False
+fatty acid beta-oxidation using acyl-CoA dehydrogenase,0.0,1.0,False
+negative regulation of fatty acid biosynthetic process,0.0,1.0,False
+regulation of cholesterol metabolic process,0.0,1.0,False
+branched-chain amino acid catabolic process,0.0,1.0,False
+IRE1-mediated unfolded protein response,0.0,1.0,False
+response to hormone,0.0,1.0,False
+coenzyme A biosynthetic process,0.0,1.0,False
+cholesterol biosynthetic process,0.0,1.0,False
+chemical synaptic transmission,0.0,1.0,False
+peripheral nervous system development,0.0,1.0,False
+protein autophosphorylation,0.0,1.0,False
+regulation of T cell differentiation,0.0,1.0,False
+establishment of protein localization,0.0,1.0,False
+signal transduction in response to DNA damage,0.0,1.0,False
+response to iron ion,0.0,1.0,False
+response to nicotine,0.0,1.0,False
+exploration behavior,0.0,1.0,False
+behavioral response to cocaine,0.0,1.0,False
+negative regulation of platelet aggregation,0.0,1.0,False
+protein lipidation,0.0,1.0,False
+locomotory behavior,0.0,1.0,False
+lipid transport,0.0,1.0,False
+lysosome organization,0.0,1.0,False
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,0.0,1.0,False
+positive regulation of cholesterol efflux,0.0,1.0,False
+endosomal transport,0.0,1.0,False
+intracellular cholesterol transport,0.0,1.0,False
+interleukin-1 beta production,0.0,1.0,False
+"phagocytosis, engulfment",0.0,1.0,False
+aminoacyl-tRNA metabolism involved in translational fidelity,0.0,1.0,False
+neuromuscular process controlling balance,0.0,1.0,False
+cerebellar Purkinje cell layer development,0.0,1.0,False
+"blood coagulation, intrinsic pathway",0.0,1.0,False
+negative regulation of endopeptidase activity,0.0,1.0,False
+extracellular matrix disassembly,0.0,1.0,False
+stem cell differentiation,0.0,1.0,False
+regulation of small GTPase mediated signal transduction,0.0,1.0,False
+maintenance of gastrointestinal epithelium,0.0,1.0,False
+response to light stimulus,0.0,1.0,False
+response to zinc ion,0.0,1.0,False
+response to copper ion,0.0,1.0,False
+response to corticosterone,0.0,1.0,False
+response to calcium ion,0.0,1.0,False
+cellular response to cAMP,0.0,1.0,False
+tRNA modification,0.0,1.0,False
+tRNA aminoacylation for protein translation,0.0,1.0,False
+tRNA processing,0.0,1.0,False
+cholesterol efflux,0.0,1.0,False
+receptor internalization,0.0,1.0,False
+phospholipid efflux,0.0,1.0,False
+reverse cholesterol transport,0.0,1.0,False
+response to oxidative stress,0.0,1.0,False
+epidermal growth factor receptor signaling pathway,0.0,1.0,False
+integrin-mediated signaling pathway,0.0,1.0,False
+peptidyl-tyrosine phosphorylation,0.0,1.0,False
+negative regulation of cell-cell adhesion,0.0,1.0,False
+actin cytoskeleton organization,0.0,1.0,False
+endocytosis,0.0,1.0,False
+regulation of endocytosis,0.0,1.0,False
+regulation of axon extension,0.0,1.0,False
+regulation of microtubule polymerization,0.0,1.0,False
+regulation of actin cytoskeleton organization,0.0,1.0,False
+substrate adhesion-dependent cell spreading,0.0,1.0,False
+peptidyl-tyrosine autophosphorylation,0.0,1.0,False
+Fc-gamma receptor signaling pathway involved in phagocytosis,0.0,1.0,False
+regulation of cell adhesion,0.0,1.0,False
+cellular protein modification process,0.0,1.0,False
+positive regulation of protein phosphorylation,0.0,1.0,False
+photoreceptor cell maintenance,0.0,1.0,False
+phospholipid translocation,0.0,1.0,False
+phospholipid homeostasis,0.0,1.0,False
+cellular response to cholesterol,0.0,1.0,False
+intermembrane lipid transfer,0.0,1.0,False
+export across plasma membrane,0.0,1.0,False
+regulation of cholesterol biosynthetic process,0.0,1.0,False
+sphingosine biosynthetic process,0.0,1.0,False
+response to steroid hormone,0.0,1.0,False
+transmembrane transport,0.0,1.0,False
+negative regulation of cholesterol efflux,0.0,1.0,False
+regulation of protein localization to cell surface,0.0,1.0,False
+response to glucocorticoid,0.0,1.0,False
+translation,0.0,1.0,False
+retinoid metabolic process,0.0,1.0,False
+visual perception,0.0,1.0,False
+high-density lipoprotein particle assembly,0.0,1.0,False
+neurotransmitter biosynthetic process,0.0,1.0,False
+amyloid precursor protein metabolic process,0.0,1.0,False
+positive regulation of protein secretion,0.0,1.0,False
+positive regulation of endothelial cell differentiation,0.0,1.0,False
+negative regulation of focal adhesion assembly,0.0,1.0,False
+cellular response to transforming growth factor beta stimulus,0.0,1.0,False
+negative regulation of DNA biosynthetic process,0.0,1.0,False
+cellular amino acid metabolic process,0.0,1.0,False
+phosphate-containing compound metabolic process,0.0,1.0,False
+"wound healing, spreading of epidermal cells",0.0,1.0,False
+trophectodermal cell differentiation,0.0,1.0,False
+positive regulation of heart rate,0.0,1.0,False
+positive regulation of T cell differentiation in thymus,0.0,1.0,False
+T cell activation,0.0,1.0,False
+purine-containing compound salvage,0.0,1.0,False
+positive regulation of smooth muscle contraction,0.0,1.0,False
+positive regulation of alpha-beta T cell differentiation,0.0,1.0,False
+purine ribonucleoside monophosphate biosynthetic process,0.0,1.0,False
+positive regulation of BMP signaling pathway,0.0,1.0,False
+negative regulation of cell migration,0.0,1.0,False
+negative regulation of cell adhesion,0.0,1.0,False
+negative regulation of signal transduction,0.0,1.0,False
+positive regulation of pathway-restricted SMAD protein phosphorylation,0.0,1.0,False
+peptidyl-threonine phosphorylation,0.0,1.0,False
+regulation of ossification,0.0,1.0,False
+positive regulation of bone mineralization,0.0,1.0,False
+activin receptor signaling pathway,0.0,1.0,False
+smooth muscle cell differentiation,0.0,1.0,False
+pathway-restricted SMAD protein phosphorylation,0.0,1.0,False
+extrinsic apoptotic signaling pathway,0.0,1.0,False
+embryonic skeletal system development,0.0,1.0,False
+regulation of nitric-oxide synthase activity,0.0,1.0,False
+lymphangiogenesis,0.0,1.0,False
+insulin secretion,0.0,1.0,False
+positive regulation of endothelial cell proliferation,0.0,1.0,False
+regulation of DNA replication,0.0,1.0,False
+lung alveolus development,0.0,1.0,False
+determination of left/right symmetry,0.0,1.0,False
+embryonic digestive tract development,0.0,1.0,False
+leukocyte migration involved in inflammatory response,0.0,1.0,False
+regulation of dendritic spine morphogenesis,0.0,1.0,False
+toxin transport,0.0,1.0,False
+RNA processing,0.0,1.0,False
+pre-miRNA processing,0.0,1.0,False
+response to interferon-alpha,0.0,1.0,False
+positive regulation of viral genome replication,0.0,1.0,False
+pore complex assembly,0.0,1.0,False
+negative regulation of type I interferon-mediated signaling pathway,0.0,1.0,False
+neuromuscular synaptic transmission,0.0,1.0,False
+neuromuscular process controlling posture,0.0,1.0,False
+innervation,0.0,1.0,False
+renal water homeostasis,0.0,1.0,False
+cAMP biosynthetic process,0.0,1.0,False
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,0.0,1.0,False
+cellular response to virus,0.0,1.0,False
+post-translational protein modification,0.0,1.0,False
+amyloid precursor protein catabolic process,0.0,1.0,False
+response to tumor necrosis factor,0.0,1.0,False
+positive regulation of acute inflammatory response,0.0,1.0,False
+positive regulation of protein processing,0.0,1.0,False
+regulation of cell-cell adhesion,0.0,1.0,False
+positive regulation of MAP kinase activity,0.0,1.0,False
+positive regulation of bone resorption,0.0,1.0,False
+positive regulation of cell adhesion,0.0,1.0,False
+lymphocyte chemotaxis,0.0,1.0,False
+positive regulation of membrane protein ectodomain proteolysis,0.0,1.0,False
+cell-cell adhesion,0.0,1.0,False
+membrane protein ectodomain proteolysis,0.0,1.0,False
+regulation of Notch signaling pathway,0.0,1.0,False
+positive regulation of T cell chemotaxis,0.0,1.0,False
+protein processing,0.0,1.0,False
+positive regulation of cell growth,0.0,1.0,False
+adherens junction organization,0.0,1.0,False
+positive regulation of calcium-mediated signaling,0.0,1.0,False
+cellular response to reactive oxygen species,0.0,1.0,False
+atrioventricular valve morphogenesis,0.0,1.0,False
+acute inflammatory response,0.0,1.0,False
+regulation of cyclin-dependent protein serine/threonine kinase activity,0.0,1.0,False
+establishment or maintenance of cell polarity,0.0,1.0,False
+axonogenesis,0.0,1.0,False
+substantia nigra development,0.0,1.0,False
+cell junction assembly,0.0,1.0,False
+adherens junction assembly,0.0,1.0,False
+muscle filament sliding,0.0,1.0,False
+maintenance of permeability of blood-brain barrier,0.0,1.0,False
+apical protein localization,0.0,1.0,False
+ephrin receptor signaling pathway,0.0,1.0,False
+synaptic vesicle endocytosis,0.0,1.0,False
+membrane organization,0.0,1.0,False
+platelet aggregation,0.0,1.0,False
+postsynaptic actin cytoskeleton organization,0.0,1.0,False
+ATP-dependent chromatin remodeling,0.0,1.0,False
+muscle contraction,0.0,1.0,False
+regulation of sensory perception of pain,0.0,1.0,False
+defense response to Gram-positive bacterium,0.0,1.0,False
+lipid biosynthetic process,0.0,1.0,False
+tricarboxylic acid cycle,0.0,1.0,False
+regulation of translation,0.0,1.0,False
+intestinal absorption,0.0,1.0,False
+activation of adenylate cyclase activity,0.0,1.0,False
+single fertilization,0.0,1.0,False
+binding of sperm to zona pellucida,0.0,1.0,False
+acrosome reaction,0.0,1.0,False
+prostaglandin metabolic process,0.0,1.0,False
+peptidyl-tyrosine dephosphorylation,0.0,1.0,False
+dephosphorylation,0.0,1.0,False
+negative regulation of interleukin-1 beta production,0.0,1.0,False
+negative regulation of interleukin-12 production,0.0,1.0,False
+negative regulation of nitric oxide biosynthetic process,0.0,1.0,False
+bone resorption,0.0,1.0,False
+regulation of protein localization to plasma membrane,0.0,1.0,False
+outflow tract septum morphogenesis,0.0,1.0,False
+actin filament organization,0.0,1.0,False
+actomyosin structure organization,0.0,1.0,False
+histone H2A acetylation,0.0,1.0,False
+platelet formation,0.0,1.0,False
+focal adhesion assembly,0.0,1.0,False
+actin filament network formation,0.0,1.0,False
+actin crosslink formation,0.0,1.0,False
+protein localization to plasma membrane,0.0,1.0,False
+regulation of growth,0.0,1.0,False
+negative regulation of protein localization to cell surface,0.0,1.0,False
+response to denervation involved in regulation of muscle adaptation,0.0,1.0,False
+negative regulation of calcineurin-NFAT signaling cascade,0.0,1.0,False
+branching involved in blood vessel morphogenesis,0.0,1.0,False
+gastrulation with mouth forming second,0.0,1.0,False
+mesoderm formation,0.0,1.0,False
+neural crest cell migration,0.0,1.0,False
+regulation of NMDA receptor activity,0.0,1.0,False
+neural retina development,0.0,1.0,False
+blastocyst formation,0.0,1.0,False
+positive regulation of nucleic acid-templated transcription,0.0,1.0,False
+cardiac myofibril assembly,0.0,1.0,False
+cardiac muscle tissue morphogenesis,0.0,1.0,False
+heart contraction,0.0,1.0,False
+cardiac muscle contraction,0.0,1.0,False
+positive regulation of cell migration,0.0,1.0,False
+sarcomere organization,0.0,1.0,False
+regulation of stress fiber assembly,0.0,1.0,False
+regulation of focal adhesion assembly,0.0,1.0,False
+positive regulation of wound healing,0.0,1.0,False
+protein transport,0.0,1.0,False
+vesicle transport along actin filament,0.0,1.0,False
+actin filament bundle assembly,0.0,1.0,False
+bicellular tight junction assembly,0.0,1.0,False
+negative regulation of substrate adhesion-dependent cell spreading,0.0,1.0,False
+regulation of nucleic acid-templated transcription,0.0,1.0,False
+actin filament-based movement,0.0,1.0,False
+dorsal/ventral neural tube patterning,0.0,1.0,False
+regulation of mRNA stability,0.0,1.0,False
+positive regulation of glycogen biosynthetic process,0.0,1.0,False
+membrane repolarization,0.0,1.0,False
+cell communication by electrical coupling involved in cardiac conduction,0.0,1.0,False
+proton transmembrane transport,0.0,1.0,False
+potassium ion import across plasma membrane,0.0,1.0,False
+neurotransmitter uptake,0.0,1.0,False
+response to auditory stimulus,0.0,1.0,False
+cardiac muscle cell action potential involved in contraction,0.0,1.0,False
+negative regulation of cytosolic calcium ion concentration,0.0,1.0,False
+membrane depolarization during cardiac muscle cell action potential,0.0,1.0,False
+cation transmembrane transport,0.0,1.0,False
+regulation of pH,0.0,1.0,False
+ion transport,0.0,1.0,False
+regulation of sodium ion transmembrane transporter activity,0.0,1.0,False
+calcium ion transport,0.0,1.0,False
+"regulation of synaptic transmission, glutamatergic",0.0,1.0,False
+positive regulation of mitochondrial calcium ion concentration,0.0,1.0,False
+relaxation of cardiac muscle,0.0,1.0,False
+cellular potassium ion homeostasis,0.0,1.0,False
+negative regulation of B cell proliferation,0.0,1.0,False
+positive regulation of telomere maintenance via telomerase,0.0,1.0,False
+V(D)J recombination,0.0,1.0,False
+phosphatidylinositol-3-phosphate biosynthetic process,0.0,1.0,False
+"positive regulation of DNA damage response, signal transduction by p53 class mediator",0.0,1.0,False
+oocyte development,0.0,1.0,False
+sodium ion export across plasma membrane,0.0,1.0,False
+histone mRNA catabolic process,0.0,1.0,False
+cellular response to X-ray,0.0,1.0,False
+regulation of cellular response to heat,0.0,1.0,False
+negative regulation of TORC1 signaling,0.0,1.0,False
+dendrite morphogenesis,0.0,1.0,False
+copper ion transport,0.0,1.0,False
+establishment or maintenance of transmembrane electrochemical gradient,0.0,1.0,False
+peptidyl-lysine trimethylation,0.0,1.0,False
+calcium ion import,0.0,1.0,False
+skeletal muscle contraction,0.0,1.0,False
+organelle organization,0.0,1.0,False
+positive regulation of exocytosis,0.0,1.0,False
+detoxification of copper ion,0.0,1.0,False
+positive regulation of lamellipodium assembly,0.0,1.0,False
+cerebellar Purkinje cell differentiation,0.0,1.0,False
+hair follicle morphogenesis,0.0,1.0,False
+cellular response to platelet-derived growth factor stimulus,0.0,1.0,False
+vacuolar acidification,0.0,1.0,False
+dopamine metabolic process,0.0,1.0,False
+cartilage development,0.0,1.0,False
+cellular zinc ion homeostasis,0.0,1.0,False
+interstrand cross-link repair,0.0,1.0,False
+nucleosome assembly,0.0,1.0,False
+DNA replication-independent nucleosome assembly,0.0,1.0,False
+replication fork processing,0.0,1.0,False
+elastic fiber assembly,0.0,1.0,False
+potassium ion homeostasis,0.0,1.0,False
+calcium ion homeostasis,0.0,1.0,False
+chloride ion homeostasis,0.0,1.0,False
+endoplasmic reticulum calcium ion homeostasis,0.0,1.0,False
+negative regulation of cytokine production,0.0,1.0,False
+cellular response to vitamin D,0.0,1.0,False
+regulation of postsynaptic cytosolic calcium ion concentration,0.0,1.0,False
+negative regulation of nitric-oxide synthase activity,0.0,1.0,False
+cellular response to epinephrine stimulus,0.0,1.0,False
+calcium ion import across plasma membrane,0.0,1.0,False
+ATP synthesis coupled proton transport,0.0,1.0,False
+cristae formation,0.0,1.0,False
+mitochondrial ATP synthesis coupled proton transport,0.0,1.0,False
+lysine catabolic process,0.0,1.0,False
+regulation of intracellular pH,0.0,1.0,False
+oxidative phosphorylation,0.0,1.0,False
+regulation of macroautophagy,0.0,1.0,False
+phagosome acidification,0.0,1.0,False
+histone phosphorylation,0.0,1.0,False
+male meiotic nuclear division,0.0,1.0,False
+reciprocal meiotic recombination,0.0,1.0,False
+double-strand break repair via nonhomologous end joining,0.0,1.0,False
+enteric nervous system development,0.0,1.0,False
+dopaminergic neuron differentiation,0.0,1.0,False
+centrosome cycle,0.0,1.0,False
+positive regulation of microtubule polymerization,0.0,1.0,False
+maintenance of protein location in nucleus,0.0,1.0,False
+post-Golgi vesicle-mediated transport,0.0,1.0,False
+midbrain development,0.0,1.0,False
+Golgi to plasma membrane transport,0.0,1.0,False
+cilium assembly,0.0,1.0,False
+positive regulation of vascular endothelial growth factor receptor signaling pathway,0.0,1.0,False
+positive regulation of protein sumoylation,0.0,1.0,False
+regulation of transcription from RNA polymerase II promoter in response to hypoxia,0.0,1.0,False
+negative regulation of TOR signaling,0.0,1.0,False
+regulation of protein catabolic process,0.0,1.0,False
+intraciliary transport,0.0,1.0,False
+"retrograde transport, endosome to Golgi",0.0,1.0,False
+protein localization to Golgi apparatus,0.0,1.0,False
+blastocyst hatching,0.0,1.0,False
+positive regulation of axonogenesis,0.0,1.0,False
+regulation of dendrite development,0.0,1.0,False
+regulation of microtubule cytoskeleton organization,0.0,1.0,False
+cellular response to cytokine stimulus,0.0,1.0,False
+positive regulation of podosome assembly,0.0,1.0,False
+negative regulation of cell migration involved in sprouting angiogenesis,0.0,1.0,False
+positive regulation of protein complex assembly,0.0,1.0,False
+cell projection assembly,0.0,1.0,False
+engulfment of apoptotic cell,0.0,1.0,False
+regulation of ruffle assembly,0.0,1.0,False
+transferrin transport,0.0,1.0,False
+negative regulation of axon extension,0.0,1.0,False
+negative regulation of stress fiber assembly,0.0,1.0,False
+regulation of Rho protein signal transduction,0.0,1.0,False
+semaphorin-plexin signaling pathway,0.0,1.0,False
+regulation of neurogenesis,0.0,1.0,False
+positive regulation of telomere maintenance,0.0,1.0,False
+positive regulation of protein acetylation,0.0,1.0,False
+adult walking behavior,0.0,1.0,False
+glutamine metabolic process,0.0,1.0,False
+cellular amino acid biosynthetic process,0.0,1.0,False
+central nervous system myelination,0.0,1.0,False
+limb morphogenesis,0.0,1.0,False
+positive regulation of proteolysis,0.0,1.0,False
+activation of cysteine-type endopeptidase activity,0.0,1.0,False
+melanin biosynthetic process,0.0,1.0,False
+midgut development,0.0,1.0,False
+neuron cell-cell adhesion,0.0,1.0,False
+cellular protein-containing complex assembly,0.0,1.0,False
+nucleoside metabolic process,0.0,1.0,False
+cellular response to interleukin-7,0.0,1.0,False
+DNA double-strand break processing,0.0,1.0,False
+immunoglobulin production,0.0,1.0,False
+cellular response to amino acid stimulus,0.0,1.0,False
+melanosome transport,0.0,1.0,False
+protein N-linked glycosylation via asparagine,0.0,1.0,False
+positive regulation of neural precursor cell proliferation,0.0,1.0,False
+negative regulation of toll-like receptor signaling pathway,0.0,1.0,False
+negative regulation of natural killer cell mediated cytotoxicity,0.0,1.0,False
+regulation of androgen receptor signaling pathway,0.0,1.0,False
+positive regulation of cardiac muscle cell differentiation,0.0,1.0,False
+glycosphingolipid metabolic process,0.0,1.0,False
+lysosomal transport,0.0,1.0,False
+chondroitin sulfate catabolic process,0.0,1.0,False
+cell-cell junction assembly,0.0,1.0,False
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules,0.0,1.0,False
+neuroblast proliferation,0.0,1.0,False
+spinal cord association neuron differentiation,0.0,1.0,False
+cerebral cortex development,0.0,1.0,False
+neurogenesis,0.0,1.0,False
+positive regulation of cell cycle,0.0,1.0,False
+neuron fate specification,0.0,1.0,False
+positive regulation of histone acetylation,0.0,1.0,False
+negative regulation of axonogenesis,0.0,1.0,False
+Sertoli cell development,0.0,1.0,False
+microtubule-based movement,0.0,1.0,False
+detection of visible light,0.0,1.0,False
+cellular response to light stimulus,0.0,1.0,False
+mitochondrial respiratory chain complex I assembly,0.0,1.0,False
+mitochondrial respiratory chain complex IV assembly,0.0,1.0,False
+mitochondrial respiratory chain complex III assembly,0.0,1.0,False
+positive regulation of leukocyte migration,0.0,1.0,False
+sodium ion import across plasma membrane,0.0,1.0,False
+nerve development,0.0,1.0,False
+neurotrophin TRK receptor signaling pathway,0.0,1.0,False
+axon extension,0.0,1.0,False
+inner ear development,0.0,1.0,False
+dendrite extension,0.0,1.0,False
+complement activation,0.0,1.0,False
+"complement activation, alternative pathway",0.0,1.0,False
+nerve growth factor signaling pathway,0.0,1.0,False
+regulation of complement activation,0.0,1.0,False
+regulation of transforming growth factor beta receptor signaling pathway,0.0,1.0,False
+negative regulation of JAK-STAT cascade,0.0,1.0,False
+negative regulation of osteoblast proliferation,0.0,1.0,False
+B cell proliferation,0.0,1.0,False
+T cell homeostasis,0.0,1.0,False
+reactive oxygen species metabolic process,0.0,1.0,False
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator,0.0,1.0,False
+negative regulation of anoikis,0.0,1.0,False
+regulation of GTPase activity,0.0,1.0,False
+negative regulation of intrinsic apoptotic signaling pathway,0.0,1.0,False
+negative regulation of execution phase of apoptosis,0.0,1.0,False
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage,0.0,1.0,False
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,0.0,1.0,False
+negative regulation of protein localization to plasma membrane,0.0,1.0,False
+cellular response to estradiol stimulus,0.0,1.0,False
+negative regulation of tumor necrosis factor biosynthetic process,0.0,1.0,False
+mitotic cell cycle checkpoint,0.0,1.0,False
+intermediate filament organization,0.0,1.0,False
+regulation of bone resorption,0.0,1.0,False
+regulation of osteoclast differentiation,0.0,1.0,False
+leukocyte chemotaxis,0.0,1.0,False
+B cell activation,0.0,1.0,False
+lymph node development,0.0,1.0,False
+chromatin silencing,0.0,1.0,False
+"negative regulation of gene expression, epigenetic",0.0,1.0,False
+positive regulation of ubiquitin-protein transferase activity,0.0,1.0,False
+chemotaxis,0.0,1.0,False
+positive regulation of cartilage development,0.0,1.0,False
+cardiac muscle cell differentiation,0.0,1.0,False
+cardiac epithelial to mesenchymal transition,0.0,1.0,False
+secondary heart field specification,0.0,1.0,False
+membranous septum morphogenesis,0.0,1.0,False
+epithelial to mesenchymal transition involved in endocardial cushion formation,0.0,1.0,False
+cardiac septum development,0.0,1.0,False
+positive regulation of ossification,0.0,1.0,False
+t-circle formation,0.0,1.0,False
+negative regulation of DNA recombination,0.0,1.0,False
+mitotic G2 DNA damage checkpoint,0.0,1.0,False
+bone development,0.0,1.0,False
+chondroitin sulfate biosynthetic process,0.0,1.0,False
+dermatan sulfate biosynthetic process,0.0,1.0,False
+homophilic cell adhesion via plasma membrane adhesion molecules,0.0,1.0,False
+regulation of phosphatidylinositol 3-kinase signaling,0.0,1.0,False
+bile acid and bile salt transport,0.0,1.0,False
+regulation of epidermal growth factor receptor signaling pathway,0.0,1.0,False
+negative regulation of T cell receptor signaling pathway,0.0,1.0,False
+regulation of ERK1 and ERK2 cascade,0.0,1.0,False
+cell-cell adhesion via plasma-membrane adhesion molecules,0.0,1.0,False
+protein methylation,0.0,1.0,False
+stress granule assembly,0.0,1.0,False
+eye photoreceptor cell development,0.0,1.0,False
+regulation of mast cell degranulation,0.0,1.0,False
+DNA unwinding involved in DNA replication,0.0,1.0,False
+axon regeneration,0.0,1.0,False
+melanocyte differentiation,0.0,1.0,False
+negative regulation of ossification,0.0,1.0,False
+positive regulation of smooth muscle cell migration,0.0,1.0,False
+calcium-mediated signaling using intracellular calcium source,0.0,1.0,False
+positive regulation of MHC class II biosynthetic process,0.0,1.0,False
+macrophage chemotaxis,0.0,1.0,False
+antigen processing and presentation of peptide antigen via MHC class I,0.0,1.0,False
+"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.0,1.0,False
+positive regulation of T cell cytokine production,0.0,1.0,False
+positive regulation of T cell mediated cytotoxicity,0.0,1.0,False
+protein refolding,0.0,1.0,False
+iron ion homeostasis,0.0,1.0,False
+acyl-CoA metabolic process,0.0,1.0,False
+bile acid biosynthetic process,0.0,1.0,False
+type B pancreatic cell proliferation,0.0,1.0,False
+positive regulation of B cell differentiation,0.0,1.0,False
+regulation of mitochondrial membrane permeability,0.0,1.0,False
+negative regulation of neurogenesis,0.0,1.0,False
+detection of chemical stimulus involved in sensory perception of bitter taste,0.0,1.0,False
+dendritic cell differentiation,0.0,1.0,False
+vagina development,0.0,1.0,False
+anterograde axonal transport,0.0,1.0,False
+cytoskeleton-dependent intracellular transport,0.0,1.0,False
+"retrograde protein transport, ER to cytosol",0.0,1.0,False
+lipid droplet organization,0.0,1.0,False
+ER-associated misfolded protein catabolic process,0.0,1.0,False
+lipid droplet formation,0.0,1.0,False
+response to testosterone,0.0,1.0,False
+social behavior,0.0,1.0,False
+vasoconstriction,0.0,1.0,False
+maternal behavior,0.0,1.0,False
+protein kinase C signaling,0.0,1.0,False
+telencephalon development,0.0,1.0,False
+interferon-gamma production,0.0,1.0,False
+positive regulation of cytokine-mediated signaling pathway,0.0,1.0,False
+secretion by cell,0.0,1.0,False
+chaperone cofactor-dependent protein refolding,0.0,1.0,False
+cellular response to hydroxyurea,0.0,1.0,False
+"phagocytosis, recognition",0.0,1.0,False
+myoblast fusion,0.0,1.0,False
+negative regulation of actin filament polymerization,0.0,1.0,False
+regulation of cytokinesis,0.0,1.0,False
+microtubule anchoring at centrosome,0.0,1.0,False
+photoreceptor cell outer segment organization,0.0,1.0,False
+positive regulation of cilium assembly,0.0,1.0,False
+retinal rod cell development,0.0,1.0,False
+ventricular system development,0.0,1.0,False
+protein localization to centrosome,0.0,1.0,False
+response to magnesium ion,0.0,1.0,False
+mitotic cell cycle phase transition,0.0,1.0,False
+metanephros development,0.0,1.0,False
+regulation of cell-matrix adhesion,0.0,1.0,False
+protein dephosphorylation,0.0,1.0,False
+intrinsic apoptotic signaling pathway in response to oxidative stress,0.0,1.0,False
+negative regulation of epithelial cell differentiation,0.0,1.0,False
+spermatid development,0.0,1.0,False
+heart looping,0.0,1.0,False
+microtubule cytoskeleton organization,0.0,1.0,False
+regulation of dendrite morphogenesis,0.0,1.0,False
+B cell homeostasis,0.0,1.0,False
+mitochondrial fusion,0.0,1.0,False
+cellular response to unfolded protein,0.0,1.0,False
+positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,0.0,1.0,False
+negative regulation of chondrocyte differentiation,0.0,1.0,False
+intestinal epithelial cell development,0.0,1.0,False
+regulation of phosphorylation,0.0,1.0,False
+negative regulation of mitochondrial membrane potential,0.0,1.0,False
+mitochondrion morphogenesis,0.0,1.0,False
+response to stimulus,0.0,1.0,False
+non-motile cilium assembly,0.0,1.0,False
+sperm axoneme assembly,0.0,1.0,False
+striatum development,0.0,1.0,False
+positive regulation of multicellular organism growth,0.0,1.0,False
+positive regulation of reactive oxygen species biosynthetic process,0.0,1.0,False
+phosphatidylinositol-mediated signaling,0.0,1.0,False
+establishment of epithelial cell apical/basal polarity,0.0,1.0,False
+"wound healing, spreading of cells",0.0,1.0,False
+female gonad development,0.0,1.0,False
+nucleus organization,0.0,1.0,False
+cytoskeleton organization,0.0,1.0,False
+positive regulation of astrocyte differentiation,0.0,1.0,False
+regulation of heart rate by cardiac conduction,0.0,1.0,False
+negative regulation of potassium ion transmembrane transport,0.0,1.0,False
+endoplasmic reticulum mannose trimming,0.0,1.0,False
+negative regulation of amyloid-beta formation,0.0,1.0,False
+cell communication,0.0,1.0,False
+negative regulation of translation,0.0,1.0,False
+positive regulation of phosphorylation,0.0,1.0,False
+homeostatic process,0.0,1.0,False
+RNA phosphodiester bond hydrolysis,0.0,1.0,False
+positive regulation of receptor internalization,0.0,1.0,False
+oocyte maturation,0.0,1.0,False
+protein localization to cell surface,0.0,1.0,False
+protein K48-linked ubiquitination,0.0,1.0,False
+ubiquitin-dependent ERAD pathway,0.0,1.0,False
+phospholipid metabolic process,0.0,1.0,False
+negative regulation of growth,0.0,1.0,False
+phosphatidic acid biosynthetic process,0.0,1.0,False
+digestion,0.0,1.0,False
+response to vitamin D,0.0,1.0,False
+pattern specification process,0.0,1.0,False
+protein autoubiquitination,0.0,1.0,False
+biomineral tissue development,0.0,1.0,False
+negative regulation of immune response,0.0,1.0,False
+epithelial to mesenchymal transition,0.0,1.0,False
+positive regulation of collagen biosynthetic process,0.0,1.0,False
+protein polyubiquitination,0.0,1.0,False
+protein folding,0.0,1.0,False
+ubiquitin-dependent protein catabolic process,0.0,1.0,False
+protein-chromophore linkage,0.0,1.0,False
+negative regulation of protein import into nucleus,0.0,1.0,False
+regulation of I-kappaB kinase/NF-kappaB signaling,0.0,1.0,False
+regulation of protein binding,0.0,1.0,False
+mitochondrial genome maintenance,0.0,1.0,False
+ATP transport,0.0,1.0,False
+negative regulation of necroptotic process,0.0,1.0,False
+protein targeting to mitochondrion,0.0,1.0,False
+monocyte chemotaxis,0.0,1.0,False
+peptide cross-linking,0.0,1.0,False
+peptide catabolic process,0.0,1.0,False
+actin cytoskeleton reorganization,0.0,1.0,False
+negative regulation of interleukin-8 production,0.0,1.0,False
+arachidonic acid secretion,0.0,1.0,False
+negative regulation of protein secretion,0.0,1.0,False
+positive regulation of receptor recycling,0.0,1.0,False
+vesicle budding from membrane,0.0,1.0,False
+interleukin-12-mediated signaling pathway,0.0,1.0,False
+DNA duplex unwinding,0.0,1.0,False
+negative regulation of delayed rectifier potassium channel activity,0.0,1.0,False
+Golgi to plasma membrane protein transport,0.0,1.0,False
+neuronal action potential,0.0,1.0,False
+positive chemotaxis,0.0,1.0,False
+response to radiation,0.0,1.0,False
+negative regulation of cell-substrate adhesion,0.0,1.0,False
+exocytosis,0.0,1.0,False
+ER to Golgi vesicle-mediated transport,0.0,1.0,False
+maintenance of epithelial cell apical/basal polarity,0.0,1.0,False
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion,0.0,1.0,False
+protein localization to organelle,0.0,1.0,False
+cellular protein localization,0.0,1.0,False
+regulation of release of sequestered calcium ion into cytosol,0.0,1.0,False
+positive regulation of calcium ion transport,0.0,1.0,False
+regulation of ventricular cardiac muscle cell membrane repolarization,0.0,1.0,False
+ventricular cardiac muscle cell action potential,0.0,1.0,False
+plasma membrane organization,0.0,1.0,False
+neuromuscular junction development,0.0,1.0,False
+apoptotic cell clearance,0.0,1.0,False
+positive regulation of actin filament polymerization,0.0,1.0,False
+positive regulation of cell-substrate adhesion,0.0,1.0,False
+phosphatidylethanolamine biosynthetic process,0.0,1.0,False
+response to ionizing radiation,0.0,1.0,False
+response to selenium ion,0.0,1.0,False
+response to arsenic-containing substance,0.0,1.0,False
+response to cadmium ion,0.0,1.0,False
+negative regulation of proteasomal protein catabolic process,0.0,1.0,False
+erythrocyte development,0.0,1.0,False
+heme biosynthetic process,0.0,1.0,False
+high-density lipoprotein particle remodeling,0.0,1.0,False
+cellular oxidant detoxification,0.0,1.0,False
+adaptive immune response,0.0,1.0,False
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules,0.0,1.0,False
+motor neuron axon guidance,0.0,1.0,False
+retinal ganglion cell axon guidance,0.0,1.0,False
+peroxisome organization,0.0,1.0,False
+negative regulation of programmed cell death,0.0,1.0,False
+positive regulation of protein targeting to membrane,0.0,1.0,False
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand,0.0,1.0,False
+positive regulation of protein localization to cell surface,0.0,1.0,False
+positive regulation of cyclin-dependent protein serine/threonine kinase activity,0.0,1.0,False
+negative regulation of cell size,0.0,1.0,False
+negative regulation of JNK cascade,0.0,1.0,False
+positive regulation of organ growth,0.0,1.0,False
+insulin-like growth factor receptor signaling pathway,0.0,1.0,False
+striated muscle cell differentiation,0.0,1.0,False
+response to growth hormone,0.0,1.0,False
+mammary gland epithelial cell differentiation,0.0,1.0,False
+labyrinthine layer blood vessel development,0.0,1.0,False
+cellular response to cadmium ion,0.0,1.0,False
+negative regulation of release of cytochrome c from mitochondria,0.0,1.0,False
+execution phase of apoptosis,0.0,1.0,False
+cellular response to oxidised low-density lipoprotein particle stimulus,0.0,1.0,False
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,0.0,1.0,False
+positive regulation of protein localization to plasma membrane,0.0,1.0,False
+linoleic acid metabolic process,0.0,1.0,False
+fibrinolysis,0.0,1.0,False
+negative regulation of reactive oxygen species biosynthetic process,0.0,1.0,False
+embryonic camera-type eye development,0.0,1.0,False
+positive regulation of kinase activity,0.0,1.0,False
+positive regulation of dendrite development,0.0,1.0,False
+arachidonic acid metabolic process,0.0,1.0,False
+lipoxygenase pathway,0.0,1.0,False
+superoxide anion generation,0.0,1.0,False
+long-chain fatty acid biosynthetic process,0.0,1.0,False
+adult behavior,0.0,1.0,False
+establishment of skin barrier,0.0,1.0,False
+leukotriene biosynthetic process,0.0,1.0,False
+negative regulation of wound healing,0.0,1.0,False
+regulation of cytokine production involved in inflammatory response,0.0,1.0,False
+positive regulation of catalytic activity,0.0,1.0,False
+sphingolipid metabolic process,0.0,1.0,False
+ceramide biosynthetic process,0.0,1.0,False
+leukotriene metabolic process,0.0,1.0,False
+hippocampus development,0.0,1.0,False
+transmembrane receptor protein tyrosine kinase signaling pathway,0.0,1.0,False
+metanephric collecting duct development,0.0,1.0,False
+retinal metabolic process,0.0,1.0,False
+embryonic eye morphogenesis,0.0,1.0,False
+face development,0.0,1.0,False
+sphingolipid biosynthetic process,0.0,1.0,False
+hormone metabolic process,0.0,1.0,False
+fructose metabolic process,0.0,1.0,False
+glycolytic process,0.0,1.0,False
+ATP biosynthetic process,0.0,1.0,False
+striated muscle contraction,0.0,1.0,False
+regulation of cell shape,0.0,1.0,False
+muscle cell cellular homeostasis,0.0,1.0,False
+canonical glycolysis,0.0,1.0,False
+positive regulation of ATPase activity,0.0,1.0,False
+C21-steroid hormone biosynthetic process,0.0,1.0,False
+positive regulation of JAK-STAT cascade,0.0,1.0,False
+neuron projection maintenance,0.0,1.0,False
+plasma membrane repair,0.0,1.0,False
+regulation of muscle contraction,0.0,1.0,False
+mitochondrial calcium ion homeostasis,0.0,1.0,False
+potassium ion transport,0.0,1.0,False
+bicarbonate transport,0.0,1.0,False
+cellular homeostasis,0.0,1.0,False
+lateral ventricle development,0.0,1.0,False
+potassium ion transmembrane transport,0.0,1.0,False
+response to retinoic acid,0.0,1.0,False
+positive regulation of endothelial cell apoptotic process,0.0,1.0,False
+intracellular estrogen receptor signaling pathway,0.0,1.0,False
+positive regulation of insulin-like growth factor receptor signaling pathway,0.0,1.0,False
+positive regulation of cell differentiation,0.0,1.0,False
+positive regulation of transcription by RNA polymerase III,0.0,1.0,False
+mammary gland alveolus development,0.0,1.0,False
+cellular response to steroid hormone stimulus,0.0,1.0,False
+cellular response to estrogen stimulus,0.0,1.0,False
+androgen receptor signaling pathway,0.0,1.0,False
+extrinsic apoptotic signaling pathway via death domain receptors,0.0,1.0,False
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors,0.0,1.0,False
+extrinsic apoptotic signaling pathway in absence of ligand,0.0,1.0,False
+positive regulation of peptidase activity,0.0,1.0,False
+positive regulation of G2/M transition of mitotic cell cycle,0.0,1.0,False
+neuron remodeling,0.0,1.0,False
+dendrite development,0.0,1.0,False
+ionotropic glutamate receptor signaling pathway,0.0,1.0,False
+regulation of multicellular organism growth,0.0,1.0,False
+regulation of peptidyl-tyrosine phosphorylation,0.0,1.0,False
+regulation of synapse structure or activity,0.0,1.0,False
+synapse organization,0.0,1.0,False
+regulation of presynapse assembly,0.0,1.0,False
+amyloid fibril formation,0.0,1.0,False
+lactation,0.0,1.0,False
+grooming behavior,0.0,1.0,False
+zymogen activation,0.0,1.0,False
+regulation of stress-activated MAPK cascade,0.0,1.0,False
+seminiferous tubule development,0.0,1.0,False
+positive regulation of peptidyl-threonine phosphorylation,0.0,1.0,False
+regulation of TOR signaling,0.0,1.0,False
+"retrograde vesicle-mediated transport, Golgi to ER",0.0,1.0,False
+establishment of epithelial cell polarity,0.0,1.0,False
+hepatocyte apoptotic process,0.0,1.0,False
+urea cycle,0.0,1.0,False
+response to amine,0.0,1.0,False
+negative regulation of T cell proliferation,0.0,1.0,False
+negative regulation of activated T cell proliferation,0.0,1.0,False
+regulation of dendritic spine development,0.0,1.0,False
+negative regulation of tumor necrosis factor secretion,0.0,1.0,False
+cell-matrix adhesion,0.0,1.0,False
+skeletal muscle tissue development,0.0,1.0,False
+cortical cytoskeleton organization,0.0,1.0,False
+cytoplasmic microtubule organization,0.0,1.0,False
+positive regulation of cytokinesis,0.0,1.0,False
+stress fiber assembly,0.0,1.0,False
+positive regulation of cellular senescence,0.0,1.0,False
+positive regulation of keratinocyte migration,0.0,1.0,False
+regulation of filopodium assembly,0.0,1.0,False
+protein localization to endosome,0.0,1.0,False
+pigmentation,0.0,1.0,False
+positive regulation of keratinocyte proliferation,0.0,1.0,False
+negative regulation of epidermal growth factor receptor signaling pathway,0.0,1.0,False
+COPII vesicle coating,0.0,1.0,False
+phosphatidylinositol biosynthetic process,0.0,1.0,False
+positive regulation of calcium ion-dependent exocytosis,0.0,1.0,False
+long-term synaptic depression,0.0,1.0,False
+establishment or maintenance of epithelial cell apical/basal polarity,0.0,1.0,False
+dendritic spine development,0.0,1.0,False
+protein localization to cilium,0.0,1.0,False
+regulation of postsynapse organization,0.0,1.0,False
+protein secretion,0.0,1.0,False
+cortical actin cytoskeleton organization,0.0,1.0,False
+endocytic recycling,0.0,1.0,False
+regulation of Rac protein signal transduction,0.0,1.0,False
+regulation of proteasomal ubiquitin-dependent protein catabolic process,0.0,1.0,False
+protein kinase B signaling,0.0,1.0,False
+response to lead ion,0.0,1.0,False
+cellular copper ion homeostasis,0.0,1.0,False
+"RNA phosphodiester bond hydrolysis, endonucleolytic",0.0,1.0,False
+negative regulation of nucleic acid-templated transcription,0.0,1.0,False
+MyD88-independent toll-like receptor signaling pathway,0.0,1.0,False
+regulation of tumor necrosis factor-mediated signaling pathway,0.0,1.0,False
+regulation of innate immune response,0.0,1.0,False
+regulation of BMP signaling pathway,0.0,1.0,False
+DNA demethylation,0.0,1.0,False
+cell division,0.0,1.0,False
+negative regulation of tumor necrosis factor-mediated signaling pathway,0.0,1.0,False
+cholesterol transport,0.0,1.0,False
+negative regulation of heterotypic cell-cell adhesion,0.0,1.0,False
+chylomicron assembly,0.0,1.0,False
+high-density lipoprotein particle clearance,0.0,1.0,False
+positive regulation of Rho protein signal transduction,0.0,1.0,False
+endothelial cell proliferation,0.0,1.0,False
+cellular response to peptide hormone stimulus,0.0,1.0,False
+base-excision repair,0.0,1.0,False
+amyloid-beta metabolic process,0.0,1.0,False
+membrane fusion,0.0,1.0,False
+nucleobase-containing compound metabolic process,0.0,1.0,False
+neurotransmitter secretion,0.0,1.0,False
+glutamate secretion,0.0,1.0,False
+positive regulation of DNA repair,0.0,1.0,False
+cell fate specification,0.0,1.0,False
+negative regulation of microtubule depolymerization,0.0,1.0,False
+mitotic spindle assembly checkpoint,0.0,1.0,False
+positive regulation of cell death,0.0,1.0,False
+positive regulation of pseudopodium assembly,0.0,1.0,False
+beta-catenin destruction complex disassembly,0.0,1.0,False
+"complement activation, classical pathway",0.0,1.0,False
+negative regulation of viral entry into host cell,0.0,1.0,False
+chaperone-mediated protein complex assembly,0.0,1.0,False
+negative thymic T cell selection,0.0,1.0,False
+blood vessel endothelial cell migration,0.0,1.0,False
+learning,0.0,1.0,False
+phosphatidylcholine metabolic process,0.0,1.0,False
+positive regulation of lipoprotein lipase activity,0.0,1.0,False
+cholesterol catabolic process,0.0,1.0,False
+virion assembly,0.0,1.0,False
+negative regulation of blood coagulation,0.0,1.0,False
+locomotory exploration behavior,0.0,1.0,False
+regulation of protein complex assembly,0.0,1.0,False
+intracellular transport,0.0,1.0,False
+response to dietary excess,0.0,1.0,False
+regulation of neuronal synaptic plasticity,0.0,1.0,False
+regulation of proteasomal protein catabolic process,0.0,1.0,False
+positive regulation of blood coagulation,0.0,1.0,False
+plasminogen activation,0.0,1.0,False
+negative regulation of fibrinolysis,0.0,1.0,False
+suckling behavior,0.0,1.0,False
+mRNA polyadenylation,0.0,1.0,False
+positive regulation of dendritic spine development,0.0,1.0,False
+tissue regeneration,0.0,1.0,False
+response to reactive oxygen species,0.0,1.0,False
+negative regulation of low-density lipoprotein particle clearance,0.0,1.0,False
+negative regulation of cell adhesion molecule production,0.0,1.0,False
+triglyceride metabolic process,0.0,1.0,False
+phospholipid catabolic process,0.0,1.0,False
+leukocyte cell-cell adhesion,0.0,1.0,False
+removal of superoxide radicals,0.0,1.0,False
+hydrogen peroxide catabolic process,0.0,1.0,False
+toll-like receptor signaling pathway,0.0,1.0,False
+fertilization,0.0,1.0,False
+triglyceride catabolic process,0.0,1.0,False
+very-low-density lipoprotein particle assembly,0.0,1.0,False
+response to osmotic stress,0.0,1.0,False
+cytidine deamination,0.0,1.0,False
+cytidine to uridine editing,0.0,1.0,False
+DNA cytosine deamination,0.0,1.0,False
+water transport,0.0,1.0,False
+negative chemotaxis,0.0,1.0,False
+peptidyl-lysine monomethylation,0.0,1.0,False
